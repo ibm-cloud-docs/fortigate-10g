@@ -1,0 +1,24 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="fortigate-10g" audience="direct-link" href="/docs/infrastructure/fortigate-10g/getting-started.html"}
+Fortigate Security Appliance (EAP)
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    overview-features.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    ordering-firewall.md
+    viewing-firewalls.md
+    managing-firewall-device-details.md
+    managing-vlans.md
+    cancelling-firewall.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    fortiguard-addons.md
+    external-docs.md
+    getting-help.md
+    {: .navgroup-end}
