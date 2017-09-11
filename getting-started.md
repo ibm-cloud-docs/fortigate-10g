@@ -23,4 +23,4 @@ As the demand for high-speed, in-cloud networks for enterprise grows, so does th
 
 With the exception of IBM, no other cloud service provider currently offers hardware firewalls for robust perimeter security in the cloud. FortiGate Security Appliance 10Gbps allows our customers to grow their workload and networks in IBM Cloud.
 
-**NOTE:** The FortiGate Security Appliance (FSA) 10Gbps is currently in Early Access Program. To request to join the program, follow the instructions in the <a href="https://www.ibm.com/cloud-computing/bluemix/network-security">Cloud Network Security </a> website.
+**NOTE:** The FortiGate Security Appliance (FSA) 10Gbps is currently in Early Access Program. To request to join the program, please send an email to fsa10gbps@us.ibm.com with your Account ID information or follow the instructions in the <a href="https://www.ibm.com/cloud-computing/bluemix/network-security">Cloud Network Security </a> website.
