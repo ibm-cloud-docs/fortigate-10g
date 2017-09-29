@@ -5,12 +5,11 @@
 Fortigate Security Appliance (EAP)
 
     {: .navgroup id="learn"}
-    getting-started.md
-    overview-features.md
+    ordering-firewall.md
+    about.md
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    ordering-firewall.md
     viewing-firewalls.md
     managing-firewall-device-details.md
     managing-vlans.md
