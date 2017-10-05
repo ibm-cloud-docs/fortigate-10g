@@ -5,7 +5,7 @@
 Fortigate Security Appliance (EAP)
 
     {: .navgroup id="learn"}
-    ordering-firewall.md
+    getting-started.md
     about.md
     {: .navgroup-end}
 
