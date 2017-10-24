@@ -14,13 +14,26 @@ lastupdated: "2017-08-21"
 {:tip: .tip}
 {:download: .download}
 
-# Getting Started
-The FortiGate Security Appliance (FSA) 10Gbps is a single tenant (dedicated), high throughput (10Gbps) hardware firewall with next generation features, such as AntiVirus (AV), Intrusion Prevention (IPS) and web filtering.
+# Getting started
 
-This firewall can be configured to protect traffic on multiple VLANs for both public and private networks. In the Customer Portal it is referred to as a “Multi VLAN Firewall”.
+<i>Note: The FortiGate Security Appliance (FSA) 10Gbps is currenty in Early Access Program. To request to join the program, follow the instructions in the <a href="https://www.ibm.com/cloud-computing/bluemix/network-security">Cloud Network Security </a> website. Once your account has been enabled, follow these instructions on how to order.</i>
 
-As the demand for high-speed, in-cloud networks for enterprise grows, so does the customer need for securing workload and network. Big data, SAN, compute intensive servers, and highly scalable applications are pushing the bandwidth and network speed requirements for workloads in the cloud. IBM recognizes that security solutions must evolve with the new demands in order to offer efficient protection. IBM’s new high-end high-throughput firewall offering is perfect for large businesses and enterprises who need a reliable, powerful, consolidated way to manage and control high-speed network traffic in the cloud.
+First, navigate to the order page in the customer portal:
 
-With the exception of IBM, no other cloud service provider currently offers hardware firewalls for robust perimeter security in the cloud. FortiGate Security Appliance 10Gbps allows our customers to grow their workload and networks in IBM Cloud.
+**NOTE:** In the customer portal the FSA 10Gbps is referred to as the Multi VLAN Firewall.
 
-**NOTE:** The FortiGate Security Appliance (FSA) 10Gbps is currently in Early Access Program. To request to join the program, please send an email to fsa10gbps@us.ibm.com with your Account ID information or follow the instructions in the <a href="https://www.ibm.com/cloud-computing/bluemix/network-security">Cloud Network Security </a> website.
+1. From your browser, open [https://control.softlayer.com/](https://control.softlayer.com/) and log into your account.
+2. In the Customer Portal navigation, select **Security > Network Security  > Firewalls**.
+3. From the **Firewalls** page, select the **Order Multi VLAN Firewall** link in the top right corner. This link opens the Multi VLAN Firewall order page.
+
+If your account does not currently have any Multi VLAN Firewalls associated with it, a message displays with a link to the order page.
+
+From the Multi VLAN Firewall order page, you can order your FSA 10Gbps firewall:
+
+1. Give the firewall a name.
+2. Select the desired Datacenter and Pod from the dropdown menus. Availability is limited to select locations.
+3. Choose the desired VLANs Configuration.
+4. Choose to have a single FSA or enable failover protection with the High Availability option.
+5. Choose from the list of Add-ons or bundle all of them together for a discounted price. The Order Summary box displays the updated information for your current order. 
+6. Select the **Master Service Agreement** checkbox once you review your order. 
+7. Submit your order by clicking **Place Order**.
