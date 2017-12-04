@@ -17,6 +17,6 @@ lastupdated: "2017-08-21"
 # FortiGuard Firewall Addons
 The following FortiGuard addons are available for the FortiGate Security Appliance 10Gbps:
 
-* [Fortiguard AV Services](https://www.fortinet.com/products/security-subscriptions/antivirus.html)
-* [Fortiguard NGFW Service](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html)
-* [Fortiguard Web Filtering Service](https://www.fortinet.com/products/security-subscriptions/web-filtering.html)
+* [Fortiguard AV Services ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}
+* [Fortiguard NGFW Service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html){: new_window}
+* [Fortiguard Web Filtering Service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.fortinet.com/products/security-subscriptions/web-filtering.html){: new_window}
