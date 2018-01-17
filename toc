@@ -18,8 +18,9 @@ Fortigate Security Appliance 10Gbps
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
+    faqs.md
     fortiguard-addons.md
-    [Fortinet website](https://www.fortinet.com/) 
+    [Fortinet website](https://www.fortinet.com/)
     {: .navgroup-end}
     
     {: .navgroup id="help"}
