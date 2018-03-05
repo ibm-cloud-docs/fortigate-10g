@@ -1,0 +1,30 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="fortigate-10g" audience="direct-link" href="/docs/infrastructure/fortigate-10g/getting-started.html"}
+Fortigate Security Appliance 10Gbps
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    about.md
+    explore-firewalls.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    ordering-firewall.md
+    managing-vlans.md
+    viewing-firewalls.md
+    managing-firewall-device-details.md
+    cancelling-firewall.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    [IBM Cloud - IP-Bereiche](https://console.bluemix.net/docs/infrastructure/hardware-firewall-dedicated/ips.html)
+    fortiguard-addons.md
+    [Fortinet-Website](https://www.fortinet.com/)
+    {: .navgroup-end}
+    
+    {: .navgroup id="help"}
+    faqs.md
+    getting-help.md
+    {: .navgroup-end}
