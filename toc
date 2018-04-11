@@ -19,7 +19,7 @@ Fortigate Security Appliance 10Gbps
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-    [IBM Cloud IP Ranges](https://console.bluemix.net/docs/infrastructure/hardware-firewall-dedicated/ips.html)
+    [IBM Cloud IP Ranges](../hardware-firewall-dedicated/ips.html)
     fortiguard-addons.md
     [Fortinet website](https://www.fortinet.com/)
     {: .navgroup-end}
