@@ -27,7 +27,7 @@ With the exception of IBM, no other cloud service provider currently offers hard
 
 Features of the Fortigate Security Appliance 10Gbps include:
 
-* High throughput (up to 10 Gbps)
+* High throughput (up to 10 Gbps, 20 Gbps Aggregated)
 * Public and private network connectivity
 * Ability to associate multiple VLANs to a single firewall device
 * [NGFW](fortiguard-addons.html) add-ons (Intrusion Prevention/Application Control)
