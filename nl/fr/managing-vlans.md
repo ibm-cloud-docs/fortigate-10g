@@ -20,13 +20,13 @@ Pour gérer les réseaux locaux virtuels associés à votre pare-feu, cliquez su
 
 ## Association d'un réseau local virtuel à un pare-feu
 
-Cliquez sur l'option pour **ajouter un réseau local virtuel** et sélectionnez un réseau local virtuel dans la liste déroulante. Ensuite,
-cliquez sur **Sauvegarder** et confirmez votre sélection. Cette association ne fait pas passer le réseau local virtuel par le pare-feu.
+Cliquez sur l'option pour **ajouter un réseau local virtuel** et sélectionnez un réseau local virtuel dans la liste déroulante. Ensuite, cliquez sur **Sauvegarder** et confirmez votre sélection.
+Cette association ne fait pas passer le réseau local virtuel par le pare-feu.
 
 ## Dissociation d'un réseau local virtuel d'un pare-feu
 
 Pour sélectionner le ou les réseaux locaux virtuels souhaités, cochez ou décochez les cases correspondantes. Ensuite, cliquez sur **Dissocier** et confirmez votre sélection.
-Si le réseau local virtuel passe par le pare-feu, cette action entraîne l'évitement du pare-feu avant la dissociation. 
+Si le réseau local virtuel passe par le pare-feu, cette action entraîne l'évitement du pare-feu avant la dissociation.
 
 ## Routage d'un réseau local virtuel autour d'un pare-feu
 

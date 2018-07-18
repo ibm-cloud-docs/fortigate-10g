@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017
-lastupdated: "2017-08-21"
+  years: 2017,2018
+lastupdated: "2018-02-28"
 
 ---
 
@@ -18,10 +18,10 @@ lastupdated: "2017-08-21"
 
 Wenn bei der Verwendung von Fortigate Security Appliance 10Gbps Probleme oder Fragen auftreten, können Sie Unterstützung erhalten, indem Sie die Suchfunktion verwenden oder indem Sie Fragen in den nachfolgend aufgeführten Foren veröffentlichen. Sie können auch ein Support-Ticket öffnen.
 
-Wenn Sie Fragen in den Foren stellen, versehen Sie Ihre Frage mit Tags, damit die Bluemix-Entwicklerteams darauf aufmerksam werden.
+Wenn Sie Fragen in den Foren stellen, versehen Sie Ihre Frage mit Tags, damit die IBM Cloud-Entwicklerteams darauf aufmerksam werden.
 
-* Bei technischen Fragen zu Fortigate Security Appliance 10Gbps veröffentlichen Sie die Frage in [Stack Overflow](https://stackoverflow.com/search?q=fsa-10g+ibm-bluemix) und versehen Sie sie mit den Tags "ibm-bluemix" und "fsa-10g".
-* Bei Fragen zum Service und zu den einführenden Anweisungen verwenden Sie das [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=bluemix)-Forum. Geben Sie die Tags "fsa-10g" und "bluemix" an.
+* Bei technischen Fragen zu Fortigate Security Appliance 10Gbps veröffentlichen Sie die Frage in [Stack Overflow](https://stackoverflow.com/search?q=fsa-10g+ibm-cloud) und versehen Sie sie mit den Tags "ibm-cloud" und "fsa-10g".
+* Bei Fragen zum Service und zu den einführenden Anweisungen verwenden Sie das [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=ibm-cloud)-Forum. Geben Sie die Tags "fsa-10g" und "ibm-cloud" an.
 
 In [Hilfe anfordern](https://console.bluemix.net/docs/support/index.html#getting-help) finden Sie weitere Details zur Verwendung der Foren.
 

@@ -16,8 +16,7 @@ lastupdated: "2017-08-21"
 
 # Annulation de votre pare-feu
 
-Un dispositif de sécurité FortiGate 10 Gbits/s peut être annulé immédiatement ou à la date anniversaire. L'annulation à
-la date anniversaire laisse le pare-feu actif jusqu'au début de la période de facturation suivante. Procédez comme suit pour annuler un pare-feu :
+Un dispositif de sécurité FortiGate 10 Gbit/s peut être annulé immédiatement ou à la date anniversaire. L'annulation à la date anniversaire laisse le pare-feu actif jusqu'au début de la période de facturation suivante. Procédez comme suit pour annuler un pare-feu :
 
 1. Accédez à la page de présentation de l'unité. Pour ce faire, sélectionnez le nom du pare-feu sous la colonne de **nom de pare-feu**.
 2. Cliquez sur le menu déroulant dynamique et sélectionnez **Annuler unité**.

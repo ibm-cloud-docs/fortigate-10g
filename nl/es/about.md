@@ -14,12 +14,12 @@ lastupdated: "2017-08-21"
 {:tip: .tip}
 {:download: .download}
 
-# Acerca de 
+# Acerca de
 El dispositivo de seguridad FortiGate (FSA) de 10Gbps es un cortafuegos de hardware de alto rendimiento (10Gbps) y de arrendatario único (dedicado) con características de próxima generación, como AntiVirus (AV), prevención de intrusiones de cortafuegos (IPS) y control de aplicaciones de próxima generación, y filtrado web.
 
-Este cortafuegos puede configurarse para proteger el tráfico en múltiples VLAN, tanto para redes públicas como privadas. En el Portal del cliente se denomina “Cortafuegos de varias VLAN”.
+Este cortafuegos puede configurarse para proteger el tráfico en múltiples VLAN, tanto para redes públicas como privadas. En el Portal de clientes se denomina “Cortafuegos de varias VLAN”.
 
-El auge de la demanda de redes de alta velocidad en la nube por parte de las empresas ha acentuado la necesidad de los clientes por proteger la carga de trabajo y la red. Big data, SAN, los servidores con gran carga de cálculo y las aplicaciones altamente escalables están disparando los requisitos de velocidad de red y ancho de banda para cargas de trabajo en la nube. IBM reconoce que las soluciones de seguridad deben evolucionar al ritmo de las nuevas demandas para poder ofrecer una protección eficiente. La nueva oferta de IBM de cortafuegos de alto rendimiento y calidad es perfecta para grandes empresas, que buscan un modo fiable y potente de gestionar y controlar el tráfico de red de alta velocidad en la nube. 
+El auge de la demanda de redes de alta velocidad en la nube por parte de las empresas ha acentuado la necesidad de los clientes por proteger la carga de trabajo y la red. Big data, SAN, los servidores con gran carga de cálculo y las aplicaciones altamente escalables están disparando los requisitos de velocidad de red y ancho de banda para cargas de trabajo en la nube. IBM reconoce que las soluciones de seguridad deben evolucionar al ritmo de las nuevas demandas para poder ofrecer una protección eficiente. La nueva oferta de IBM de cortafuegos de alto rendimiento y calidad es perfecta para grandes empresas, que buscan un modo fiable y potente de gestionar y controlar el tráfico de red de alta velocidad en la nube.
 
 IBM es el único proveedor de servicios de nube que actualmente ofrece cortafuegos de hardware para garantizar una sólida seguridad del perímetro en la nube. El dispositivo de seguridad FortiGate de 10Gbps permite a nuestros clientes aumentar su carga de trabajo y redes en IBM Cloud.
 
@@ -27,7 +27,7 @@ IBM es el único proveedor de servicios de nube que actualmente ofrece cortafueg
 
 Las características del dispositivo de seguridad Fortigate de 10Gbps incluyen:
 
-* Alto rendimiento (hasta 10 Gbps)
+* Alto rendimiento (hasta 10 Gbps, 20 Gbps agregados)
 * Conectividad de red pública y privada
 * Capacidad para asociar múltiples VLAN a un único dispositivo de cortafuegos
 * [NGFW](fortiguard-addons.html) complementos (prevención de intrusiones/control de aplicaciones)

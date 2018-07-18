@@ -27,7 +27,7 @@ FortiGate Security Appliance (FSA) 10Gbps 是一款單一承租戶（專用）�
 
 FortiGate Security Appliance 10Gbps 包含下列功能：
 
-* 高傳輸量（高達 10 Gbps）
+* 高傳輸量（最高 10 Gbps，總計 20 Gbps）
 * 公用和專用網路連線功能
 * 多重 VLAN 和單一防火牆裝置相關聯的能力
 * [NGFW](fortiguard-addons.html) 附加元件（入侵防禦/應用程式控制項）

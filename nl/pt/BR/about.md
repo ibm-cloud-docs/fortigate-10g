@@ -27,7 +27,7 @@ Com exceção da IBM, nenhum outro provedor de serviços de nuvem atualmente ofe
 
 Os recursos do Fortigate Security Appliance 10Gbps incluem:
 
-* Alto rendimento (até 10 Gbps)
+* Rendimento alto (até 10 Gbps, 20 Gbps agregados)
 * Conectividade de rede pública e privada
 * Capacidade para associar várias VLANs a um único dispositivo de firewall
 * Complementos [NGFW](fortiguard-addons.html) (prevenção de intrusão/controle do aplicativo)

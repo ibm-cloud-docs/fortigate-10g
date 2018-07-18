@@ -14,7 +14,7 @@ lastupdated: "2017-08-21"
 {:tip: .tip}
 {:download: .download}
 
-# Informazioni su 
+# Informazioni su
 FortiGate Security Appliance (FSA) 10Gbps è un tenant singolo (dedicato), un firewall hardware (10Gbps) a velocità elevata con funzioni di prossima generazione, come AntiVirus (AV), Next Generation Firewall Intrusion Prevention (IPS) e Application Control e il filtro web.
 
 Questo firewall può essere configurato per proteggere il traffico su più VLAN sia per le reti private che pubbliche. Nel portale del cliente viene indicato come un “Firewall a più VLAN”.
@@ -27,9 +27,9 @@ Con l'eccezione di IBM, nessun altro provider di servizi cloud al momento offre 
 
 Le funzioni di Fortigate Security Appliance 10Gbps includono:
 
-* Elevata velocità effettiva (fino a 10 Gbps)
+* Elevata velocità effettiva (fino a 10 Gbps, 20 Gbps aggregati)
 * Connettività di rete pubblica e privata
-* Capacità di associare più VLAN a un solo dispositivo firewall 
+* Capacità di associare più VLAN a un solo dispositivo firewall
 * Componenti aggiuntivi [NGFW](fortiguard-addons.html) (Intrusion Prevention/Application Control)
 * [Antivirus](fortiguard-addons.html)
 * [Filtro web](fortiguard-addons.html)

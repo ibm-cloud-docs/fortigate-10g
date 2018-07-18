@@ -26,14 +26,12 @@ La acción de asociar VLAN no direcciona la VLAN a través del cortafuegos.
 ## Desasociar una VLAN con un cortafuegos
 
 Seleccione las VLAN que desee marcando los recuadros de selección. A continuación, pulse **Desasociar** y confirme su selección.
-Si la VLAN se direcciona a través del cortafuegos, esta acción direccionará la VLAN alrededor del cortafuegos antes de la disociación. 
+Si la VLAN se direcciona a través del cortafuegos, esta acción direccionará la VLAN alrededor del cortafuegos antes de la disociación.
 
 ## Direccionar una VLAN alrededor de un cortafuegos
 
 Seleccione las VLAN que desee marcando los recuadros de selección. A continuación, pulse **Direccionar alrededor** y confirme su selección.
 
-
 ## Direccionar una VLAN a través del cortafuegos
 
 Seleccione las VLAN que desee marcando los recuadros de selección. A continuación, pulse **Direccionar a través** y confirme su selección.
-

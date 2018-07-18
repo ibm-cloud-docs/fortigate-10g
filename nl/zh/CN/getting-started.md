@@ -21,10 +21,10 @@ FortiGate Security Appliance 10Gbps 是硬件防火墙，可进行配置以保�
 
 完成以下任务可开始使用并了解 FortiGate Security Appliance 10Gbps 产品的更多信息。
 
-| 开始       |
+|开始       |
 |:------------------|
-| __ 1. 了解 [FortiGate Security Appliance (FSA) 10Gbps](about.html) 产品。|
-| __ 2. [订购](ordering-firewall.html)可用数据中心的 FSA 10Gbps。|
-| __ 3. 通过 FSA 10Gbps [路由和取消路由 VLAN](managing-vlans.html)。|
-| __ 4. [管理](managing-firewall-device-details.html) FSA 10Gbps 设备。
+|__ 1. 了解 [FortiGate Security Appliance (FSA) 10Gbps](about.html) 产品。|
+|__ 2. [订购](ordering-firewall.html)可用数据中心的 FSA 10Gbps。|
+|__ 3. 通过 FSA 10Gbps [路由和取消路由 VLAN](managing-vlans.html)。|
+|__ 4. [管理](managing-firewall-device-details.html) FSA 10Gbps 设备。
 {: caption="表 1. FortiGate Security Appliance 10Gbps 入门" caption-side="top"} 

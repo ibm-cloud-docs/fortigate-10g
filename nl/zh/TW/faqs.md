@@ -35,9 +35,9 @@ IBM 提供免費專用連線功能，這是我們在市場中的重要差異之�
 
 否，只有 FSA 10Gbps 才支援多重 VLAN。
 
-## FSA 10Gbps 是否可用於聯合資料中心？
+## FSA 10Gbps 是否可用於聯邦資料中心？
 
-FSA 10Gbps 目前不可用於聯合資料中心。
+FSA 10Gbps 目前不可用於聯邦資料中心。
 
 ## FSA 10Gbps 是否可用來取代 Virtual Router Appliance？
 

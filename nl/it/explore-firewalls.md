@@ -34,7 +34,7 @@ Scorri a destra per visualizzare il resto della tabella!
 |**Terminazione VPN SSL/IPsec**|No|No|No|Sì|Sì|Sì|
 |**Terminazione VPN Open**|No|No|No|No|Sì|No|
 |**Opzione HA**|N/D|No|Sì|Sì|Sì|Sì|
-|**Gestione dall'API e dal portale**|Sì|Sì|Sì|GUI applicazione |GUI applicazione |GUI applicazione |
+|**Gestione dall'API e dal portale**|Sì|Sì|Sì|GUI applicazione|GUI applicazione|GUI applicazione|
 |**Supporto 10Gbps**|N/D|No|No|No|Sì|Sì|
 |**Componenti aggiuntivi NGFW (IPS, AV, WF)**|No|No|No|Sì|No|Sì|
-|**Costo**|$0/Mese|A partire da $99.00/mese|A partire da $999.00/mese|A partire da $999.00/mese|A partire da $219.00/mese + costo del server Bare Metal|A partire da $4.999,00/mese|
+|**Costo**|$0/Mese|A partire da $99.00/mese|A partire da $999.00/mese|A partire da $999.00/mese|A partire da $219.00/mese + costo del Bare Metal Server|A partire da $4.999,00/mese|

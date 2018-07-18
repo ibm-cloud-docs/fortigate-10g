@@ -21,7 +21,7 @@ FortiGate Security Appliance 10Gbps ist eine Hardware-Firewall, die für den Sch
 
 Führen Sie die folgenden Tasks zur Einführung und zum Anzeigen weiterer Informationen zum FortiGate Security Appliance 10Gbps-Angebot aus.
 
-| Einführung        |
+| Einführung       |
 |:------------------|
 | __ 1. Informationen zum [FortiGate Security Appliance (FSA) 10Gbps](about.html)-Angebot. |
 | __ 2. [Bestellen](ordering-firewall.html) von FSA 10Gbps in den verfügbaren Rechenzentren. |

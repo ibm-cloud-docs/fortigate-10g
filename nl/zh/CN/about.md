@@ -27,7 +27,7 @@ FortiGate Security Appliance (FSA) 10Gbps 是单租户（专用）高吞吐量 (
 
 Fortigate Security Appliance 10Gbps 的功能包括：
 
-* 高吞吐量（最高 10 Gbps）
+* 高吞吐量（最高 10 Gbps，累计 20 Gbps）
 * 公用和专用网络连接
 * 能够将多个 VLAN 与单个防火墙设备相关联
 * [NGFW](fortiguard-addons.html) 附件（入侵防御/应用程序控制）

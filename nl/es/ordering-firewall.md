@@ -15,10 +15,10 @@ lastupdated: "2017-10-19"
 
 # Realizar el pedido de FSA de 10Gbps
 
-Vaya a la página de pedidos en el portal del cliente:
+Vaya a la página de pedidos en el portal de clientes:
 
 1. Desde el navegador, abra [https://control.softlayer.com/](https://control.softlayer.com/) e inicie sesión en su cuenta.
-2. En la navegación del Portal del cliente, seleccione **Seguridad > Seguridad de red > Cortafuegos**.
+2. En la navegación del Portal de clientes, seleccione **Seguridad > Seguridad de red > Cortafuegos**.
 3. Desde la página Cortafuegos, seleccione el enlace **Pedir cortafuegos de varias VLAN** en la esquina superior derecha. Este enlace abre la página de pedido de cortafuegos de varias VLAN.
 
 Desde la página de pedido de cortafuegos de varias VLAN, puede pedir el cortafuegos de FSA de 10Gbps.

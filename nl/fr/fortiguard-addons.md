@@ -15,7 +15,7 @@ lastupdated: "2017-08-21"
 {:download: .download}
 
 # Modules complémentaires de pare-feu FortiGuard
-Les modules complémentaires FortiGuard suivants sont disponibles pour le dispositif de sécurité FortiGate 10 Gbits/s :
+Les modules complémentaires FortiGuard suivants sont disponibles pour le dispositif de sécurité FortiGate 10 Gbit/s :
 
 * [FortiGuard AV Services ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}
 * [FortiGuard NGFW Service ![Icône de lien externe](../../icons/launch-glyph.svg "Icône de lien externe")](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html){: new_window}

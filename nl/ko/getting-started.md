@@ -21,10 +21,10 @@ Fortigate Security Appliance 10Gbps는 공용 및 사설 네트워크 둘 다를
 
 Fortigate Security Appliance 10Gbps 오퍼링을 시작하고 자세히 알아보려면 다음 태스크를 완료하십시오.
 
-| 시작하기          |
+|시작하기       |
 |:------------------|
-| __ 1. [FSA(Fortigate Security Appliance) 10Gbps](about.html) 오퍼링에 대해 알아봅니다. |
-| __ 2. 사용 가능한 데이터 센터에서 FSA 10Gbps를 [주문](ordering-firewall.html)합니다.   |
-| __ 3. FSA 10Gbps를 통해 [VLAN을 라우트 및 라우트 해제](managing-vlans.html)합니다.    |
-| __ 4. FSA 10Gbps 디바이스를 [관리](managing-firewall-device-details.html)합니다.
+|__ 1. [FSA(Fortigate Security Appliance) 10Gbps](about.html) 오퍼링에 대해 알아봅니다. |
+|__ 2. 사용 가능한 데이터 센터에서 FSA 10Gbps를 [주문](ordering-firewall.html)합니다. |
+|__ 3. FSA 10Gbps를 통해 [VLAN을 라우트 및 라우트 해제](managing-vlans.html)합니다.  |
+|__ 4. FSA 10Gbps 디바이스를 [관리](managing-firewall-device-details.html)합니다.
 {: caption="표 1. Fortigate Security Appliance 10Gbps 시작하기" caption-side="top"} 

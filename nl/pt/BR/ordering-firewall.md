@@ -13,7 +13,7 @@ lastupdated: "2017-10-19"
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 
-# Solicitando o FSA 10Gbps
+# Fazendo o pedido do FSA 10Gbps
 
 Navegue para a página de pedido no portal do cliente:
 

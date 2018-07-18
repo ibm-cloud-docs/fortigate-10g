@@ -30,4 +30,4 @@ Per accedere al portale del dispositivo avrai bisogno delle tue credenziali di g
 
 Attiva la visualizzazione della tua password del dispositivo selezionando l'icona a forma di occhio.
 
-Successivamente, seleziona il pulsante del portale nel modulo dello stato. Questo link ti indirizza alla pagina di accesso al dispositivo. 
+Successivamente, seleziona il pulsante del portale nel modulo dello stato. Questo link ti indirizza alla pagina di accesso al dispositivo.

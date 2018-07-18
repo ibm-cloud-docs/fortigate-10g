@@ -27,7 +27,7 @@ Außer IBM bietet zum aktuellen Zeitpunkt kein anderer Cloud-Service-Provider Ha
 
 Zu den Features von Fortigate Security Appliance 10Gbps gehören:
 
-* Hoher Durchsatz (bis zu 10 Gbps)
+* Hoher Durchsatz (bis zu 10 Gb/s, 20 Gb/s aggregiert)
 * Konnektivität für öffentliche und private Netze
 * Möglichkeit, mehrere VLANs einem einzelnen Firewallgerät zuzuordnen
 * [NGFW](fortiguard-addons.html)-Add-ons (Abwehren unbefugter Zugriffe / Anwendungssteuerung)

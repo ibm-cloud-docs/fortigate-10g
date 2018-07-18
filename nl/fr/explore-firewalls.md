@@ -20,7 +20,7 @@ IBM Cloud offre plusieurs pare-feux. Le tableau ci-dessous compare les solutions
 
 Faites défiler vers la droite pour afficher le reste du tableau
 
-|        | [Groupes de sécurité (VSI uniquement)](https://console.bluemix.net/docs/infrastructure/security-groups/sg_index.html) | [Pare-feu matériel](https://console.bluemix.net/docs/infrastructure/hardware-firewall-shared/getting-started.html#getting-started) (partagé) | [Pare-feu matériel](https://console.bluemix.net/docs/infrastructure/hardware-firewall-dedicated/getting-started.html#getting-started) (dédié)| [Dispositif de sécurité FortiGate 1 Gbits/s](https://console.bluemix.net/docs/infrastructure/fortigate-1g/getting-started.html#getting-started) | [Virtual Router Appliance](https://console.bluemix.net/docs/infrastructure/virtual-router-appliance/getting-started.html#getting-started) | [Dispositif de sécurité FortiGate 10 Gbits/s](https://console.bluemix.net/docs/infrastructure/fortigate-10g/getting-started.html#getting-started) |
+|        | [Groupes de sécurité (VSI uniquement)](https://console.bluemix.net/docs/infrastructure/security-groups/sg_index.html) | [Pare-feu matériel](https://console.bluemix.net/docs/infrastructure/hardware-firewall-shared/getting-started.html#getting-started) (partagé) | [Pare-feu matériel](https://console.bluemix.net/docs/infrastructure/hardware-firewall-dedicated/getting-started.html#getting-started) (dédié) | [Dispositif de sécurité FortiGate 1 Gbit/s](https://console.bluemix.net/docs/infrastructure/fortigate-1g/getting-started.html#getting-started) | [Virtual Router Appliance](https://console.bluemix.net/docs/infrastructure/virtual-router-appliance/getting-started.html#getting-started) | [Dispositif de sécurité FortiGate 10 Gbit/s](https://console.bluemix.net/docs/infrastructure/fortigate-10g/getting-started.html#getting-started) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Filtrage dynamique de paquets (SPI)**|Oui|Oui|Oui|Oui|Oui|Oui|
 |**Protection de réseau public**|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -35,6 +35,6 @@ Faites défiler vers la droite pour afficher le reste du tableau
 |**Terminaison de réseau privé virtuel (VPN) ouvert**|Non|Non|Non|Non|Oui|Non|
 |**Option haute disponibilité (HA)**|N/A|Non|Oui|Oui|Oui|Oui|
 |**Gestion à partir de l'API & du portail**|Oui|Oui|Oui|Interface graphique du dispositif|Interface graphique du dispositif|Interface graphique du dispositif|
-|**Prise en charge de 10 Gbits/s**|N/A|Non|Non|Non|Oui|Oui|
+|**Prise en charge de 10 Gbit/s**|N/A|Non|Non|Non|Oui|Oui|
 |**Modules complémentaires NGFW (IPS, AV, WF)**|Non|Non|Non|Oui|Non|Oui|
-|**Coût**|0 $ / mois|A partir de 99 $ / mois|A partir de 999 $ / mois|A partir de 999 $ / mois|A partir de 219 $ / mois + coût du serveur bare metal |A partir de 4 999 $ / mois|
+|**Coût**|0 $ / mois|A partir de 99 $ / mois|A partir de 999 $ / mois|A partir de 999 $ / mois|A partir de 219 $ / mois + coût du serveur bare metal|A partir de 4 999 $ / mois|

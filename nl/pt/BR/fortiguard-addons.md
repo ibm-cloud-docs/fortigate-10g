@@ -14,8 +14,8 @@ lastupdated: "2017-08-21"
 {:tip: .tip}
 {:download: .download}
 
-# Complementos de firewall FortiGuard
-Os complementos FortiGuard a seguir estão disponíveis para o FortiGate Security Appliance 10Gbps:
+# Complementos de firewall do FortiGuard
+Os complementos do FortiGuard a seguir estão disponíveis para o FortiGate Security Appliance 10Gbps:
 
 * [Fortiguard AV Services ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}
 * [Fortiguard NGFW Service ![Ícone de link externo](../../icons/launch-glyph.svg "Ícone de link externo")](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html){: new_window}

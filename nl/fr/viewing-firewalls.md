@@ -15,7 +15,7 @@ lastupdated: "2017-08-21"
 {:download: .download}
 
 # Affichage de la liste des pare-feux
-Pour afficher la liste actuelle des pare-feux FortiGate 10 Gbits/s en cours associés à votre compte, accédez à la page de liste :
+Pour afficher la liste actuelle des pare-feux FortiGate 10 Gbit/s en cours associés à votre compte, accédez à la page de liste :
 
 1. Depuis votre navigateur, ouvrez [https://control.softlayer.com/](https://control.softlayer.com/) et connectez-vous à votre compte.
 2. Dans la navigation du portail client, sélectionnez **Sécurité > Sécurité du réseau > Pare-feux**.

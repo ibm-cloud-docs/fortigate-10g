@@ -21,26 +21,25 @@ Voici les questions fréquemment posées lors de l'utilisation du pare-feu Forti
 
 Le dispositif FSA 10G offre un débit plus rapide que le dispositif FSA 1G. Le dispositif permet au client de protéger plusieurs réseaux locaux virtuels (publics et privés). Des modules complémentaires comme AV (antivirus), IPS (prévention des intrusions) et FW (filtrage Web) peuvent être activés à la demande.
 
-Le dispositif Virtual Router Appliance protège également plusieurs réseaux locaux virtuels. Cependant, il ne propose pas de
-module complémentaire NGFW (Next Generation FireWall) ni de processeur de sécurité spécifiquement conçu. 
+Le dispositif Virtual Router Appliance protège également plusieurs réseaux locaux virtuels. Cependant, il ne propose pas de module complémentaire NGFW (Next Generation FireWall) ni de processeur de sécurité spécifiquement conçu.
 
 ## Est-il possible d'associer un dispositif FSA 10G et une passerelle réseau au même réseau local virtuel ?
 
 Non, un dispositif FSA 10G et une passerelle réseau ne peuvent pas être associés au même réseau local virtuel client.
 
-## Est-ce que cette offre facture la connectivité au réseau privé ? 
+## Est-ce que cette offre facture la connectivité au réseau privé ?
 
 IBM propose gratuitement la connectivité au réseau privé, ce qui constitue l'un de nos principaux facteurs de différenciation sur le marché.
 
-## Le dispositif FSA 1Gbps est-il également une offre pour protéger plusieurs réseaux locaux virtuels ?
+## Le dispositif FSA 1 Gbit/s est-il également une offre pour protéger plusieurs réseaux locaux virtuels ?
 
-Non, seul le dispositif FSA 10Gbps prend en charge plusieurs réseaux locaux virtuels.
+Non, seul le dispositif FSA 10 Gbit/s prend en charge plusieurs réseaux locaux virtuels.
 
-## Le dispositif FSA 10Gbps est-il disponible dans les centres de données fédéraux ?
+## Le dispositif FSA 10 Gbit/s est-il disponible dans les centres de données fédéraux ?
 
-Le dispositif FSA 10Gbps n'est actuellement pas disponible dans les centres de données fédéraux.
+Le dispositif FSA 10 Gbit/s n'est actuellement pas disponible dans les centres de données fédéraux.
 
-## Est-il possible d'utiliser un dispositif FSA 10Gbps à la place d'un dispositif Virtual Router Appliance ?
+## Est-il possible d'utiliser un dispositif FSA 10 Gbit/s à la place d'un dispositif Virtual Router Appliance ?
 
 Oui.
 
@@ -48,6 +47,6 @@ Oui.
 
 Pas actuellement.
 
-## Est-ce que le dispositif FSA 10Gbps peut couvrir plusieurs pods d'un centre de données ?
+## Est-ce que le dispositif FSA 10 Gbit/s peut couvrir plusieurs pods d'un centre de données ?
 
-Pas actuellement. Le dispositif FSA 10Gbps ne peut protéger que les réseaux locaux virtuels du pod sur lequel il est déployé.
+Pas actuellement. Le dispositif FSA 10 Gbit/s ne peut protéger que les réseaux locaux virtuels du pod sur lequel il est déployé.

@@ -31,7 +31,7 @@ No, no es posible tener un FSA 10G y un dispositivo de pasarela de red asociados
 
 IBM ofrece conectividad privada gratuita, siendo uno de nuestros principales diferenciadores del mercado.
 
-## ¿FSA de 1Gbps es también una oferta de de varias VLAN?
+## ¿FSA de 1Gbps es también una oferta de varias VLAN?
 
 No, solo FSA de 10Gbps admite múltiples VLAN.
 
@@ -41,7 +41,7 @@ FSA de 10Gbps no está disponible actualmente en centros de datos federales.
 
 ## ¿Se puede utilizar un FSA de 10Gbps en lugar de un dispositivo de direccionador virtual?
 
-Sí. 
+Sí.
 
 ## ¿Está previsto actualizar FSA 1G con la misma capacidad que el dispositivo FSA 10G?
 
