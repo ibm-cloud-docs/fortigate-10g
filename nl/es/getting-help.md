@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017,2018
-lastupdated: "2018-02-28"
+  years: 2017
+lastupdated: "2018-11-10"
 
 ---
 
@@ -18,11 +18,11 @@ lastupdated: "2018-02-28"
 
 Si tiene algún problema o pregunta sobre el uso del dispositivo de seguridad Fortigate de 10Gbps, puede obtener ayuda buscando información o formulando preguntas a través de uno de los foros que se listan a continuación. También puede abrir una incidencia de soporte.
 
-Cuando utilice los foros para formular una pregunta, etiquétela para que la vean los equipos de desarrollo de IBM Cloud.
+Al utilizar los foros para formular una pregunta, etiquete la pregunta para que la vea el equipo de desarrollo de Bluemix.
 
-* Si tiene una pregunta técnica acerca del dispositivo de seguridad Fortigate de 10Gbps, publíquela en [Stack Overflow](https://stackoverflow.com/search?q=fsa-10g+ibm-cloud) con las etiquetas "ibm-cloud" y "fsa-10g".
-* Para formular preguntas sobre el servicio y obtener instrucciones de iniciación, utilice el foro [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=ibm-cloud). Incluya las etiquetas "fsa-10g" e "ibm-cloud".
+* Si tiene preguntas técnicas sobre Fortigate Security Appliance de 10Gbps, publíquelas en [Stack Overflow](https://stackoverflow.com/search?q=fsa-10g+ibm-bluemix) con las etiquetas "ibm-bluemix" y "fsa-10g".
+* Para formular preguntas sobre el servicio y obtener instrucciones de iniciación, utilice el foro [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=bluemix). Incluya las etiquetas "fsa-10g" y "bluemix".
 
-Consulte [Obtención de ayuda](https://console.bluemix.net/docs/support/index.html#getting-help) para obtener más detalles sobre el uso de los foros.
+Consulte [Obtención de ayuda](../../../support/index.html#getting-help) para obtener más detalles sobre el uso de los foros.
 
-Para obtener información sobre cómo abrir una incidencia de soporte de IBM o sobre los niveles de soporte y la gravedad de las incidencias, consulte [Cómo obtener soporte](https://console.bluemix.net/docs/support/index.html#contacting-support).
+Para obtener información sobre cómo abrir una incidencia de soporte de IBM o sobre los niveles de soporte y la gravedad de las incidencias, consulte [Cómo obtener soporte](../../../support/index.html#contacting-support).

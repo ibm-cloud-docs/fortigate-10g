@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2017-08-21"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2017-08-21"
 {:tip: .tip}
 {:download: .download}
 
-# A propos
+# A propos de
 Le dispositif de sécurité FortiGate (FSA) 10 Gbit/s est un pare-feu matériel à service exclusif (dédié) à haut débit (10 Gbit/s) qui comprend des fonctions de nouvelle génération NGFW (Next Generation Firewall) comme AV (antivirus), IPS (prévention contre les intrusions), AC (contrôle d'application) et FW (filtrage Web).
 
 Ce pare-feu peut être configuré pour protéger le trafic sur plusieurs réseaux locaux virtuels pour des réseaux publics et privés. Dans le portail client, ce dispositif est désigné "pare-feu pour plusieurs réseaux locaux virtuels".

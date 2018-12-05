@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="fortigate-10g" audience="direct-link" href="/docs/infrastructure/fortigate-10g/getting-started.html"}
+{: .toc subcollection="fortigate-10g" audience="direct-link" arm="3662772" href="/docs/infrastructure/fortigate-10g/getting-started.html" path="infrastructure/fortigate-10g"}
 Dispositif de sécurité FortiGate 10 Gbit/s
 
     {: .navgroup id="learn"}
@@ -19,6 +19,7 @@ Dispositif de sécurité FortiGate 10 Gbit/s
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
+    connect-details.md
     [Plages d'adresses IP IBM Cloud](../hardware-firewall-dedicated/ips.html)
     fortiguard-addons.md
     [Site Web Fortinet](https://www.fortinet.com/)

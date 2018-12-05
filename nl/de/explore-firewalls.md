@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-01-11"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -20,21 +20,21 @@ IBM Cloud bietet eine Reihe von Firewalls, aus denen Sie auswählen können. In 
 
 Blättern Sie nach rechts, um den Rest der Tabelle anzuzeigen.
 
-|        | [Sicherheitsgruppen (nur VSI)](https://console.bluemix.net/docs/infrastructure/security-groups/sg_index.html) | [Hardware-Firewall](https://console.bluemix.net/docs/infrastructure/hardware-firewall-shared/getting-started.html#getting-started) (gemeinsam genutzt) | [Hardware-Firewall](https://console.bluemix.net/docs/infrastructure/hardware-firewall-dedicated/getting-started.html#getting-started) (dediziert) | [Fortigate Security Appliance 1Gbps](https://console.bluemix.net/docs/infrastructure/fortigate-1g/getting-started.html#getting-started) | [virtuelle Router-Appliance](https://console.bluemix.net/docs/infrastructure/virtual-router-appliance/getting-started.html#getting-started) | [Fortigate Security Appliance 10Gbps](https://console.bluemix.net/docs/infrastructure/fortigate-10g/getting-started.html#getting-started) |
-| ------- | :------: | :------: | :------: | :------: | :------: | :------: |
-|**Statusabhängige Paketüberprüfung**|Ja|Ja|Ja|Ja|Ja|Ja|
-|**Schutz öffentlicher Netze**|Ja|Ja|Ja|Ja|Ja|Ja|
-|**Schutz privater Netze**|Ja|Nein|Nein|Nein|Ja|Ja|
-|**Ingress-Regeln**|Ja|Ja|Ja|Ja|Ja|Ja|
-|**Egress-Regeln**|Ja|Nein|Nein|Ja|Ja|Ja|
-|**Appliance für einzelnen Tenant**|Nein|Nein|Ja|Ja|Ja|Ja|
-|**VLAN-Schutz**|Nein|Nein|Ja|Ja|Ja|Ja|
-|**Unterstützung für mehrere VLANs**|Nein|Nein|Nein|Nein|Ja|Ja|
-|**NAT-Unterstützung**|Nein|Nein|Nein|Ja|Ja|Ja|
-|**Beendigung von VPN-Tunneln (SSL/IPsec)**|Nein|Nein|Nein|Ja|Ja|Ja|
-|**Beendigung von VPN-Tunneln (offen)**|Nein|Nein|Nein|Nein|Ja|Nein|
-|**HA-Option**|Nicht zutreffend|Nein|Ja|Ja|Ja|Ja|
-|**Verwaltung über API & Portal**|Ja|Ja|Ja|Appliance-GUI|Appliance-GUI|Appliance-GUI|
-|**Unterstützung für 10Gbps**|Nicht zutreffend|Nein|Nein|Nein|Ja|Ja|
-|**NGFW -Add-ons (IPS, AV, WF)**|Nein|Nein|Nein|Ja|Nein|Ja|
-|**Kosten**|$ 0/Monat|Ab $ 99,00/Monat|Ab $ 999,00/Monat|Ab $ 999,00/Monat|Ab $ 219,00/Monat + Bare-Metal-Server-Kosten|Ab $ 4.999,00/Monat|
+|        | [SicherheitsgruppenGroups](../security-groups/sg_index.html) (nur VSI) | [IBM Cloud Juniper vSRX-Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Hardware-Firewall](../hardware-firewall-shared/getting-started.html#getting-started) (gemeinsam genutzt) | [Hardware-Firewall](../hardware-firewall-dedicated/getting-started.html#getting-started) (dediziert) |
+| ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+|**Statusabhängige Paketüberprüfung**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|**Schutz öffentlicher Netze**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|**Schutz privater Netze**|Ja|Ja|Ja|Ja|Nein|Nein|Nein|
+|**Ingress-Regeln**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|**Egress-Regeln**|Ja|Ja|Ja|Ja|Ja|Nein|Nein|
+|**Appliance für einzelnen Tenant**|Nein|Ja|Ja|Ja|Ja|Nein|Ja|
+|**VLAN-Schutz**|Nein|Ja|Ja|Ja|Ja|Nein|Ja|
+|**Unterstützung für mehrere VLANs**|Nein|Ja|Ja|Ja|Nein|Nein|Nein|
+|**NAT-Unterstützung**|Nein|Ja|Ja|Ja|Ja|Nein|Nein|
+|**Beendigung von VPN-Tunneln (SSL/IPsec)**|Nein|Ja|Ja|Ja|Ja|Nein|Nein|
+|**Beendigung von VPN-Tunneln (offen)**|Nein|Ja|Ja|Nein|Nein|Nein|Nein|
+|**HA-Option**|Nicht zutreffend|Ja|Ja|Ja|Ja|Nein|Ja|
+|**Verwaltung über API & Portal**|Ja|Appliance-GUI|Appliance-GUI|Appliance-GUI|Appliance-GUI|Ja|Ja|
+|**Unterstützung für 10Gbps**|Nicht zutreffend|Ja|Ja|Ja|Nein|Nein|Nein|
+|**NGFW -Add-ons (IPS, AV, WF)**|Nein|Nein|Nein|Ja|Ja|Nein|Nein|
+|**Kosten**|$ 0/Monat|Ab $ 299,00/Monat + Bare-Metal-Server-Kosten | Ab $ 219,00/Monat + Bare-Metal-Server-Kosten|Ab $ 4.999,00/Monat|Ab $ 999,00/Monat|Ab $ 99,00/Monat|Ab $ 999,00/Monat|

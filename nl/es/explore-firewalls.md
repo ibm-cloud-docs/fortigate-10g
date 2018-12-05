@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2018-01-11"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -20,21 +20,21 @@ IBM Cloud ofrece una amplia selección de cortafuegos. La siguiente tabla compar
 
 Desplácese a la derecha para visualizar el resto de la tabla.
 
-|        | [Grupos de seguridad (solo VSI)](https://console.bluemix.net/docs/infrastructure/security-groups/sg_index.html) | [Cortafuegos de hardware](https://console.bluemix.net/docs/infrastructure/hardware-firewall-shared/getting-started.html#getting-started) (compartido) | [Cortafuegos de hardware](https://console.bluemix.net/docs/infrastructure/hardware-firewall-dedicated/getting-started.html#getting-started) (dedicado) | [Dispositivo de seguridad Fortigate de 1Gbps](https://console.bluemix.net/docs/infrastructure/fortigate-1g/getting-started.html#getting-started) | [Dispositivo de direccionadores virtuales](https://console.bluemix.net/docs/infrastructure/virtual-router-appliance/getting-started.html#getting-started) | [Dispositivo de seguridad Fortigate de 10Gbps](https://console.bluemix.net/docs/infrastructure/fortigate-10g/getting-started.html#getting-started) |
-| ------- | :------: | :------: | :------: | :------: | :------: | :------: |
-|**Inspección de paquetes con estado**|Sí|Sí|Sí|Sí|Sí|Sí|
-|**Protección de red pública**|Sí|Sí|Sí|Sí|Sí|Sí|
-|**Protección de red privada**|Sí|No|No|No|Sí|Sí|
-|**Reglas de ingreso**|Sí|Sí|Sí|Sí|Sí|Sí|
-|**Reglas de salida**|Sí|No|No|Sí|Sí|Sí|
-|**Dispositivo de arrendatario único**|No|No|Sí|Sí|Sí|Sí|
-|**Protección de VLAN**|No|No|Sí|Sí|Sí|Sí|
-|**Soporte para varias VLAN**|No|No|No|No|Sí|Sí|
-|**Soporte para NAT**|No|No|No|Sí|Sí|Sí|
-|**Terminación de VPN SSL/IPsec**|No|No|No|Sí|Sí|Sí|
-|**Terminación de VPN abierta**|No|No|No|No|Sí|No|
-|**Opción de alta disponibilidad**|N/D|No|Sí|Sí|Sí|Sí|
-|**Gestión desde API y Portal**|Sí|Sí|Sí|GUI del dispositivo|GUI del dispositivo|GUI del dispositivo|
-|**Soporte para 10Gbps**|N/D|No|No|No|Sí|Sí|
-|**Complementos NGFW (IPS, AV, WF)**|No|No|No|Sí|No|Sí|
-|**Coste**|0$/mes|Desde 99,00$/mes|Desde 999,00$/mes|Desde 999,00$/mes|Desde 219,00$/mes + Coste de servidor nativo|Desde 4.999,00$/mes|
+|        | [Grupos de seguridad ](../security-groups/sg_index.html) (solo VSI) | [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Cortafuegos de hardware](../hardware-firewall-shared/getting-started.html#getting-started) (compartido) | [Cortafuegos de hardware](../hardware-firewall-dedicated/getting-started.html#getting-started) (dedicado) |
+| ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+|**Inspección de paquetes con estado**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|**Protección de red pública**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|**Protección de red privada**|Sí|Sí|Sí|Sí|No|No|No|
+|**Reglas de ingreso**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|**Reglas de salida**|Sí|Sí|Sí|Sí|Sí|No|No|
+|**Dispositivo de arrendatario único**|No|Sí|Sí|Sí|Sí|No|Sí|
+|**Protección de VLAN**|No|Sí|Sí|Sí|Sí|No|Sí|
+|**Soporte para varias VLAN**|No|Sí|Sí|Sí|No|No|No|
+|**Soporte para NAT**|No|Sí|Sí|Sí|Sí|No|No|
+|**Terminación de VPN SSL/IPsec**|No|Sí|Sí|Sí|Sí|No|No|
+|**Terminación de VPN abierta**|No|Sí|Sí|No|No|No|No|
+|**Opción de alta disponibilidad**|N/D|Sí|Sí|Sí|Sí|No|Sí|
+|**Gestión desde API y Portal**|Sí|GUI del dispositivo|GUI del dispositivo|GUI del dispositivo|GUI del dispositivo|Sí|Sí|
+|**Soporte para 10Gbps**|N/D|Sí|Sí|Sí|No|No|No|
+|**Complementos NGFW (IPS, AV, WF)**|No|No|No|Sí|Sí|No|No|
+|**Coste**|0$/mes|Desde 299,00$/mes + Coste de servidor nativo | Desde 219,00$/mes + Coste de servidor nativo|Desde 4.999,00$/mes|Desde 999,00$/mes|Desde 99,00$/mes|Desde 999,00$/mes|

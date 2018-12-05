@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="fortigate-10g" audience="direct-link" href="/docs/infrastructure/fortigate-10g/getting-started.html"}
+{: .toc subcollection="fortigate-10g" audience="direct-link" arm="3662772" href="/docs/infrastructure/fortigate-10g/getting-started.html" path="infrastructure/fortigate-10g"}
 Fortigate Security Appliance 10Gbps
 
     {: .navgroup id="learn"}
@@ -19,9 +19,10 @@ Fortigate Security Appliance 10Gbps
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
+    connect-details.md
     [IBM Cloud IP 범위](../hardware-firewall-dedicated/ips.html)
     fortiguard-addons.md
-    [Fortinet website](https://www.fortinet.com/)
+    [Fortinet 웹 사이트](https://www.fortinet.com/)
     {: .navgroup-end}
     
     {: .navgroup id="help"}
