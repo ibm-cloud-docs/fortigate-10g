@@ -23,4 +23,5 @@ A FortiGate Security Appliance 10Gbps can be cancelled immediately or on the ann
 3. Choose to either cancel immediately or on the anniversary date (next billing cycle).
 4. Confirm your selection.
 
+
 **NOTE:** Downgrading from a High Availability to a Standalone server is not supported.
