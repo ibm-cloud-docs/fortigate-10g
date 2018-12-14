@@ -16,7 +16,7 @@ lastupdated: "2018-11-10"
 
 # Manage VLANs
 
-To manage the VLANs associated with your firewall, click **Manage** in the Status Module or click the **Manage All** link in the VLANs Module. You will then be directed to the VLANs page.
+To manage the VLANs associated with your firewall, click **VLANs** in the side navigation, **Manage** in the Status Module, or the **Manage All** link in the VLANs Module. You will then be directed to the VLANs page.
 
 ## Associate a VLAN with a Firewall
 
