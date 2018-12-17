@@ -23,6 +23,6 @@ When using the forums to ask a question, tag your question so that it is seen by
 * If you have technical questions about the Fortigate Security Appliance 10Gbps, post your question on [Stack Overflow](https://stackoverflow.com/search?q=fsa-10g+ibm-bluemix) and tag your question with "ibm-bluemix" and "fsa-10g".
 * For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=bluemix) forum. Include the "fsa-10g" and "bluemix" tags.
 
-See [Getting help](../../../support/index.html#getting-help) for more details about using the forums.
+See [Getting help](/docs/support/index.html#getting-help) for more details about using the forums.
 
-For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](../../../support/index.html#contacting-support).
+For information about opening an IBM support ticket, or about support levels and ticket severities, see [Contacting support](/docs/support/index.html#contacting-support).
