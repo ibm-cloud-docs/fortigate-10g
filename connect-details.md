@@ -43,4 +43,4 @@ The available FSA data centers and their locations are:
 | WDC04, Pod 2 | Washington, D.C. |
 | WDC04, Pod 4 | Washington, D.C. |
 
-For more information on IBM Global Data Centers, refer to [https://www.ibm.com/cloud-computing/bluemix/data-centers](https://www.ibm.com/cloud-computing/bluemix/data-centers).
+For more information on IBM Global Data Centers, refer to [this topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/data-centers).
