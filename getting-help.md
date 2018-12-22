@@ -21,7 +21,7 @@ If you have problems or questions when using the Fortigate Security Appliance 10
 When using the forums to ask a question, tag your question so that it is seen by the Bluemix development teams.
 
 * If you have technical questions about the Fortigate Security Appliance 10Gbps, post your question on [Stack Overflow ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/search?q=fsa-10g+ibm-bluemix) and tag your question with "ibm-bluemix" and "fsa-10g".
-* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=bluemix) forum. Include the "fsa-10g" and "bluemix" tags.
+* For questions about the service and getting started instructions, use the [IBM© developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=bluemix) forum. Include the "fsa-10g" and "bluemix" tags.
 
 See [Getting help ![External link icon](../../icons/launch-glyph.svg "External link icon")](/docs/support/index.html#getting-help) for more details about using the forums.
 

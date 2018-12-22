@@ -33,7 +33,7 @@ No, it is not possible to have a FSA 10G and a Network Gateway device to be asso
 ## Does this offering charge for private network connectivity?
 {:faq}
 
-IBM offers private connectivity free of charge, which is one of our key differentiators in the marketplace.
+IBM© offers private connectivity free of charge, which is one of our key differentiators in the marketplace.
 
 ## Is FSA 1Gbps also a multi-VLAN offering?
 {:faq}
