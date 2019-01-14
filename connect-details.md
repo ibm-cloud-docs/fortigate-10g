@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Available Data Centers
-IBM offers many global data centers to connect your IBM Cloud deployment of the Fortigate Security Appliance (FSA). Connections are offered at the following speeds:
+IBM© offers many global data centers to connect your IBM Cloud deployment of the Fortigate Security Appliance (FSA). Connections are offered at the following speeds:
 
 * 50 mbps
 * 100 mbps
@@ -45,4 +45,4 @@ The available FSA data centers and their locations are:
 
 If you would like to see additional locations supported, please use this [survey](http://ibm.biz/firewalllocations) to submit feedback.
 
-For more information on IBM Global Data Centers, refer to [https://www.ibm.com/cloud-computing/bluemix/data-centers](https://www.ibm.com/cloud-computing/bluemix/data-centers).
+For more information on IBM Global Data Centers, refer to [this topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/data-centers).
