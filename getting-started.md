@@ -23,8 +23,8 @@ Complete the following tasks to get started and learn more about the FortiGate S
 
 | Get Started       |
 |:------------------|
-| __ 1. Learn about the [FortiGate Security Appliance (FSA) 10Gbps](about.html) offering. |
-| __ 2. [Order](ordering-firewall.html) a FSA 10Gbps in the available datacenters. |
-| __ 3. [Route and Unroute VLANs](managing-vlans.html) through the FSA 10Gbps.  |
-| __ 4. [Manage](managing-firewall-device-details.html) the FSA 10Gbps device.
+| 1. Learn about the [FortiGate Security Appliance (FSA) 10Gbps](about.html) offering. |
+| 2. [Order](ordering-firewall.html) a FSA 10Gbps in the available datacenters. |
+| 3. [Route and Unroute VLANs](managing-vlans.html) through the FSA 10Gbps.  |
+| 4. [Manage](managing-firewall-device-details.html) the FSA 10Gbps device.
 {: caption="Table 1. Getting started with FortiGate Security Appliance 10Gbps" caption-side="top"} 
