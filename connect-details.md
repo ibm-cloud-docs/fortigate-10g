@@ -30,18 +30,30 @@ The available FSA data centers and their locations are:
 
 | Data Center | Location |
 | ----------- | -------- |
+| AMS03, Pod 1 | Amsterdam |
 | DAL09, Pod 1 | Dallas |
 | DAL10, Pod 1 | Dallas |
+| DAL12, Pod 2 | Dallas |
 | DAL13, Pod 1 | Dallas |
 | FRA02, Pod 2 | Frankfurt |
+| FRA04, Pod 1 | Frankfurt |
+| FRA05, Pod 1 | Frankfurt |
 | HKG02, Pod 2 | Hong Kong |
 | LON02, Pod 2 | London |
 | LON04, Pod 1 | London |
+| MEX01, Pod 1 | Mexico |
+| PAR01, Pod 1 | Paris |
+| SJC03, Pod 1 | San Jose |
+| SJC03, Pod 2 | San Jose |
 | SJC04, Pod 1 | San Jose |
+| SYD01, Pod 1 | Sydney |
 | TOK02, Pod 1 | Tokyo |
 | TOR01, Pod 2 | Toronto |
+| WDC04, Pod 1 | Washington, D.C. |
 | WDC04, Pod 2 | Washington, D.C. |
+| WDC04, Pod 3 | Washington, D.C. |
 | WDC04, Pod 4 | Washington, D.C. |
+| WDC07, Pod 1 | Washington, D.C. |
 
 If you would like to see additional locations supported, please use this [survey](http://ibm.biz/firewalllocations) to submit feedback.
 
