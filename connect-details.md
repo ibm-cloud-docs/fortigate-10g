@@ -22,9 +22,9 @@ IBM© offers many global data centers to connect your IBM Cloud deployment of th
 * 200 mbps
 * 1 Gbps
 * 2 Gbps
-* 5 Gpbs
+* 5 Gbps
 
-Each IBM Cloud data center is connected to the IBM global private network — making data transfers faster and more efficient everywhere. 
+Each IBM Cloud data center is connected to the IBM global private network — making data transfers faster and more efficient everywhere.
 
 The available FSA data centers and their locations are:
 
@@ -55,6 +55,6 @@ The available FSA data centers and their locations are:
 | WDC04, Pod 4 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
 
-If you would like to see additional locations supported, please use this [survey](http://ibm.biz/firewalllocations) to submit feedback.
+If you would like to see additional locations supported, please use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){:new_window} to submit feedback.
 
-For more information on IBM Global Data Centers, refer to [this topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/data-centers).
+For more information on IBM Global Data Centers, refer to [this topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/data-centers){:new_window}.

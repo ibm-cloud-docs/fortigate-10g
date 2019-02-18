@@ -15,12 +15,12 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 
-# Explore Firewalls
+# Exploring Firewalls
 IBM© Cloud offers several firewalls to choose from. The table below compares the firewall solutions to help you choose the one that's right for you. To learn more about the individual offering, click its name in the table.
 
 Scroll to the right to view the rest of the table!
 
-|        | [Security Groups](../security-groups/sg_index.html) (VSI only) | [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Hardware Firewall](../hardware-firewall-shared/getting-started.html#getting-started) (Shared) | [Hardware Firewall](../hardware-firewall-dedicated/getting-started.html#getting-started) (Dedicated) |
+|        | [Security Groups](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware Firewall (Shared)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware Firewall (Dedicated)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Stateful Packet Inspection**|Yes|Yes|Yes|Yes|Yes|Yes|Yes|
 |**Public Network Protection**|Yes|Yes|Yes|Yes|Yes|Yes|Yes|
