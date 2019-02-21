@@ -16,7 +16,7 @@ lastupdated: "2018-11-10"
 {:faq: data-hd-content-type='faq'}
 
 # FAQs for Fortigate Security Appliance 10Gbps
-The following are frequently asked questions when working with the Fortigate Security Appliance 10g firewall.
+The following are some frequently asked questions when working with the Fortigate Security Appliance 10g firewall.
 
 ## What is the difference between Fortigate Security Appliance (FSA) 10G and FSA 1G? What about Virtual Router Appliance?
 {:faq}
