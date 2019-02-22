@@ -32,6 +32,6 @@ From the Multi VLAN Firewall order page, you can order your FSA 10Gbps firewall.
 1. Give the firewall a name.
 2. Select the desired Datacenter and Pod from the dropdown menus. Availability is limited to select locations.
 3. Choose to have a single FSA or enable failover protection with the High Availability option.
-Choose from the list of Add-ons or bundle all of them together for a discounted price. The Order Summary box displays the updated information for your current order.
-4. Select the Master Service Agreement checkbox once you review your order.
-5. Submit your order by clicking **Place Order**.
+4. Choose from the list of Add-ons or bundle all of them together for a discounted price. The Order Summary box displays the updated information for your current order.
+5. Select the Master Service Agreement checkbox once you review your order.
+6. Submit your order by clicking **Place Order**.
