@@ -15,6 +15,8 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Viewing a List of Firewalls
+{: #viewing-a-list-of-firewalls}
+
 To see a list of the current FortiGate Security Appliance 10Gbps firewalls associated with your account, navigate to the list page:
 
 1. From your browser, open [https://control.softlayer.com/ ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://control.softlayer.com/){:new_window} and log into your account.

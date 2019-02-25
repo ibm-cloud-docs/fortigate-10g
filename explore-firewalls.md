@@ -16,6 +16,8 @@ lastupdated: "2018-11-10"
 
 
 # Exploring Firewalls
+{: #exploring-firewalls}
+
 IBM© Cloud offers several firewalls to choose from. The table below compares the firewall solutions to help you choose the one that's right for you. To learn more about the individual offering, click its name in the table.
 
 Scroll to the right to view the rest of the table!
