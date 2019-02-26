@@ -55,6 +55,7 @@ The available FSA data centers and their locations are:
 | WDC04, Pod 2 | Washington, D.C. |
 | WDC04, Pod 3 | Washington, D.C. |
 | WDC04, Pod 4 | Washington, D.C. |
+| WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
 
 If you would like to see additional locations supported, please use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){:new_window} to submit feedback.
