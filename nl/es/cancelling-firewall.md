@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Cancelar su cortafuegos
+# Cancelación del dispositivo de seguridad Fortigate de 10Gbps
+{: #canceling-your-fortigate-security-appliance-10gbps}
 
 Un dispositivo de seguridad FortiGate de 10Gbps se puede cancelar de forma inmediata o en una fecha de aniversario. La cancelación en una fecha de aniversario mantiene el cortafuegos activo hasta el inicio del siguiente periodo de facturación. Realice los siguientes pasos para cancelar un cortafuegos:
 

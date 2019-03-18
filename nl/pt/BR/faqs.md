@@ -15,8 +15,10 @@ lastupdated: "2018-11-10"
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# Perguntas mais frequentes
-A seguir estão as perguntas mais frequentes ao trabalhar com o firewall Fortigate Security Appliance 10g.
+# Perguntas mais frequentes sobre o FortiGate Security Appliance 10Gbps
+{: #faqs-for-fortigate-security-appliance-10gbps}
+
+A seguir estão algumas das perguntas mais frequentes que podem surgir ao trabalhar com o firewall FortiGate Security Appliance 10g.
 
 ## Qual é a diferença entre o Fortigate Security Appliance (FSA) 10G e o FSA 1G? E quanto ao Virtual Router Appliance?
 {:faq}
@@ -33,7 +35,7 @@ Não, não é possível ter um FSA 10G e um dispositivo de Gateway de Rede assoc
 ## Essa oferta cobra pela conectividade de rede privada?
 {:faq}
 
-A IBM oferece conectividade privada gratuitamente, que é um dos nossos principais diferenciais no mercado.
+A IBM© oferece conectividade privada gratuitamente, que é um dos nossos principais diferenciadores no mercado.
 
 ## O FSA 1Gbps também é uma oferta de múltiplas VLANs?
 {:faq}

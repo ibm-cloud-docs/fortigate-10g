@@ -15,32 +15,48 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Verfügbare Rechenzentren
-IBM bietet zahlreiche globale Rechenzentren für die Verbindung Ihrer IBM Cloud-Bereitstellung der Fortigate Security Appliance (FSA). Es werden Verbindungen mit den folgenden Geschwindigkeiten angeboten:
+{: #available-data-centers}
+
+IBM© bietet zahlreiche globale Rechenzentren für die Verbindung Ihrer IBM Cloud-Bereitstellung der Fortigate Security Appliance (FSA). Es werden Verbindungen mit den folgenden Geschwindigkeiten angeboten:
 
 * 50 mbps
 * 100 mbps
 * 200 mbps
 * 1 Gbps
 * 2 Gbps
-* 5 Gpbs
+* 5 Gbps
 
-Jedes IBM Cloud-Rechenzentrum ist mit dem globalen privaten IBM Netz verbunden - für schnellere und effizientere Datenübertragungen weltweit. 
+Jedes IBM Cloud-Rechenzentrum ist mit dem globalen privaten IBM Netz verbunden - für schnellere und effizientere Datenübertragungen weltweit.
 
 Verfügbare FSA-Rechenzentren und ihre Standorte:
 
 | Rechenzentrum | Standort |
 | ----------- | -------- |
+| AMS03, Pod 1 | Amsterdam |
 | DAL09, Pod 1 | Dallas |
 | DAL10, Pod 1 | Dallas |
+| DAL12, Pod 2 | Dallas |
 | DAL13, Pod 1 | Dallas |
 | FRA02, Pod 2 | Frankfurt |
+| FRA04, Pod 1 | Frankfurt |
+| FRA05, Pod 1 | Frankfurt |
 | HKG02, Pod 2 | Hongkong |
 | LON02, Pod 2 | London |
 | LON04, Pod 1 | London |
+| MEX01, Pod 1 | Mexico |
+| PAR01, Pod 1 | Paris |
+| SJC03, Pod 1 | San Jose |
+| SJC03, Pod 2 | San Jose |
 | SJC04, Pod 1 | San Jose |
+| SYD01, Pod 1 | Sydney |
 | TOK02, Pod 1 | Tokio |
 | TOR01, Pod 2 | Toronto |
+| WDC04, Pod 1 | Washington, D.C. |
 | WDC04, Pod 2 | Washington, D.C. |
+| WDC04, Pod 3 | Washington, D.C. |
 | WDC04, Pod 4 | Washington, D.C. |
+| WDC07, Pod 1 | Washington, D.C. |
 
-Weitere Informationen zu den globalen IBM Rechenzentren finden Sie unter [https://www.ibm.com/cloud-computing/bluemix/data-centers](https://www.ibm.com/cloud-computing/bluemix/data-centers).
+Wenn Sie Vorschläge für zusätzliche unterstützte Standorte einreichen möchten, nutzen Sie die [Umfrage ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](http://ibm.biz/firewalllocations){:new_window}, um Feedback zu senden. 
+
+Weitere Informationen zu IBM Global Data Centers finden Sie in [diesem Abschnitt ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/data-centers){:new_window}. 

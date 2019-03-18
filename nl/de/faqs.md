@@ -15,8 +15,10 @@ lastupdated: "2018-11-10"
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# Häufige Fragen
-Im Folgenden sind häufig gestellte Fragen im Zusammenhang mit der Verwendung der Fortigate Security Appliance 10g-Firewall aufgeführt.
+# Häufig gestellte Fragen zu Fortigate Security Appliance 10Gbps
+{: #faqs-for-fortigate-security-appliance-10gbps}
+
+Im Folgenden sind einige häufig gestellte Fragen im Zusammenhang mit der Verwendung der Fortigate Security Appliance 10g-Firewall aufgeführt. 
 
 ## Worin besteht der Unterschied zwischen Fortigate Security Appliance (FSA) 10G und FSA 1G? Und worin besteht der Unterschied zu Virtual Router Appliance?
 {:faq}
@@ -33,7 +35,7 @@ Nein, ein FSA 10G- und ein Netzgatewaygerät können nicht demselben Kunden-VLAN
 ## Fallen im Rahmen dieses Angebots Gebühren für die Netzkonnektivität privater Netze an?
 {:faq}
 
-IBM bietet Netzkonnektivität für private Netze gebührenfrei an. Dies ist eines der zentralen Differenzierungsmerkmale von IBM im Markt.
+IBM© bietet Netzkonnektivität für private Netze gebührenfrei an. Dies ist eines der zentralen Differenzierungsmerkmale von IBM im Markt. 
 
 ## Handelt es sich bei FSA 1Gbps auch um ein Angebot mit Unterstützung für mehrere VLANs?
 {:faq}

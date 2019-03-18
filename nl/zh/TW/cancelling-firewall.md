@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# 取消防火牆
+# 取消 Fortigate Security Appliance 10Gbps
+{: #canceling-your-fortigate-security-appliance-10gbps}
 
 FortiGate Security Appliance 10Gbps 可以立即或在週年日期取消。在週年日期取消的防火牆仍會保持作用中，直到下一個收帳期間開始為止。請採取下列步驟來取消防火牆：
 

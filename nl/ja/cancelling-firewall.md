@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# ファイアウォールのキャンセル
+# Fortigate Security Appliance 10Gbps のキャンセル
+{: #canceling-your-fortigate-security-appliance-10gbps}
 
 FortiGate Security Appliance 10Gbps は、即時にキャンセルすることや、支払い日にキャンセルすることができます。 支払い日でのキャンセルでは、次の請求対象期間の開始までファイアウォールはアクティブのままです。 ファイアウォールをキャンセルするには、以下のステップを実行します。
 

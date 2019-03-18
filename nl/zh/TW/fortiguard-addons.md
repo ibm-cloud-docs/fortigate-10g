@@ -15,6 +15,8 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # FortiGuard 防火牆附加元件
+{: #fortiguard-firewall-addons}
+
 下列 FortiGuard 附加元件可用於 FortiGate Security Appliance 10Gbps：
 
 * [Fortiguard AV 服務 ![外部鏈結圖示](../../icons/launch-glyph.svg "外部鏈結圖示")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}

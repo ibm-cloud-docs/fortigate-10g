@@ -15,7 +15,9 @@ lastupdated: "2018-11-10"
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# FAQ
+# Fortigate Security Appliance 10Gbps의 FAQ
+{: #faqs-for-fortigate-security-appliance-10gbps}
+
 다음은 Fortigate Security Appliance 10G 방화벽으로 작업할 때 자주 묻는 질문입니다.
 
 ## FSA(Fortigate Security Appliance) 10G와 FSA 1G의 차이점은 무엇입니까? 가상 라우터 어플라이언스와의 차이점은 무엇입니까?
@@ -33,7 +35,7 @@ FSA 10G는 FSA 1G에 비해 더 빠른 처리량을 제공합니다. FSA 10G를 
 ## 이 오퍼링이 사설 네트워크 연결에 대한 비용을 청구합니까?
 {:faq}
 
-IBM은 무료로 사설 연결을 제공하며, 이는 시장에서 IBM의 주요 차별화 요소 중 하나입니다.
+IBM©에서는 무료로 사설 연결을 제공하며, 이는 시장에서 IBM의 주요 차별화 요소 중 하나입니다.
 
 ## FSA 1Gbps도 다중 VLAN 오퍼링입니까?
 {:faq}

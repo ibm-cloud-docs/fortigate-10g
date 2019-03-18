@@ -15,8 +15,10 @@ lastupdated: "2018-11-10"
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# 常见问题
-下面列出了使用 Fortigate Security Appliance 10g 防火墙的常见问题。
+# Fortigate Security Appliance 10Gbps 的常见问题
+{: #faqs-for-fortigate-security-appliance-10gbps}
+
+下面列出了使用 Fortigate Security Appliance 10g 防火墙的某些常见问题。
 
 ## Fortigate Security Appliance (FSA) 10G 与 FSA 1G 有什么区别？Virtual Router Appliance 呢？
 {:faq}
@@ -33,7 +35,7 @@ Virtual Router Appliance 还可保护多个 VLAN。但是，Virtual Router Appli
 ## 此产品对专用网络连接收费吗？
 {:faq}
 
-IBM 提供免费的专用连接，这是我们在市场中的关键特色之一。
+IBM© 提供免费的专用连接，这是我们在市场中的关键特色之一。
 
 ## FSA 1Gbps 也是多 VLAN 产品吗？
 {:faq}

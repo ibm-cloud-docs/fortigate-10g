@@ -15,6 +15,8 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Componenti aggiuntivi del firewall FortiGuard
+{: #fortiguard-firewall-addons}
+
 I seguenti componenti aggiuntivi di FortiGuard sono disponibili per FortiGate Security Appliance 10Gbps:
 
 * [Fortiguard AV Services ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}

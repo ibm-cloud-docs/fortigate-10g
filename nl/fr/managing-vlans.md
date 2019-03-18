@@ -14,9 +14,10 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Gestion des réseaux locaux virtuels (VLAN)
+# Gestion de réseaux locaux virtuels
+{: #managing-vlans}
 
-Pour gérer les réseaux locaux virtuels associés à votre pare-feu, cliquez sur **Gérer** dans le module de statut. Dans le module VLAN, vous pouvez également cliquer sur le lien pour **gérer tout**. Vous allez être redirigé vers la page VLAN.
+Pour gérer les réseaux locaux virtuels associés à votre pare-feu, cliquez sur **VLAN** dans le volet de navigation latéral, **Gérer** dans le module de statut ou sur le lien **Gérer tout** dans le module VLAN. Vous allez être redirigé vers la page VLAN.
 
 ## Association d'un réseau local virtuel à un pare-feu
 

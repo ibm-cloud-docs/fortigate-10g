@@ -15,6 +15,8 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # FortiGuard 防火墙附件
+{: #fortiguard-firewall-addons}
+
 为 FortiGate Security Appliance 10Gbps 提供了以下 FortiGuard 附件：
 
 * [Fortiguard AV 服务 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}

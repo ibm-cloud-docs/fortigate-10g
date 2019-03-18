@@ -15,8 +15,10 @@ lastupdated: "2018-11-10"
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# Preguntas más frecuentes
-Las siguientes son las preguntas más frecuentes cuando se trabaja con el cortafuegos del dispositivo de seguridad Fortigate de 10g.
+# Peguntas más frecuentes del dispositivo de seguridad Fortigate de 10Gbps
+{: #faqs-for-fortigate-security-appliance-10gbps}
+
+Las siguientes son algunas de las preguntas más frecuentes cuando se trabaja con el cortafuegos del dispositivo de seguridad Fortigate de 10g.
 
 ## ¿Cuál es la diferencia entre el dispositivo de seguridad Fortigate (FSA) de 10G y FSA 1G? ¿Y el dispositivo de direccionador virtual?
 {:faq}
@@ -33,7 +35,7 @@ No, no es posible tener un FSA 10G y un dispositivo de pasarela de red asociados
 ## ¿Esta oferta incluye un cargo por conectividad de red privada?
 {:faq}
 
-IBM ofrece conectividad privada gratuita, siendo uno de nuestros principales diferenciadores del mercado.
+IBM© ofrece conectividad privada gratuita, siendo uno de nuestros principales diferenciadores del mercado.
 
 ## ¿FSA de 1Gbps es también una oferta de varias VLAN?
 {:faq}

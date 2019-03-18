@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Gestisci i dettagli del dispositivo firewall
+# Gestione dei dettagli del dispositivo firewall
+{: #managing-firewall-device-details}
 
 Per visualizzare i dettagli del dispositivo di un FortiGate Security Appliance 10Gbps, fai clic sul link di un dispositivo nella colonna del nome del firewall. 
 

@@ -15,6 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Details zur Verwaltung des Firewall-Geräts
+{: #managing-firewall-device-details}
 
 Klicken Sie zum Anzeigen der Gerätedetails für FortiGate Security Appliance 10Gbps auf den Link für das Gerät in der Spalte mit dem Namen der Firewall. 
 

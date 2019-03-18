@@ -15,12 +15,14 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 
-# Esplora i firewall
-IBM Cloud offre diversi firewall tra cui scegliere. La seguente tabella confronta le soluzioni firewall per aiutarti a scegliere quella giusta per te. Per ulteriori informazioni sulle singole offerte, fai clic sul nome dell'offerta nella tabella.
+# Esplorazione dei firewall
+{: #exploring-firewalls}
+
+IBM© Cloud offre diversi firewall tra cui scegliere. La seguente tabella confronta le soluzioni firewall per aiutarti a scegliere quella giusta per te. Per ulteriori informazioni sulle singole offerte, fai clic sul nome dell'offerta nella tabella.
 
 Scorri a destra per visualizzare il resto della tabella!
 
-|        | [Gruppi di sicurezza](../security-groups/sg_index.html) (solo VSI) | [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[VRA (Virtual Router Appliance)](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Hardware Firewall](../hardware-firewall-shared/getting-started.html#getting-started) (Shared) | [Hardware Firewall](../hardware-firewall-dedicated/getting-started.html#getting-started) (Dedicated) |
+|        | [Gruppi di sicurezza](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups) (solo VSI) | [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[VRA (Virtual Router Appliance)](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware Firewall (Shared)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware Firewall (Dedicated)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Filtraggio stateful dei pacchetti**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|
 |**Protezione della rete pubblica**|Sì|Sì|Sì|Sì|Sì|Sì|Sì|

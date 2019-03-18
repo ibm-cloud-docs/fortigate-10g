@@ -15,6 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # 管理防火墙设备详细信息
+{: #managing-firewall-device-details}
 
 要查看 FortiGate Security Appliance 10Gbps 的设备详细信息，请单击“防火墙名称”列下的设备链接。 
 
