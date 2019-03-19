@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Annulla il tuo firewall
+# Annullamento del tuo Fortigate Security Appliance 10Gbps
+{: #canceling-your-fortigate-security-appliance-10gbps}
 
 Un FortiGate Security Appliance 10Gbps può essere annullato immediatamente o alla data di ricorrenza annuale. L'annullamento alla data di ricorrenza annuale manterrà il firewall attivo fino all'inizio del successivo periodo di fatturazione. Utilizza la seguente procedura per annullare un firewall:
 

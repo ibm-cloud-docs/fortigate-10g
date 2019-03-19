@@ -11,9 +11,9 @@ Fortigate Security Appliance 10Gbps
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    managing-vlans.md
     viewing-firewalls.md
     managing-firewall-device-details.md
+    managing-vlans.md
     cancelling-firewall.md
     {: .navgroup-end}
 

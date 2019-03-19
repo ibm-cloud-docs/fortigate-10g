@@ -15,8 +15,9 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # VLANs verwalten
+{: #managing-vlans}
 
-Zum Verwalten der VLANs, die Ihrer Firewall zugeordnet sind, klicken Sie auf **Verwalten** im Statusmodul oder auf den Link **Alle verwalten** im VLAN-Module. Sie werden dann zur VLAN-Seite weitergeleitet.
+Zum Verwalten der VLANs, die Ihrer Firewall zugeordnet sind, klicken Sie auf **VLANs** in der seitlichen Navigationsleiste, auf **Verwalten** im Statusmodul oder auf den Link **Alle verwalten** im VLAN-Modul. Sie werden dann zur VLAN-Seite weitergeleitet.
 
 ## VLAN einer Firewall zuordnen
 

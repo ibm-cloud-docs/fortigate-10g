@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="fortigate-10g" audience="direct-link" arm="3662772" href="/docs/infrastructure/fortigate-10g/getting-started.html" path="infrastructure/fortigate-10g"}
+{: .toc subcollection="fortigate-10g" audience="direct-link" arm="3662772" href="/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps" path="infrastructure/fortigate-10g"}
 Fortigate Security Appliance 10Gbps
 
     {: .navgroup id="learn"}
@@ -11,7 +11,6 @@ Fortigate Security Appliance 10Gbps
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    ordering-firewall.md
     managing-vlans.md
     viewing-firewalls.md
     managing-firewall-device-details.md
@@ -20,9 +19,9 @@ Fortigate Security Appliance 10Gbps
 
     {: .navgroup id="reference"}
     connect-details.md
-    [IBM Cloud IP 範囲](../hardware-firewall-dedicated/ips.html)
+    /hardware-firewall-dedicated/hardware-firewall-dedicated-ibm-cloud-ip-ranges
     fortiguard-addons.md
-    [Fortinet Web サイト](https://www.fortinet.com/)
+    [Fortinet website](https://www.fortinet.com/)
     {: .navgroup-end}
     
     {: .navgroup id="help"}

@@ -15,8 +15,10 @@ lastupdated: "2018-11-10"
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# Foire aux questions
-Voici les questions fréquemment posées lors de l'utilisation du pare-feu FortiGate 10g.
+# Foire aux questions concernant le dispositif de sécurité FortiGate 10 Gbit/s
+{: #faqs-for-fortigate-security-appliance-10gbps}
+
+Voici certaines des questions fréquemment posées lors de l'utilisation du pare-feu FortiGate 10g.
 
 ## Quelles sont les différences entre FSA 10G et FSA 1G ? Qu'en est-il du dispositif VRA (Virtual Router Appliance) ?
 {:faq}
@@ -33,7 +35,7 @@ Non, un dispositif FSA 10G et une passerelle réseau ne peuvent pas être associ
 ## Est-ce que cette offre facture la connectivité au réseau privé ?
 {:faq}
 
-IBM propose gratuitement la connectivité au réseau privé, ce qui constitue l'un de nos principaux facteurs de différenciation sur le marché.
+IBM© propose gratuitement la connectivité au réseau privé, ce qui constitue l'un de nos principaux facteurs de différenciation sur le marché.
 
 ## Le dispositif FSA 1 Gbit/s est-il également une offre pour protéger plusieurs réseaux locaux virtuels ?
 {:faq}

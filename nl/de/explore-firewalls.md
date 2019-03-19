@@ -15,12 +15,14 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 
-# Firewalls erkunden
-IBM Cloud bietet eine Reihe von Firewalls, aus denen Sie auswählen können. In der folgenden Tabelle werden die Firewall-Lösungen verglichen, damit Sie die für Sie am besten geeignete Lösung auswählen können. Wenn Sie weitere Informationen zu den einzelnen Angeboten lesen möchten, klicken Sie auf den entsprechenden Namen in der Tabelle.
+# Informationen zu Firewalls
+{: #exploring-firewalls}
+
+IBM© Cloud bietet eine Reihe von Firewalls, aus denen Sie auswählen können. In der folgenden Tabelle werden die Firewall-Lösungen verglichen, damit Sie die für Sie am besten geeignete Lösung auswählen können. Wenn Sie weitere Informationen zu den einzelnen Angeboten lesen möchten, klicken Sie auf den entsprechenden Namen in der Tabelle.
 
 Blättern Sie nach rechts, um den Rest der Tabelle anzuzeigen.
 
-|        | [SicherheitsgruppenGroups](../security-groups/sg_index.html) (nur VSI) | [IBM Cloud Juniper vSRX-Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Hardware-Firewall](../hardware-firewall-shared/getting-started.html#getting-started) (gemeinsam genutzt) | [Hardware-Firewall](../hardware-firewall-dedicated/getting-started.html#getting-started) (dediziert) |
+|        | [SicherheitsgruppenGroups](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups) (nur VSI) | [IBM Cloud Juniper vSRX-Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware-Firewall (gemeinsam genutzt)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware-Firewall (dediziert)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Statusabhängige Paketüberprüfung**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**Schutz öffentlicher Netze**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|

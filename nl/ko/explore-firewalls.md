@@ -16,11 +16,13 @@ lastupdated: "2018-11-10"
 
 
 # 방화벽 탐색
-IBM Cloud에서는 선택 가능한 여러 방화벽을 제공합니다. 아래 표에는 적합한 방화벽을 선택하는 데 도움이 되도록 방화벽 솔루션이 비교되어 있습니다. 개별 오퍼링에 대해 자세히 알아보려면 표에서 해당 이름을 클릭하십시오.
+{: #exploring-firewalls}
+
+IBM© Cloud에서는 선택 가능한 여러 방화벽을 제공합니다. 아래 표에는 적합한 방화벽을 선택하는 데 도움이 되도록 방화벽 솔루션이 비교되어 있습니다. 개별 오퍼링에 대해 자세히 알아보려면 표에서 해당 이름을 클릭하십시오.
 
 표의 나머지 부분을 보려면 오른쪽으로 스크롤하십시오.
 
-|        | [보안 그룹](../security-groups/sg_index.html)(VSI 전용) | [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) |[하드웨어 방화벽](../hardware-firewall-shared/getting-started.html#getting-started)(Shared) |[Hardware Firewall](../hardware-firewall-dedicated/getting-started.html#getting-started)(Dedicated) |
+|        | [보안 그룹](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups)(VSI 전용) | [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware Firewall(공유)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware Firewall(Dedicated)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Stateful 패킷 검사**|예|예|예|예|예|예|예|
 |**공용 네트워크 보호**|예|예|예|예|예|예|예|

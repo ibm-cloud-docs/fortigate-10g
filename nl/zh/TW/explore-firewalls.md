@@ -16,11 +16,13 @@ lastupdated: "2018-11-10"
 
 
 # 探索防火牆
-IBM Cloud 提供許多防火牆供選擇。以下表格比較各個防火牆解決方案，協助您正確選擇適用的防火牆解決方案。若要進一步瞭解個別產品與服務，請按一下表格中的名稱。
+{: #exploring-firewalls}
+
+IBM© Cloud 提供許多防火牆供選擇。以下表格比較各個防火牆解決方案，協助您正確選擇適用的防火牆解決方案。若要進一步瞭解個別產品與服務，請按一下表格中的名稱。
 
 向右捲動可檢視表格的其餘部分！
 
-|        | [安全群組](../security-groups/sg_index.html)（僅限 VSI）| [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Hardware Firewall](../hardware-firewall-shared/getting-started.html#getting-started) (Shared) | [Hardware Firewall](../hardware-firewall-dedicated/getting-started.html#getting-started) (Dedicated) |
+|        | [安全群組](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups)（僅限 VSI）| [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware Firewall（共用）](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware Firewall（專用）](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**狀態封包檢驗**|是|是|是|是|是|是|是|
 |**公用網路保護**|是|是|是|是|是|是|是|

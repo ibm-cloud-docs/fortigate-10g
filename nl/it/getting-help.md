@@ -14,20 +14,19 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Come ottenere aiuto e supporto
+# Come ottenere aiuto e supporto per Fortigate Security Appliance 10Gbps
+{: #getting-help-and-support-for-fortigate-security-appliance-10gbps}
 
 In caso di problemi o domande durante l'utilizzo di
 Fortigate Security Appliance 10Gbps, puoi ottenere supporto ricercando le informazioni o facendo delle domande tramite uno dei seguenti forum. Puoi anche aprire un ticket di supporto.
 
-Quando utilizzi i forum per fare una domanda, contrassegnala con tag in modo che possa essere visualizzata dai team di sviluppo di Bluemix.
+Quando utilizzi i forum per fare una domanda, contrassegnala con tag in modo che possa essere individuata dai team di sviluppo di IBM Cloud.
 
-* Se hai domande tecniche su Fortigate Security Appliance 10Gbps, inserisci la tua domanda in
-[Stack Overflow](https://stackoverflow.com/search?q=fsa-10g+ibm-bluemix) a contrassegnala con le tag "ibm-bluemix" e "fsa-10g".
-* Per domande sul servizio e sulle istruzioni per l'utilizzo iniziale, utilizza il forum
-[IBM developerWorks dW Answers](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=bluemix) forum. Includi le tag "fsa-10g" e "bluemix".
+* Se hai domande tecniche su Fortigate Security Appliance 10Gbps, inserisci la tua domanda in [Stack Overflow ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://stackoverflow.com/search?q=fsa-10g+ibm-cloud) e contrassegnala con le tag "ibm-cloud" e "fsa-10g".
+* Per domande sul servizio e sulle istruzioni per l'utilizzo iniziale, utilizza il forum [IBM© developerWorks dW Answers ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=ibm-cloud). Includi le tag "fsa-10g" e "ibm-cloud".
 
-Consulta [Come ottenere supporto](../../../support/index.html#getting-help)
+Consulta [Come ottenere supporto](https://{DomainName}/docs/get-support?topic=get-support-using-avatar)
 per ulteriori dettagli sull'utilizzo dei forum.
 
 Per informazioni su come aprire un ticket di supporto IBM o sui livelli di supporto e sulla gravità dei ticket,
-consulta [Come contattare il supporto](../../../support/index.html#contacting-support).
+consulta [Come contattare il supporto](/docs/get-support?topic=get-support-contacting-bluemix-support-dedicated-local).

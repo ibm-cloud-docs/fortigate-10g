@@ -15,7 +15,9 @@ lastupdated: "2018-11-10"
 {:download: .download}
 {:faq: data-hd-content-type='faq'}
 
-# FAQ
+# Fortigate Security Appliance 10Gbps の FAQ
+{: #faqs-for-fortigate-security-appliance-10gbps}
+
 以下は、Fortigate Security Appliance 10g ファイアウォールでの作業時のよくあるご質問です。
 
 ## Fortigate Security Appliance (FSA) 10G と FSA 1G の違いは何ですか? 仮想ルーター・アプライアンスとは何ですか?
@@ -33,7 +35,7 @@ FSA 10G は、FSA 1G と比較すると、より高速なスループットを�
 ## このオファリングでは、プライベート・ネットワーク接続に料金がかかりますか?
 {:faq}
 
-IBM は、プライベート接続は無料で提供しています。これは、市場での当社の主な差別化要因の 1 つです。
+IBM© は、プライベート接続は無料で提供しています。これは、市場での当社の主な差別化要因の 1 つです。
 
 ## FSA 1Gbps は複数 VLAN オファリングでもありますか?
 {:faq}

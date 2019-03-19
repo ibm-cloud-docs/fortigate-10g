@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Firewall stornieren
+# Fortigate Security Appliance 10Gbps stornieren
+{: #canceling-your-fortigate-security-appliance-10gbps}
 
 FortiGate Security Appliance 10Gbps kann sofort oder zur Jährung des Vertragsbeginns storniert werden. Bei einer Stornierung zur Jährung des Vertragsbeginns bleibt die Firewall bis zum Anfang des nächsten Abrechnungszeitraums aktiv. Führen Sie zum Stornieren der Firewall die folgenden Schritte aus:
 

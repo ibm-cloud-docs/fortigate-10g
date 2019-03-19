@@ -14,9 +14,10 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Gestisci le VLAN
+# Gestione delle VLAN
+{: #managing-vlans}
 
-Per gestire le VLAN associate al tuo firewall, fai clic su **Manage** nel modulo dello stato o fai clic sul link **Manage All** nel modulo delle VLAN. Sarai quindi reindirizzato alla pagina delle VLAN.
+Per gestire le VLAN associate al tuo firewall, fai clic su **VLANs** nella navigazione laterale, su **Manage** nel modulo dello stato o sul link **Manage All** nel modulo delle VLAN. Sarai quindi reindirizzato alla pagina delle VLAN.
 
 ## Associa una VLAN a un firewall
 

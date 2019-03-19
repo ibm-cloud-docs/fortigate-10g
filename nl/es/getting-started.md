@@ -15,16 +15,27 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Iniciación al dispositivo de seguridad Fortigate de 10Gbps
+{: #getting-started-with-fortigate-security-appliance-10gbps}
 
 El dispositivo de seguridad FortiGate de 10Gbps es un cortafuegos de hardware que puede configurarse para proteger el tráfico en múltiples VLAN, tanto para redes públicas como privadas. En el Portal de clientes se denomina “Cortafuegos de varias VLAN”.
 {:shortdesc}
 
-Complete las siguientes tareas para empezar y obtener más información sobre la oferta del dispositivo de seguridad FortiGate de 10Gbps.
+## Realizar el pedido de FSA de 10Gbps
 
-| Iniciación       |
-|:------------------|
-| __ 1. Obtenga información sobre la oferta del [dispositivo de seguridad FortiGate (FSA) de 10Gbps](about.html). |
-| __ 2. [Realice el pedido](ordering-firewall.html) de un FSA de 10Gbps en los centros de datos disponibles. |
-| __ 3. [Direccione o anule el direccionamiento de VLAN](managing-vlans.html) a través de FSA de 10Gbps.  |
-| __ 4. [Gestione](managing-firewall-device-details.html) el dispositivo FSA de 10Gbps.
-{: caption="Tabla 1. Iniciación al dispositivo de seguridad FortiGate de 10Gbps" caption-side="top"} 
+Vaya a la página de pedidos en el portal de clientes:
+
+1. En el navegador, abra el [portal de clientes ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](https://control.softlayer.com/){:new_window} e inicie sesión en su cuenta.
+2. En la navegación del Portal de clientes, seleccione **Seguridad > Seguridad de red > Cortafuegos**.
+3. Desde la página Cortafuegos, seleccione el enlace **Pedir cortafuegos de varias VLAN** en la esquina superior derecha. Este enlace abre la página de pedido de cortafuegos de varias VLAN.
+
+Desde la página de pedido de cortafuegos de varias VLAN, puede pedir el cortafuegos de FSA de 10Gbps.
+
+1. Defina un nombre para el cortafuegos.
+2. Seleccione el centro de datos y el pod que desee en los menús desplegables. La disponibilidad está limitada a determinadas ubicaciones.
+3. Elija entre tener un único FSA o habilitar la protección de migración tras error con la opción de alta disponibilidad.
+4. Elija los complementos de la lista o empaquételos todos juntos para obtener un precio con descuento. El recuadro Resumen del pedido muestra la información actualizada del pedido actual.
+
+	<img src="images/ordering.png" alt="dibujo" style="width: 600px;"/>
+
+5. Marque el recuadro de selección Acuerdo de servicio maestro cuando haya revisado el pedido.
+6. Envíe el pedido pulsando **Realizar pedidos**.

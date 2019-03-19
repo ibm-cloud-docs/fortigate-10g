@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -15,6 +19,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Getting Help and Support for Fortigate Security Appliance 10Gbps
+{: #getting-help-and-support-for-fortigate-security-appliance-10gbps}
 
 If you have problems or questions when using the Fortigate Security Appliance 10Gbps, you can get help by searching for information or by asking questions through one of the forums listed below. You can also open a support ticket.
 

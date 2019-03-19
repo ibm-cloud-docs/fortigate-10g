@@ -15,12 +15,14 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 
-# Explorar firewalls
-O IBM Cloud oferece vários firewalls para escolher. A tabela a seguir compara as soluções de firewall para ajudá-lo a escolher aquele mais adequado para você. Para saber mais sobre a oferta individual, clique em seu nome na tabela.
+# Explorando firewalls
+{: #exploring-firewalls}
+
+O IBM© Cloud oferece vários firewalls para escolher. A tabela a seguir compara as soluções de firewall para ajudá-lo a escolher aquele mais adequado para você. Para saber mais sobre a oferta individual, clique em seu nome na tabela.
 
 Role para a direita para visualizar o restante da tabela!
 
-|        | [Security Groups](../security-groups/sg_index.html) (VSI somente) | [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Hardware Firewall](../hardware-firewall-shared/getting-started.html#getting-started) (Compartilhado) | [Hardware Firewall](../hardware-firewall-dedicated/getting-started.html#getting-started) (Dedicated) |
+|        | [Security Groups](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups) (VSI somente) | [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware Firewall (Shared)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware Firewall (Dedicated)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Stateful Packet Inspection**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**Public Network Protection**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|

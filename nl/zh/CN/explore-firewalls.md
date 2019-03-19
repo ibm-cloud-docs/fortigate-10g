@@ -16,11 +16,13 @@ lastupdated: "2018-11-10"
 
 
 # 探索防火墙
-IBM Cloud 提供了数个防火墙可供选择。下表对防火墙解决方案进行了比较，以帮助您选择适合的解决方案。要了解各个产品的更多信息，请单击表中的名称。
+{: #exploring-firewalls}
+
+IBM© Cloud 提供了数个防火墙可供选择。下表对防火墙解决方案进行了比较，以帮助您选择适合的解决方案。要了解各个产品的更多信息，请单击表中的名称。
 
 滚动到右侧以查看表的其余部分！
 
-|        | [安全组](../security-groups/sg_index.html)（仅限 VSI）| [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) |[硬件防火墙](../hardware-firewall-shared/getting-started.html#getting-started)（共享）|[硬件防火墙](../hardware-firewall-dedicated/getting-started.html#getting-started)（专用）|
+|        | [安全组](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups)（仅限 VSI）| [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware Firewall (Shared)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware Firewall (Dedicated)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**有状态包检查**|是|是|是|是|是|是|是|
 |**公用网络保护**|是|是|是|是|是|是|是|

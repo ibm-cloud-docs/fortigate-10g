@@ -15,6 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # 방화벽 디바이스 세부사항 관리
+{: #managing-firewall-device-details}
 
 Fortigate Security Appliance 10Gbps에 대한 디바이스 세부사항을 보려면 방화벽 이름 열 아래에서 디바이스에 대한 링크를 클릭하십시오. 
 
@@ -26,7 +27,7 @@ Fortigate Security Appliance 10Gbps에 대한 디바이스 세부사항을 보�
 
 ## FSA 포털에 액세스
 
-디바이스 포털에 로그인하려면 관리 신임 정보가 필요합니다. 일반 정보 섹션에서 디바이스 사용자 이름 및 비밀번호를 찾으십시오. 
+디바이스 포털에 로그인하려면 관리 인증 정보가 필요합니다. 일반 정보 섹션에서 디바이스 사용자 이름 및 비밀번호를 찾으십시오. 
 
 눈 모양 아이콘을 선택하여 디바이스 비밀번호 표시를 전환하십시오.
 
