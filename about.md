@@ -36,6 +36,6 @@ Features of the Fortigate Security Appliance 10Gbps include:
 * High throughput (up to 10 Gbps, 20 Gbps Aggregated)
 * Public and private network connectivity
 * Ability to associate multiple VLANs to a single firewall device
-* [NGFW](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons) add-ons (Intrusion Prevention/Application Control)
-* [Antivirus](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
-* [Web Filtering](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
+* [NGFW](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html) add-ons (Intrusion Prevention/Application Control)
+* [Antivirus](https://www.fortinet.com/products/security-subscriptions/antivirus.html)
+* [Web Filtering](https://www.fortinet.com/products/security-subscriptions/web-filtering.html)
