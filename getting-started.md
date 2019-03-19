@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: order, overview, fsa, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -15,6 +19,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Getting started with Fortigate Security Appliance 10Gbps
+{: #getting-started-with-fortigate-security-appliance-10gbps}
 
 The FortiGate Security Appliance 10Gbps is a hardware firewall that can be configured to protect traffic on multiple VLANs for both public and private networks. In the Customer Portal it is referred to as a “Multi VLAN Firewall”.
 {:shortdesc}
@@ -33,5 +38,8 @@ From the Multi VLAN Firewall order page, you can order your FSA 10Gbps firewall.
 2. Select the desired Datacenter and Pod from the dropdown menus. Availability is limited to select locations.
 3. Choose to have a single FSA or enable failover protection with the High Availability option.
 4. Choose from the list of Add-ons or bundle all of them together for a discounted price. The Order Summary box displays the updated information for your current order.
+
+	<img src="images/ordering.png" alt="drawing" style="width: 600px;"/>
+
 5. Select the Master Service Agreement checkbox once you review your order.
 6. Submit your order by clicking **Place Order**.

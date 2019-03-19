@@ -15,12 +15,14 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 
-# Explorar los cortafuegos
-IBM Cloud ofrece una amplia selección de cortafuegos. La siguiente tabla compara las soluciones de cortafuegos para ayudarle a elegir la más adecuada para usted. Para obtener más información sobre una oferta, pulse sobre su nombre en la tabla.
+# Explorar cortafuegos
+{: #exploring-firewalls}
+
+IBM© Cloud ofrece una amplia selección de cortafuegos. La siguiente tabla compara las soluciones de cortafuegos para ayudarle a elegir la más adecuada para usted. Para obtener más información sobre una oferta, pulse sobre su nombre en la tabla.
 
 Desplácese a la derecha para visualizar el resto de la tabla.
 
-|        | [Grupos de seguridad ](../security-groups/sg_index.html) (solo VSI) | [IBM Cloud Juniper vSRX Standard](../vsrx/getting-started.html#getting-started) |[Virtual Router Appliance](../virtual-router-appliance/getting-started.html#getting-started) | [FortiGate Security Appliance 10Gbps](../fortigate-10g/getting-started.html#getting-started) | [FortiGate Security Appliance 1Gbps](../fortigate-1g/getting-started.html#getting-started) | [Cortafuegos de hardware](../hardware-firewall-shared/getting-started.html#getting-started) (compartido) | [Cortafuegos de hardware](../hardware-firewall-dedicated/getting-started.html#getting-started) (dedicado) |
+|        | [Grupos de seguridad](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups) (solo VSI) | [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Cortafuegos de hardware (compartido)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Cortafuegos de hardware (dedicado)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Inspección de paquetes con estado**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |**Protección de red pública**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|

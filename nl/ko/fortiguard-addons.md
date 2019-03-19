@@ -15,6 +15,8 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # FortiGuard 방화벽 추가 기능
+{: #fortiguard-firewall-addons}
+
 다음과 같은 FortiGuard 추가 기능을 Fortigate Security Appliance 10Gbps에 사용할 수 있습니다.
 
 * [Fortiguard AV Service ![외부 링크 아이콘](../../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}

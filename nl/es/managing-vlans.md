@@ -14,9 +14,10 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Gestionar redes VLAN
+# Gestión de VLAN
+{: #managing-vlans}
 
-Para gestionar las VLAN asociadas a su cortafuegos, pulse **Gestionar** en el módulo de estado o bien pulse el enlace **Gestionar todo** en el Módulo de VLAN. A continuación, se le direccionará a la página de las VLAN.
+Para gestionar las VLAN asociadas a su cortafuegos, pulse **VLAN** en la navegación lateral, **Gestionar** en el módulo de estado o bien pulse el enlace **Gestionar todo** en el módulo de VLAN. A continuación, se le direccionará a la página de las VLAN.
 
 ## Asociar una VLAN a un cortafuegos
 

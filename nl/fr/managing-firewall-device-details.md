@@ -15,6 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Gestion des détails d'une unité pare-feu
+{: #managing-firewall-device-details}
 
 Pour afficher les détails d'un dispositif de sécurité FortiGate 10 Gbit/s, cliquez sur le lien de l'unité dans la colonne de nom de pare-feu. 
 

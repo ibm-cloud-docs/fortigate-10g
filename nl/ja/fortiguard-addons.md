@@ -15,6 +15,8 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # FortiGuard ファイアウォール・アドオン
+{: #fortiguard-firewall-addons}
+
 FortiGate Security Appliance 10Gbps では、以下の FortiGuard アドオンを使用可能です。
 
 * [Fortiguard AV サービス ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}

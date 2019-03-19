@@ -15,6 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # ファイアウォール・デバイス詳細の管理
+{: #managing-firewall-device-details}
 
 FortiGate Security Appliance 10Gbps のデバイス詳細を表示するには、「ファイアウォール名 (Firewall Name)」列でデバイスのリンクをクリックします。 
 

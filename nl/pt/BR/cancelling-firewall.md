@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# Cancelar seu firewall
+# Cancelando seu FortiGate Security Appliance 10Gbps
+{: #canceling-your-fortigate-security-appliance-10gbps}
 
 Um FortiGate Security Appliance 10Gbps pode ser cancelado imediatamente ou na data de aniversário. O cancelamento na data de aniversário manterá o firewall ativo até o início do próximo período de faturamento. Execute as etapas a seguir para cancelar um firewall:
 

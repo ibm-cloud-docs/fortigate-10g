@@ -15,6 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Gestión de los detalles del dispositivo de cortafuegos
+{: #managing-firewall-device-details}
 
 Para consultar los detalles de dispositivo para un dispositivo de seguridad FortiGate de 10Gbps, pulse el enlace del dispositivo bajo la columna Nombre de cortafuegos. 
 

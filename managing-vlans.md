@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: manage, vlans, managing, disassociate, route, vlan, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -15,6 +19,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Managing VLANs
+{: #managing-vlans}
 
 To manage the VLANs associated with your firewall, click **VLANs** in the side navigation, **Manage** in the Status Module, or the **Manage All** link in the VLANs Module. You will then be directed to the VLANs page.
 

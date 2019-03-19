@@ -15,6 +15,8 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # FortiGuard Firewall-Add-ons
+{: #fortiguard-firewall-addons}
+
 Die folgenden FortiGuard-Add-ons sind für FortiGate Security Appliance 10Gbps verfügbar:
 
 * [Fortiguard-Virenschutzservice![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}

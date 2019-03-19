@@ -14,7 +14,8 @@ lastupdated: "2018-11-10"
 {:tip: .tip}
 {:download: .download}
 
-# 방화벽 취소
+# Fortigate Security Appliance 10Gbps 취소
+{: #canceling-your-fortigate-security-appliance-10gbps}
 
 즉시 또는 주기일에 Fortigate Security Appliance 10Gbps를 취소할 수 있습니다. 주기일에 취소하면 다음 청구 기간이 시작될 때까지 방화벽이 활성 상태로 유지됩니다. 방화벽을 취소하려면 다음 단계를 수행하십시오.
 
