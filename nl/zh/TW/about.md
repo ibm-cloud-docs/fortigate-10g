@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # 關於 Fortigate Security Appliance 10Gbps
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #about-fortigate-security-appliance-10gbps}
 
 Fortigate Security Appliance (FSA) 10Gbps 是一款單一承租戶（專用）的高傳輸量 (10Gbps) 硬體防火牆，而且備有防毒 (AV)、新一代防火牆 (NGFW) 以及 Web 過濾等的新一代功能。
 

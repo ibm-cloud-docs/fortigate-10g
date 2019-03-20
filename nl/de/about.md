@@ -15,9 +15,9 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Informationen zu Fortigate Security Appliance 10Gbps
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #about-fortigate-security-appliance-10gbps}
 
-Fortigate Security Appliance (FSA) 10Gbps ist eine dedizierte Hardware-Firewall für einen einzelnen Tenant, die hohen Durchsatz (10 Gbps), Features der nächsten Generation - wie Virenschutz (AV), Next Generation Firewall (NKFW) - sowie Webfilterfunktionen bietet. 
+Fortigate Security Appliance (FSA) 10Gbps ist eine dedizierte Hardware-Firewall für einen einzelnen Tenant, die hohen Durchsatz (10 Gbps), Features der nächsten Generation - wie Virenschutz (AV), Next Generation Firewall (NKFW) - sowie Webfilterfunktionen bietet.
 
 Diese Firewall kann für den Schutz des Datenverkehrs in mehreren VLANs sowohl für öffentliche als auch für private Netze konfiguriert werden. Im Kundenportal wird sie als “Firewall für mehrere VLANs” bezeichnet.
 

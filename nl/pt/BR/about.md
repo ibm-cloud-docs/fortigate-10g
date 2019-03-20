@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Sobre o FortiGate Security Appliance 10Gbps
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #about-fortigate-security-appliance-10gbps}
 
 O FortiGate Security Appliance (FSA) 10Gbps é um firewall de hardware de alto rendimento (10 Gbps) e único locatário (dedicado) com recursos da próxima geração, como Antivírus (AV), Next Generation Firewall (NGFW) e filtragem da web.
 

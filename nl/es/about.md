@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Acerca del dispositivo de seguridad Fortigate de 10Gbps
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #about-fortigate-security-appliance-10gbps}
 
 El dispositivo de seguridad Fortigate (FSA) de 10Gbps es un cortafuegos de hardware de alto rendimiento (10Gbps) y de arrendatario único (dedicado) con características de próxima generación, como AntiVirus (AV), cortafuegos de próxima generación (NGFW) y filtrado web.
 

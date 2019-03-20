@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Fortigate Security Appliance 10Gbps 정보
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #about-fortigate-security-appliance-10gbps}
 
 FSA(Fortigate Security Appliance) 10Gbps는 안티바이러스(AV), 차세대 방화벽(NGFW) 및 웹 필터링과 같은 차세대 기능이 포함된, 높은 처리량(10Gbps)을 제공하는 싱글 테넌트(전용) 하드웨어 방화벽입니다.
 
