@@ -17,6 +17,8 @@ subcollection: fortigate-10g
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Canceling Your Fortigate Security Appliance 10Gbps
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -30,4 +32,5 @@ A FortiGate Security Appliance 10Gbps can be cancelled immediately or on the ann
 
 If the option to cancel a firewall does not exist in the dropdown, the firewall has already been requested to be cancelled.
 
-**NOTE:** Downgrading from a High Availability to a Standalone server is not supported.
+Downgrading from a High Availability to a Standalone server is not supported.
+{: note}

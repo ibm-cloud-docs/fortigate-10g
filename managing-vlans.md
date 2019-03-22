@@ -16,6 +16,8 @@ subcollection: fortigate-10g
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Managing VLANs

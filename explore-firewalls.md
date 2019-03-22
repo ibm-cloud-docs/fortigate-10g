@@ -17,7 +17,8 @@ subcollection: fortigate-10g
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
-
+{:note: .note}
+{:important: .important}
 
 # Exploring Firewalls
 {: #exploring-firewalls}
