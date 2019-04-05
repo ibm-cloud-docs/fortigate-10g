@@ -28,10 +28,12 @@ To see the device details for a FortiGate Security Appliance 10Gbps, click the l
 This link directs you to the Device Overview page.
 
 ## Restore default firewall settings
+{: #restore-default-firewall-settings}
 
 To reset your device back to its factory settings, select the overflow menu, then select **Restore Defaults** from the dropdown menu.
 
 ## Access the FSA Portal
+{: #access-the-fsa-portal}
 
 To log into the Device Portal you will need your management credentials. Locate the device username and password in the General Information Section.
 

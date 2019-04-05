@@ -32,6 +32,7 @@ As the demand for high-speed, in-cloud networks for enterprise grows, so does th
 With the exception of IBM, no other cloud service provider currently offers hardware firewalls for robust perimeter security in the cloud. FortiGate Security Appliance 10Gbps allows our customers to grow their workload and networks in IBM Cloud.
 
 ## Overview of Features
+{: #overview-of-features}
 
 Features of the Fortigate Security Appliance 10Gbps include:
 
