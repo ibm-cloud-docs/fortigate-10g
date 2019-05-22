@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Fortigate Security Appliance 10Gbps 入门
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #getting-started}
 
 FortiGate Security Appliance 10Gbps 是硬件防火墙，可进行配置以保护公用和专用网络中多个 VLAN 上的流量。在客户门户网站中，它称为“多 VLAN 防火墙”。
 {:shortdesc}

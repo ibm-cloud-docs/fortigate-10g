@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Fortigate Security Appliance 10Gbps の開始
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #getting-started}
 
 FortiGate Security Appliance 10Gbps は、パブリック・ネットワークとプライベート・ネットワークの両方で複数 VLAN のトラフィックを保護するように構成できるハードウェア・ファイアウォールです。 カスタマー・ポータルでは、これは「複数 VLAN ファイアウォール」と呼ばれます。
 {:shortdesc}

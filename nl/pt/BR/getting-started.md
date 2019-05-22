@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Introdução ao Fortigate Security Appliance 10Gbps
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #getting-started}
 
 O FortiGate Security Appliance 10Gbps é um firewall de hardware que pode ser configurado para proteger o tráfego em múltiplas VLANs para as redes públicas e privadas. No Portal do Cliente ele é referido como um “Firewall de Multi-VLAN“.
 {:shortdesc}

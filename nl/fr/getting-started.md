@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Initiation au dispositif de sécurité FortiGate 10 Gbit/s
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #getting-started}
 
 Le dispositif de sécurité FortiGate 10 Gbit/s est un pare-feu matériel qui peut être configuré pour protéger le trafic sur plusieurs réseaux locaux virtuels pour des réseaux publics et privés. Dans le portail client, ce dispositif est désigné "pare-feu pour plusieurs réseaux locaux virtuels".
 {:shortdesc}

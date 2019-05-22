@@ -15,7 +15,7 @@ lastupdated: "2018-11-10"
 {:download: .download}
 
 # Iniciación al dispositivo de seguridad Fortigate de 10Gbps
-{: #getting-started-with-fortigate-security-appliance-10gbps}
+{: #getting-started}
 
 El dispositivo de seguridad FortiGate de 10Gbps es un cortafuegos de hardware que puede configurarse para proteger el tráfico en múltiples VLAN, tanto para redes públicas como privadas. En el Portal de clientes se denomina “Cortafuegos de varias VLAN”.
 {:shortdesc}
