@@ -19,6 +19,7 @@ subcollection: fortigate-10g
 {:download: .download}
 {:note: .note}
 {:important: .important}
+{:row-headers .row-headers}
 
 # Exploring Firewalls
 {: #exploring-firewalls}
@@ -28,21 +29,25 @@ IBM© Cloud offers several firewalls to choose from. The table below compares th
 Scroll to the right to view the rest of the table!
 {: important}
 
-|        | [Security Groups](/docs/infrastructure/security-groups?topic=security-groups-getting-started-with-security-groups) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started-with-ibm-cloud-juniper-vsrx-gateway) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started-with-ibm-virtual-router-appliance) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started-with-fortigate-security-appliance-10gbps) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started-with-fortigate-security-appliance-1gbps) | [Hardware Firewall (Shared)](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started-with-hardware-firewall-shared) | [Hardware Firewall (Dedicated)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started-with-hardware-firewall-dedicated) |
+|        | [Security Groups](/docs/infrastructure/security-groups?topic=security-groups-getting-started) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/infrastructure/vsrx?topic=vsrx-getting-started) |[Virtual Router Appliance](/docs/infrastructure/virtual-router-appliance?topic=virtual-router-appliance-getting-started) | [FortiGate Security Appliance 10Gbps](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-getting-started) | [FortiGate Security Appliance 1Gbps](/docs/infrastructure/fortigate-1g?topic=fortigate-1g-getting-started) | [Hardware Firewall ](/docs/infrastructure/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) | [Hardware Firewall (Dedicated)](/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started) |
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-|**Stateful Packet Inspection**|Yes|Yes|Yes|Yes|Yes|Yes|Yes|
-|**Public Network Protection**|Yes|Yes|Yes|Yes|Yes|Yes|Yes|
-|**Private Network Protection**|Yes|Yes|Yes|Yes|No|No|No|
-|**Ingress Rules**|Yes|Yes|Yes|Yes|Yes|Yes|Yes|
-|**Egress Rules**|Yes|Yes|Yes|Yes|Yes|No|No|
-|**Single Tenant Appliance**|No|Yes|Yes|Yes|Yes|No|Yes|
-|**VLAN Protection**|No|Yes|Yes|Yes|Yes|No|Yes|
-|**Multi-VLAN Support**|No|Yes|Yes|Yes|No|No|No|
-|**NAT Support**|No|Yes|Yes|Yes|Yes|No|No|
-|**SSL/IPsec VPN Termination**|No|Yes|Yes|Yes|Yes|No|No|
-|**Open VPN Termination**|No|No|Yes|No|No|No|No|
-|**HA Option**|N/A|Yes|Yes|Yes|Yes|No|Yes|
+|**Stateful Packet Inspection**|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|
+|**Public Network Protection**|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|
+|**Private Network Protection**|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)||||
+|**Ingress Rules**|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|
+|**Egress Rules**|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|||
+|**Single Tenant Appliance**||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)||![Checkmark icon](../../icons/checkmark-icon.svg)|
+|**VLAN Protection**||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)||![Checkmark icon](../../icons/checkmark-icon.svg)|
+|**Multi-VLAN Support**||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)||||
+|**NAT Support**||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|||
+|**SSL/IPsec VPN Termination**||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|||
+|**Open VPN Termination**|||![Checkmark icon](../../icons/checkmark-icon.svg)|||||
+|**HA Option**|N/A|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)||![Checkmark icon](../../icons/checkmark-icon.svg)|
 |**Manage from API & Portal**|Yes|Appliance GUI|Appliance GUI|Appliance GUI|Appliance GUI|Yes|Yes|
-|**10Gbps Support**|N/A|Yes|Yes|Yes|No|No|No|
-|**NGFW Add-ons (IPS, AV, WF)**|No|Coming Soon|No|Yes|Yes|No|No|
+|**10Gbps Support**|N/A|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)||||
+|**NGFW Add-ons (IPS, AV, WF)**||Coming Soon||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|||
 |**Cost**|$0/Month|Starting $299.00/month + Cost of Bare Metal Server | Starting $219.00/month + Cost of Bare Metal Server|Starting $4,999.00/month|Starting $999.00/month|Starting $99.00/month|Starting $999.00/month|
+{: row-headers}
+{: class="comparison-table"}
+{: caption="A comparison of IBM's firewall offerings" caption-side="top"}
+{: summary="This table all of IBM's firewall offerings, and provides links to their documentation."}
