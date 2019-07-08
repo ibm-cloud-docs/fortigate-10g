@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: available, data, centers
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,18 +17,11 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Verfügbare Rechenzentren
 {: #available-data-centers}
-
-IBM© bietet zahlreiche globale Rechenzentren für die Verbindung Ihrer IBM Cloud-Bereitstellung der Fortigate Security Appliance (FSA). Es werden Verbindungen mit den folgenden Geschwindigkeiten angeboten:
-
-* 50 mbps
-* 100 mbps
-* 200 mbps
-* 1 Gbps
-* 2 Gbps
-* 5 Gbps
 
 Jedes IBM Cloud-Rechenzentrum ist mit dem globalen privaten IBM Netz verbunden - für schnellere und effizientere Datenübertragungen weltweit.
 
@@ -55,8 +52,9 @@ Verfügbare FSA-Rechenzentren und ihre Standorte:
 | WDC04, Pod 2 | Washington, D.C. |
 | WDC04, Pod 3 | Washington, D.C. |
 | WDC04, Pod 4 | Washington, D.C. |
+| WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
 
-Wenn Sie Vorschläge für zusätzliche unterstützte Standorte einreichen möchten, nutzen Sie die [Umfrage ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](http://ibm.biz/firewalllocations){:new_window}, um Feedback zu senden. 
+Wenn Sie Vorschläge für zusätzliche unterstützte Standorte einreichen möchten, nutzen Sie die [Umfrage ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](http://ibm.biz/firewalllocations){:new_window}, um Feedback zu senden.
 
-Weitere Informationen zu IBM Global Data Centers finden Sie in [diesem Abschnitt ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/data-centers){:new_window}. 
+Weitere Informationen zu IBM Global Data Centers finden Sie in [diesem Abschnitt ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/data-centers){:new_window}.

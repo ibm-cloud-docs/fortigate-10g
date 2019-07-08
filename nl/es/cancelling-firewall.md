@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: cancel, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,8 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Cancelación del dispositivo de seguridad Fortigate de 10Gbps
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -24,4 +30,7 @@ Un dispositivo de seguridad FortiGate de 10Gbps se puede cancelar de forma inmed
 3. Puede elegir entre cancelar inmediatamente o en una fecha de aniversario (siguiente ciclo de facturación).
 4. Confirme la selección.
 
-**NOTA:** No está admitido degradar desde un servidor de alta disponibilidad a uno autónomo.
+Si la opción de cancelar un cortafuegos no existe en el desplegable, significa que ya se ha solicitado la cancelación del cortafuegos.
+
+No está admitido degradar desde un servidor de alta disponibilidad a uno autónomo.
+{: note}

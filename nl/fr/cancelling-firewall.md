@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: cancel, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,8 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Annulation de votre dispositif de sécurité FortiGate 10 Gbit/s
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -24,4 +30,7 @@ Un dispositif de sécurité FortiGate 10 Gbit/s peut être annulé immédiatemen
 3. Sélectionnez l'annulation immédiate ou à la date anniversaire (prochain cycle de facturation).
 4. Confirmez votre sélection.
 
-**REMARQUE :** La rétromigration vers un serveur autonome à partir d'un serveur haute disponibilité n'est pas prise en charge.
+Si l'option d'annulation d'un pare-feu ne figure pas dans le menu déroulant, une demande d'annulation du pare-feu a déjà été effectuée.
+
+La rétromigration d'un serveur à haute disponibilité vers un serveur autonome n'est pas prise en charge.
+{: note}

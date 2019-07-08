@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: available, data, centers
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,18 +17,11 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Centros de datos disponibles
 {: #available-data-centers}
-
-IBM© ofrece muchos centros de datos globales para conectarse a su despliegue en IBM Cloud de Fortigate Security Appliance (FSA). Las conexiones se ofrecen a las siguientes velocidades:
-
-* 50 mbps
-* 100 mbps
-* 200 mbps
-* 1 Gbps
-* 2 Gbps
-* 5 Gbps
 
 Cada centro de datos de IBM Cloud está conectado a la red privada global de IBM, por lo que las transferencias son más rápidas y más eficientes en todo el mundo.
 
@@ -55,6 +52,7 @@ Los centros de datos FSA disponibles y sus ubicaciones son:
 | WDC04, Pod 2 | Washington, D.C. |
 | WDC04, Pod 3 | Washington, D.C. |
 | WDC04, Pod 4 | Washington, D.C. |
+| WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
 
 Si desea ver más ubicaciones compatibles, utilice esta [encuesta ![Icono de enlace externo](../../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/firewalllocations){:new_window} para enviar sus comentarios.

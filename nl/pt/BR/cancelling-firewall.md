@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: cancel, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,8 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Cancelando seu FortiGate Security Appliance 10Gbps
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -24,4 +30,7 @@ Um FortiGate Security Appliance 10Gbps pode ser cancelado imediatamente ou na da
 3. Escolha se deseja cancelar imediatamente ou na data de aniversário (próximo ciclo de faturamento).
 4. Confirme sua seleção.
 
-**NOTA:** o downgrade de um Servidor de Alta Disponibilidade para um Servidor Independente não é suportado.
+Se a opção de cancelamento de um firewall não existir no menu suspenso, o cancelamento do firewall já foi solicitado.
+
+O downgrade de um servidor de Alta disponibilidade para um servidor Independente não é suportado.
+{: note}

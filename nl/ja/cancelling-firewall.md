@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: cancel, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,8 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Fortigate Security Appliance 10Gbps のキャンセル
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -24,4 +30,7 @@ FortiGate Security Appliance 10Gbps は、即時にキャンセルすること�
 3. 即時にキャンセルするか、支払い日 (次の請求サイクル) にキャンセルするか選択します。
 4. 選択内容を確認します。
 
-**注:** 高可用性サーバーからスタンドアロン・サーバーへのダウングレードはサポートされていません。
+ファイアウォールをキャンセルするオプションがドロップダウンに存在しない場合、ファイアウォールのキャンセルがすでに要求されています。
+
+高可用性サーバーからスタンドアロン・サーバーへのダウングレードはサポートされていません。
+{: note}

@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: order, overview, fsa, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,13 +16,15 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Einführung in Fortigate Security Appliance 10Gbps
 {: #getting-started}
 
 FortiGate Security Appliance 10Gbps ist eine Hardware-Firewall, die für den Schutz des Datenverkehrs in mehreren VLANs sowohl für öffentliche als auch für private Netze konfiguriert werden kann. Im Kundenportal wird sie als “Firewall für mehrere VLANs” bezeichnet.
-{:shortdesc}
+{: shortdesc}
 
 ## Bestellverfahren für FSA 10Gbps
 

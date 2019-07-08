@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: order, overview, fsa, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,13 +16,15 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Fortigate Security Appliance 10Gbps 시작하기
 {: #getting-started}
 
 Fortigate Security Appliance 10Gbps는 공용 및 사설 네트워크 둘 다를 위해 다중 VLAN의 트래픽을 보호하도록 구성할 수 있는 하드웨어 방화벽입니다. 고객 포털에서는 이 방화벽을 "다중 VLAN 방화벽"이라고 합니다.
-{:shortdesc}
+{: shortdesc}
 
 ## FSA 10Gbps 주문
 
@@ -31,7 +37,7 @@ Fortigate Security Appliance 10Gbps는 공용 및 사설 네트워크 둘 다를
 다중 VLAN 방화벽 주문 페이지에서 FSA 10Gbps 방화벽을 주문할 수 있습니다.
 
 1. 방화벽에 이름을 지정하십시오.
-2. 드롭 다운 메뉴에서 원하는 데이터 센터 및 Pod를 선택하십시오. 가용성이 선택된 위치로 제한됩니다.
+2. 드롭 다운 메뉴에서 원하는 데이터 센터 및 팟(Pod)을 선택하십시오. 가용성이 선택된 위치로 제한됩니다.
 3. 단일 FSA를 보유할지 또는 고가용성 옵션을 통해 장애 복구 보호를 사용할지 선택하십시오.
 4. 추가 기능 목록에서 선택하거나 모든 추가 기능을 할인된 가격으로 번들로 묶으십시오. 현재 주문에 대한 업데이트된 정보가 주문 요약 상자에 표시됩니다.
 

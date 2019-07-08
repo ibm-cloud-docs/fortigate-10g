@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: order, overview, fsa, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,13 +16,15 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Fortigate Security Appliance 10Gbps の開始
 {: #getting-started}
 
 FortiGate Security Appliance 10Gbps は、パブリック・ネットワークとプライベート・ネットワークの両方で複数 VLAN のトラフィックを保護するように構成できるハードウェア・ファイアウォールです。 カスタマー・ポータルでは、これは「複数 VLAN ファイアウォール」と呼ばれます。
-{:shortdesc}
+{: shortdesc}
 
 ## FSA 10Gbps の注文
 

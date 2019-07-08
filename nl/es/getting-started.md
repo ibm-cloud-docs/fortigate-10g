@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: order, overview, fsa, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,13 +16,15 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Iniciación al dispositivo de seguridad Fortigate de 10Gbps
 {: #getting-started}
 
 El dispositivo de seguridad FortiGate de 10Gbps es un cortafuegos de hardware que puede configurarse para proteger el tráfico en múltiples VLAN, tanto para redes públicas como privadas. En el Portal de clientes se denomina “Cortafuegos de varias VLAN”.
-{:shortdesc}
+{: shortdesc}
 
 ## Realizar el pedido de FSA de 10Gbps
 
@@ -38,4 +44,4 @@ Desde la página de pedido de cortafuegos de varias VLAN, puede pedir el cortafu
 	<img src="images/ordering.png" alt="dibujo" style="width: 600px;"/>
 
 5. Marque el recuadro de selección Acuerdo de servicio maestro cuando haya revisado el pedido.
-6. Envíe el pedido pulsando **Realizar pedidos**.
+6. Envíe el pedido pulsando **Realizar pedido**.

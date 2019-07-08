@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: order, overview, fsa, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,13 +16,15 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Fortigate Security Appliance 10Gbps 入门
 {: #getting-started}
 
 FortiGate Security Appliance 10Gbps 是硬件防火墙，可进行配置以保护公用和专用网络中多个 VLAN 上的流量。在客户门户网站中，它称为“多 VLAN 防火墙”。
-{:shortdesc}
+{: shortdesc}
 
 ## 订购 FSA 10Gbps
 

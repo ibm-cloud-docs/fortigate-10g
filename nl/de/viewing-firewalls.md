@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: view, viewing, firewalls, list
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,6 +16,8 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Liste der Firewalls anzeigen
@@ -19,7 +25,7 @@ lastupdated: "2018-11-10"
 
 Wenn Sie eine Liste der aktuellen FortiGate Security Appliance 10Gbps-Firewalls anzeigen möchten, die Ihrem Konto zugeordnet sind, navigieren Sie wie folgt zur Listenseite:
 
-1. Öffnen Sie im Browser [https://control.softlayer.com/ ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){:new_window} und melden Sie sich bei Ihrem Konto an. 
+1. Öffnen Sie im Browser [https://control.softlayer.com/ ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://control.softlayer.com/){:new_window} und melden Sie sich bei Ihrem Konto an.
 2. Wählen Sie in der Kundenportalnavigation **Sicherheit > Netzsicherheit > Firewalls** aus.
-3. Wählen Sie auf der Firewallseite die Registerkarte **Firewalls für mehrere VLANs** aus. 
-4. Wenn in Ihrem Konto keine Firewall für mehrere VLANs vorhanden ist, wird eine Nachricht angezeigt, die einen Link zur Bestellungsseite enthält. 
+3. Wählen Sie auf der Firewallseite die Registerkarte **Firewalls für mehrere VLANs** aus.
+4. Wenn in Ihrem Konto keine Firewall für mehrere VLANs vorhanden ist, wird eine Nachricht angezeigt, die einen Link zur Bestellungsseite enthält.

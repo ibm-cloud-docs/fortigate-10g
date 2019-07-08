@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: about, overview, features, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,11 +17,13 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # 有关 Fortigate Security Appliance 10Gbps
 {: #about-fortigate-security-appliance-10gbps}
 
-Fortigate Security Appliance (FSA) 10Gbps 是单租户（专用）、高吞吐量 (10Gbps) 硬件防火墙，提供了数个下一代功能，如防病毒 (AV)、下一代防火墙 (NGFW) 以及 Web 过滤。
+Fortigate Security Appliance (FSA) 10Gbps 是单租户（专用）、自我管理、高吞吐量 (10Gbps) 硬件防火墙，提供了多个新一代功能，如防病毒 (AV)、下一代防火墙 (NGFW) 和 Web 过滤。
 
 此防火墙可进行配置以保护公用和专用网络中多个 VLAN 上的流量。在客户门户网站中，它称为“多 VLAN 防火墙”。
 
@@ -26,12 +32,13 @@ Fortigate Security Appliance (FSA) 10Gbps 是单租户（专用）、高吞吐�
 除了 IBM，目前尚无其他云服务提供商可通过硬件防火墙为云提供稳健的外围安全性。FortiGate Security Appliance 10Gbps 允许客户增加在 IBM Cloud 中的工作负载和网络。
 
 ## 功能概述
+{: #overview-of-features}
 
 Fortigate Security Appliance 10Gbps 的功能包括：
 
 * 高吞吐量（最高 10 Gbps，累计 20 Gbps）
 * 公用和专用网络连接
 * 能够将多个 VLAN 与单个防火墙设备相关联
-* [NGFW](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons) 附件（入侵防御/应用程序控制）
-* [防病毒](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
-* [Web 过滤](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
+* [NGFW](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html) 附件（入侵防御/应用程序控制）
+* [防病毒](https://www.fortinet.com/products/security-subscriptions/antivirus.html)
+* [Web 过滤](https://www.fortinet.com/products/security-subscriptions/web-filtering.html)

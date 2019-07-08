@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: cancel, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,8 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Fortigate Security Appliance 10Gbps 취소
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -24,4 +30,7 @@ lastupdated: "2018-11-10"
 3. 즉시 취소할지 또는 주기일(다음 청구 주기)에 취소할지를 선택하십시오.
 4. 선택사항을 확인하십시오.
 
-**참고:** 고가용성 서버에서 독립형 서버로의 다운로드는 지원되지 않습니다.
+방화벽을 취소하는 옵션이 드롭 다운에 없는 경우에는 해당 방화벽이 취소되도록 이미 요청된 것입니다. 
+
+고가용성에서 독립형 서버로의 다운그레이드는 지원되지 않습니다.
+{: note}

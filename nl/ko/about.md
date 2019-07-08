@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: about, overview, features, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,11 +17,13 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Fortigate Security Appliance 10Gbps 정보
 {: #about-fortigate-security-appliance-10gbps}
 
-FSA(Fortigate Security Appliance) 10Gbps는 안티바이러스(AV), 차세대 방화벽(NGFW) 및 웹 필터링과 같은 차세대 기능이 포함된, 높은 처리량(10Gbps)을 제공하는 싱글 테넌트(전용) 하드웨어 방화벽입니다.
+Fortigate Security Appliance(FSA) 10Gbps는 안티바이러스(AV), 차세대 방화벽(NGFW) 및 웹 필터링 등의 차세대 기능이 포함된, 자체 관리되고 높은 처리량(10Gbps)을 제공하는 싱글 테넌트(전용) 하드웨어 방화벽입니다. 
 
 공용 및 사설 네트워크 둘 다에 대해 다중 VLAN의 트래픽을 보호하도록 이 방화벽을 구성할 수 있습니다. 고객 포털에서는 이 방화벽을 "다중 VLAN 방화벽"이라고 합니다.
 
@@ -26,12 +32,13 @@ FSA(Fortigate Security Appliance) 10Gbps는 안티바이러스(AV), 차세대 �
 IBM을 제외한 다른 클라우드 서비스 제공자는 현재 클라우드의 강력한 외부 보안을 위한 하드웨어 방화벽을 제공하지 않습니다. IBM의 고객은 Fortigate Security Appliance 10Gbps를 사용하여 IBM Cloud의 워크로드 및 네트워크를 확장할 수 있습니다.
 
 ## 기능 개요
+{: #overview-of-features}
 
 Fortigate Security Appliance 10Gbps의 기능에는 다음이 포함됩니다.
 
 * 높은 처리량(최대 10Gbps, 20Gbps 집계됨)
 * 공용 및 사설 네트워크 연결
 * 다중 VLAN을 단일 방화벽 디바이스와 연관시킬 수 있는 기능
-* [NGFW](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons) 추가 기능(침입 방지/애플리케이션 제어)
-* [Antivirus](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
-* [Web Filtering](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
+* [NGFW](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html) 추가 기능(침입 방지/애플리케이션 제어)
+* [안티바이러스(AV)](https://www.fortinet.com/products/security-subscriptions/antivirus.html)
+* [웹 필터링](https://www.fortinet.com/products/security-subscriptions/web-filtering.html)

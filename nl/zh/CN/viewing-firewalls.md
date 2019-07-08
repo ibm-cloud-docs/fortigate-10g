@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: view, viewing, firewalls, list
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,6 +16,8 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # 查看防火墙列表
@@ -21,5 +27,5 @@ lastupdated: "2018-11-10"
 
 1. 从浏览器打开 [https://control.softlayer.com/ ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](https://control.softlayer.com/){:new_window}，然后登录帐户。
 2. 在“客户门户网站”导航中，选择**安全性 > 网络安全 > 防火墙**。
-3. 在“防火墙”页面上，选择**多 VLAN 防火墙**选项卡。 
-4. 如果帐户不具有多 VLAN 防火墙，将显示一条消息，其中包含订单页面的链接。 
+3. 在“防火墙”页面上，选择**多 VLAN 防火墙**选项卡。
+4. 如果帐户不具有多 VLAN 防火墙，将显示一条消息，其中包含订单页面的链接。

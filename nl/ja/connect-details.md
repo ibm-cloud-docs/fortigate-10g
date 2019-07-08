@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: available, data, centers
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,18 +17,11 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # 使用可能なデータ・センター
 {: #available-data-centers}
-
-IBM© は、IBM Cloud デプロイメントの Fortigate Security Appliance (FSA) に接続するために、多くのグローバル・データ・センターを提供しています。以下の速度の接続が提供されます。
-
-* 50 Mbps
-* 100 Mbps
-* 200 Mbps
-* 1 Gbps
-* 2 Gbps
-* 5 Gbps
 
 各 IBM Cloud データ・センターは IBM グローバル・プライベート・ネットワークに接続されており、データ転送の高速化と効率性の向上を実現しています。
 
@@ -43,7 +40,7 @@ IBM© は、IBM Cloud デプロイメントの Fortigate Security Appliance (FSA
 | HKG02, Pod 2 | 香港 |
 | LON02, Pod 2 | ロンドン |
 | LON04, Pod 1 | ロンドン |
-| MEX01, Pod 1 |メキシコ |
+| MEX01, Pod 1 | メキシコ |
 | PAR01, Pod 1 | パリ |
 | SJC03, Pod 1 | サンノゼ |
 | SJC03, Pod 2 | サンノゼ |
@@ -55,6 +52,7 @@ IBM© は、IBM Cloud デプロイメントの Fortigate Security Appliance (FSA
 | WDC04, Pod 2 | ワシントン D.C. |
 | WDC04, Pod 3 | ワシントン D.C. |
 | WDC04, Pod 4 | ワシントン D.C. |
+| WDC06, Pod 1 | ワシントン D.C. |
 | WDC07, Pod 1 | ワシントン D.C. |
 
 サポートされている他の場所を確認するには、この[サーベイ ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](http://ibm.biz/firewalllocations){:new_window} を使用してフィードバックを送信してください。

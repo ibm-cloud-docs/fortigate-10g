@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: manage, managing, firewall, details, devices
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,22 +16,26 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Gestión de los detalles del dispositivo de cortafuegos
 {: #managing-firewall-device-details}
 
-Para consultar los detalles de dispositivo para un dispositivo de seguridad FortiGate de 10Gbps, pulse el enlace del dispositivo bajo la columna Nombre de cortafuegos. 
+Para consultar los detalles de dispositivo para un dispositivo de seguridad FortiGate de 10Gbps, pulse el enlace del dispositivo bajo la columna Nombre de cortafuegos.
 
 Este enlace le dirige a la página de visión general del dispositivo.
 
 ## Restaure los valores predeterminados del cortafuegos
+{: #restore-default-firewall-settings}
 
 Para restablecer el dispositivo a los valores de fábrica, seleccione el menú de desbordamiento y, a continuación, **Restaurar valores predeterminados** del menú desplegable.
 
 ## Acceso al portal de FSA
+{: #access-the-fsa-portal}
 
-Para iniciar sesión en el portal del dispositivo, necesita credenciales de gestión. Localice el nombre de usuario del dispositivo y la contraseña en la sección de información general. 
+Para iniciar sesión en el portal del dispositivo, necesita credenciales de gestión. Localice el nombre de usuario del dispositivo y la contraseña en la sección de información general.
 
 Puede visualizar la contraseña del dispositivo seleccionando el icono de ojo.
 

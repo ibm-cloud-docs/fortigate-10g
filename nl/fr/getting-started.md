@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: order, overview, fsa, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,13 +16,15 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Initiation au dispositif de sécurité FortiGate 10 Gbit/s
 {: #getting-started}
 
 Le dispositif de sécurité FortiGate 10 Gbit/s est un pare-feu matériel qui peut être configuré pour protéger le trafic sur plusieurs réseaux locaux virtuels pour des réseaux publics et privés. Dans le portail client, ce dispositif est désigné "pare-feu pour plusieurs réseaux locaux virtuels".
-{:shortdesc}
+{: shortdesc}
 
 ## Commande du dispositif FSA 10 Gbit/s
 

@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: help, support, troubleshoot, contact
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,6 +16,8 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Fortigate Security Appliance 10Gbps のためのヘルプおよびサポート
@@ -22,7 +28,7 @@ Fortigate Security Appliance 10Gbps の使用時に問題が発生した場合�
 フォーラムを使用して質問する場合は、IBM Cloud 開発チームの目に留まるように質問にタグを付けてください。
 
 * Fortigate Security Appliance 10Gbps に関する技術的な質問がある場合は、[スタック・オーバーフロー ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](https://stackoverflow.com/search?q=fsa-10g+ibm-cloud) で質問を投稿し、質問に「ibm-cloud」および「fsa-10g」というタグを付けてください。
-* サービスおよび開始手順に関する質問については、[IBM© developerWorks dW Answers ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=ibm-cloud) フォーラムを使用してください。「fsa-10g」と「ibm-cloud」のタグを付けてください。
+* サービスおよび開始手順に関する質問については、[IBM© developerWorks dW Answers ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/fsa-10g.html?smartspace=ibm-cloud) フォーラムを使用してください。 「fsa-10g」と「ibm-cloud」のタグを付けてください。
 
 フォーラムの使用について詳しくは、[ヘルプの利用](https://{DomainName}/docs/get-support?topic=get-support-using-avatar)を参照してください。
 

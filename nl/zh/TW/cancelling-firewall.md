@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: cancel, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,8 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # 取消 Fortigate Security Appliance 10Gbps
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -24,4 +30,7 @@ FortiGate Security Appliance 10Gbps 可以立即或在週年日期取消。在�
 3. 選擇立即取消或者在週年日期（下一個計費週期）取消。
 4. 確認您選取的項目。
 
-**附註：**不支援從高可用性降級至獨立式伺服器。
+如果下拉清單中不存在取消防火牆的選項，即表示已要求取消防火牆。
+
+不支援從高可用性降級至獨立式伺服器。
+{: note}

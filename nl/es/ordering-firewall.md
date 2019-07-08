@@ -28,4 +28,4 @@ Desde la página de pedido de cortafuegos de varias VLAN, puede pedir el cortafu
 3. Elija entre tener un único FSA o habilitar la protección de migración tras error con la opción de alta disponibilidad.
 Elija los complementos de la lista o empaquételos todos juntos para obtener un precio con descuento. El recuadro Resumen del pedido muestra la información actualizada del pedido actual.
 4. Marque el recuadro de selección Acuerdo de servicio maestro cuando haya revisado el pedido.
-5. Envíe el pedido pulsando **Realizar pedidos**.
+5. Envíe el pedido pulsando **Realizar pedido**.

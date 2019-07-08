@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: view, viewing, firewalls, list
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,6 +16,8 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # ファイアウォールのリストの表示
@@ -21,5 +27,5 @@ lastupdated: "2018-11-10"
 
 1. ブラウザーから [https://control.softlayer.com/ ![外部リンク・アイコン](../../icons/launch-glyph.svg "外部リンク・アイコン")](https://control.softlayer.com/){:new_window} を開き、アカウントにログインします。
 2. 「カスタマー・ポータル」ナビゲーションで、**「セキュリティー」>「ネットワーク・セキュリティー」>「ファイアウォール」**を選択します。
-3. 「ファイアウォール」ページで、**「複数 VLAN ファイアウォール (Multi VLAN Firewalls)」**タブを選択します。 
-4. アカウントに複数 VLAN ファイアウォールがない場合、注文ページへのリンクを含むメッセージが表示されます。 
+3. 「ファイアウォール」ページで、**「複数 VLAN ファイアウォール (Multi VLAN Firewalls)」**タブを選択します。
+4. アカウントに複数 VLAN ファイアウォールがない場合、注文ページへのリンクを含むメッセージが表示されます。

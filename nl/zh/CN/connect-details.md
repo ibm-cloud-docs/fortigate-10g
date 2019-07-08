@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: available, data, centers
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,18 +17,11 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # 可用的数据中心
 {: #available-data-centers}
-
-IBM© 提供了许多全球数据中心，以连接 Fortigate Security Appliance (FSA) 的 IBM Cloud 部署。提供的连接速度如下：
-
-* 50 mbps
-* 100 mbps
-* 200 mbps
-* 1 Gbps
-* 2 Gbps
-* 5 Gbps
 
 每个 IBM Cloud 数据中心都连接到 IBM 全球专用网络，使各地的数据传输更快更有效。
 
@@ -55,6 +52,7 @@ IBM© 提供了许多全球数据中心，以连接 Fortigate Security Appliance
 | WDC04, Pod 2 |华盛顿|
 | WDC04, Pod 3 |华盛顿|
 | WDC04, Pod 4 |华盛顿|
+| WDC06, Pod 1 |华盛顿|
 | WDC07, Pod 1 |华盛顿|
 
 如果您想查看支持的其他位置，请使用此[调查 ![外部链接图标](../../icons/launch-glyph.svg "外部链接图标")](http://ibm.biz/firewalllocations){:new_window} 提交反馈。

@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: about, overview, features, 10gbps
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,11 +17,13 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Sobre o FortiGate Security Appliance 10Gbps
 {: #about-fortigate-security-appliance-10gbps}
 
-O FortiGate Security Appliance (FSA) 10Gbps é um firewall de hardware de alto rendimento (10 Gbps) e único locatário (dedicado) com recursos da próxima geração, como Antivírus (AV), Next Generation Firewall (NGFW) e filtragem da web.
+O Fortigate Security Appliance (FSA) de 10 Gbps é um firewall de hardware de locatário único (dedicado), autogerenciado e de alto rendimento (10 Gbps) com recursos de última geração, como Antivírus (AV), Next Generation Firewall (NGFW) e filtragem da web.
 
 Esse firewall pode ser configurado para proteger o tráfego em múltiplas VLANs para redes públicas e privadas. No Portal do Cliente ele é referido como um “Firewall de Multi-VLAN“.
 
@@ -26,12 +32,13 @@ Assim como a demanda por redes na nuvem de alta velocidade para empresas cresce,
 Com exceção da IBM, nenhum outro provedor de serviços de nuvem atualmente oferece firewalls de hardware para segurança de perímetro robusto na nuvem. O FortiGate Security Appliance 10Gbps permite que nossos clientes aumentem sua carga de trabalho e redes no IBM Cloud.
 
 ## Visão geral de recursos
+{: #overview-of-features}
 
 Os recursos do Fortigate Security Appliance 10Gbps incluem:
 
 * Rendimento alto (até 10 Gbps, 20 Gbps agregados)
 * Conectividade de rede pública e privada
 * Capacidade para associar várias VLANs a um único dispositivo de firewall
-* Complementos [NGFW](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons) (prevenção de intrusão/controle do aplicativo)
-* [Antivírus](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
-* [Filtragem da Web](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-fortiguard-firewall-addons)
+* Complementos [NGFW](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html) (prevenção de intrusão/controle do aplicativo)
+* [Antivírus](https://www.fortinet.com/products/security-subscriptions/antivirus.html)
+* [Filtragem da Web](https://www.fortinet.com/products/security-subscriptions/web-filtering.html)

@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: cancel, firewall
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +17,8 @@ lastupdated: "2018-11-10"
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
+{:note: .note}
+{:important: .important}
 
 # Fortigate Security Appliance 10Gbps stornieren
 {: #canceling-your-fortigate-security-appliance-10gbps}
@@ -24,4 +30,7 @@ FortiGate Security Appliance 10Gbps kann sofort oder zur Jährung des Vertragsbe
 3. Wählen Sie aus, ob die Stornierung sofort oder zur Jährung des Vertragsbeginns (zum nächsten Rechnungsstellungszyklus) erfolgen soll.
 4. Bestätigen Sie die Auswahl.
 
-**Hinweis:** Ein Downgrade von einem Hochverfügbarkeitsserver zu einem eigenständigen Server wird nicht unterstützt.
+Wenn die Option zum Stornieren einer Firewall im Dropdown-Menü nicht vorhanden ist, wurde für die Firewall bereits eine Stornierung angefordert. 
+
+Ein Downgrade von einem Hochverfügbarkeitsserver zu einem eigenständigen Server wird nicht unterstützt.
+{: note}

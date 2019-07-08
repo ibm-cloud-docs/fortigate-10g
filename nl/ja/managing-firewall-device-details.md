@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: manage, managing, firewall, details, devices
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,22 +16,26 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # ファイアウォール・デバイス詳細の管理
 {: #managing-firewall-device-details}
 
-FortiGate Security Appliance 10Gbps のデバイス詳細を表示するには、「ファイアウォール名 (Firewall Name)」列でデバイスのリンクをクリックします。 
+FortiGate Security Appliance 10Gbps のデバイス詳細を表示するには、「ファイアウォール名 (Firewall Name)」列でデバイスのリンクをクリックします。
 
 このリンクにより、「デバイスの概要 (Device Overview)」ページが開きます。
 
 ## デフォルトのファイアウォール設定の復元
+{: #restore-default-firewall-settings}
 
 デバイスを工場出荷時設定にリセットするには、オーバーフロー・メニューを選択し、ドロップダウン・メニューから**「デフォルトに戻す (Restore Defaults)」**を選択します。
 
 ## FSA ポータルへのアクセス
+{: #access-the-fsa-portal}
 
-デバイス・ポータルにログインするには、管理資格情報が必要です。 「一般情報」セクションでデバイスのユーザー名とパスワードを見つけます。 
+デバイス・ポータルにログインするには、管理資格情報が必要です。 「一般情報」セクションでデバイスのユーザー名とパスワードを見つけます。
 
 目のアイコンを選択して、デバイス・パスワードの表示を切り替えます。
 

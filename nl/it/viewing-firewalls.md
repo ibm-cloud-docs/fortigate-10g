@@ -4,6 +4,10 @@ copyright:
   years: 2017
 lastupdated: "2018-11-10"
 
+keywords: view, viewing, firewalls, list
+
+subcollection: fortigate-10g
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -12,6 +16,8 @@ lastupdated: "2018-11-10"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
+{:important: .important}
 {:download: .download}
 
 # Visualizzazione di un elenco di firewall
@@ -21,5 +27,5 @@ Per visualizzare un elenco dei firewall FortiGate Security Appliance 10Gbps corr
 
 1. Dal tuo browser, apri [https://control.softlayer.com/ ![Icona link esterno](../../icons/launch-glyph.svg "Icona link esterno")](https://control.softlayer.com/){:new_window} e accedi al tuo account.
 2. Nella navigazione del portale del cliente, seleziona **Sicurezza > Sicurezza di rete > Firewall**.
-3. Nella pagina Firewall, seleziona la scheda **Multi VLAN Firewalls**. 
-4. Se il tuo account non dispone di un firewall a più VLAN, viene visualizzato un messaggio con un link alla pagina degli ordini. 
+3. Nella pagina Firewall, seleziona la scheda **Multi VLAN Firewalls**.
+4. Se il tuo account non dispone di un firewall a più VLAN, viene visualizzato un messaggio con un link alla pagina degli ordini.
