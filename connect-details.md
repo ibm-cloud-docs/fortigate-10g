@@ -19,6 +19,7 @@ subcollection: fortigate-10g
 {:download: .download}
 {:note: .note}
 {:important: .important}
+{:external: target="_blank" .external}
 
 # Available Data Centers
 {: #available-data-centers}
@@ -57,4 +58,4 @@ The available FSA data centers and their locations are:
 
 If you would like to see additional locations supported, please use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){:new_window} to submit feedback.
 
-For more information on IBM Global Data Centers, refer to [this topic ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/data-centers){:new_window}.
+See [IBM Global Data Centers](https://www.ibm.com/cloud/data-centers/){: external}, for more information on IBM data centers.

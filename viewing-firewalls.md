@@ -19,13 +19,14 @@ subcollection: fortigate-10g
 {:note: .note}
 {:important: .important}
 {:download: .download}
+{:external: target="_blank" .external}
 
-# Viewing a List of Firewalls
+# Viewing all Firewalls
 {: #viewing-a-list-of-firewalls}
 
 To see a list of the current FortiGate Security Appliance 10Gbps firewalls associated with your account, navigate to the list page:
 
-1. From your browser, open [https://cloud.ibm.com ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com){:new_window} and log into your account.
+1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com){: external} and log into your account.
 2. Select the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) from the top left, then click **Classic Infrastructure**.
 3. Choose **Security > Network Security > Firewalls**.
 3. On the Firewalls page, select the **Multi VLAN Firewalls** tab.
