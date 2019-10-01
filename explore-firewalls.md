@@ -45,7 +45,7 @@ Scroll to the right to view the rest of the table!
 |**HA Option**|N/A|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)||![Checkmark icon](../../icons/checkmark-icon.svg)|Using Range and Load Balancers|
 |**Manage from API & Portal**|Yes|Appliance GUI|Appliance GUI|Appliance GUI|Appliance GUI|Yes|Yes|Cloud console|
 |**10Gbps Support**|N/A|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|||||
-|**NGFW Add-ons (IPS, AV, WF)**||Coming Soon||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|||TLS encryption, IP Firewall rules, and Proxy Protocol v1
+|**NGFW Add-ons (IPS, AV, WF)**||2019||![Checkmark icon](../../icons/checkmark-icon.svg)|![Checkmark icon](../../icons/checkmark-icon.svg)|||TLS encryption, IP Firewall rules, and Proxy Protocol v1
 |**Cost**|$0/Month|Starting $299.00/month + Cost of Bare Metal Server | Starting $219.00/month + Cost of Bare Metal Server|Starting $4,999.00/month|Starting $999.00/month|Starting $99.00/month|Starting $999.00/month|Starting $275.00/Domain|
 {: row-headers}
 {: class="comparison-table"}
