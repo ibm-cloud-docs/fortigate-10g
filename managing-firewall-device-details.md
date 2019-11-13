@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-10"
 
 keywords: manage, managing, firewall, details, devices
 
@@ -23,7 +23,8 @@ subcollection: fortigate-10g
 # Managing Firewall Device Details
 {: #managing-firewall-device-details}
 
-To see the device details for a FortiGate Security Appliance 10Gbps, click the link for the device under the Firewall Name column.
+You can see the device details for a FortiGate Security Appliance 10Gbps by clicking the link for the device under the Firewall Name column.
+{: shortdesc}
 
 This link directs you to the Device Overview page.
 

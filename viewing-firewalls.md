@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-10"
 
 keywords: view, viewing, firewalls, list
 
@@ -24,7 +24,8 @@ subcollection: fortigate-10g
 # Viewing all Firewalls
 {: #viewing-a-list-of-firewalls}
 
-To see a list of the current FortiGate Security Appliance 10Gbps firewalls associated with your account, navigate to the list page:
+You can see a list of the current FortiGate Security Appliance 10Gbps firewalls associated with your account using the instructions here.
+{: shortdesc}
 
 1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com){: external} and log into your account.
 2. Select the Menu icon ![Menu icon](../../icons/icon_hamburger.svg) from the top left, then click **Classic Infrastructure**.

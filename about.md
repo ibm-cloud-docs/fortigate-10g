@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-13"
 
 keywords: about, overview, features, 10gbps
 
@@ -24,6 +24,7 @@ subcollection: fortigate-10g
 {: #about-fortigate-security-appliance-10gbps}
 
 The Fortigate Security Appliance (FSA) 10Gbps is a single tenant (dedicated), self-managed, high throughput (10Gbps) hardware firewall with next generation features, such as AntiVirus (AV), Next Generation Firewall (NGFW), and Web filtering.
+{: shortdesc}
 
 This firewall can be configured to protect traffic on multiple VLANs for both public and private networks. In the Customer Portal it is referred to as a “Multi VLAN Firewall”.
 

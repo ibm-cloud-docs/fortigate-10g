@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2018
-lastupdated: "2019-03-05"
+lastupdated: "2019-11-13"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, virtual router appliance, security, vyatta, comparison, features
 
@@ -25,6 +25,7 @@ subcollection: fortigate-10g
 {: #exploring-firewalls}
 
 IBM© Cloud offers several firewalls to choose from. The table below compares the firewall solutions to help you choose the one that's right for you. To learn more about the individual offering, click its name in the table.
+{: shortdesc}
 
 Scroll to the right to view the rest of the table!
 {: important}

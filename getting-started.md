@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017
-lastupdated: "2018-11-10"
+lastupdated: "2019-11-13"
 
 keywords: order, overview, fsa, 10gbps
 
@@ -32,7 +32,7 @@ To order a Fortigate Security Appliance 10Gbps, perform the following procedure:
 
 1. From your browser, open the FSA page in the [IBM Cloud UI Console ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic/security/firewalls/multivlan/provision){: new_window} and log into your account.
 
-  [Ordering](images/ordering.png)
+  ![Ordering](images/ordering.png)
 
 2. Give the firewall a name.
 3. Select the desired Datacenter and Pod from the dropdown menus. Availability is limited to select locations.
