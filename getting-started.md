@@ -40,4 +40,4 @@ To order a Fortigate Security Appliance 10Gbps, perform the following procedure:
 5. Choose from the list of Add-ons or bundle all of them together for a discounted price. The Order Summary box displays the updated information for your current order.
 6. Review your selections on the right, check that you have read the Third Party Service Agreements, then click **Create**. The order is verified automatically.
 
-When the provisioning process is complete, the new FSA will appear in the [Firewalls list page](/docs/infrastructure/fortigate-10g?topic=fortigate-10g-viewing-a-list-of-firewalls). Click the FSA name to open the Firewall Details page. You will find the IP addresses, login username, and password for the device.  
+When the provisioning process is complete, the new FSA will appear in the [Firewalls list page](/docs/fortigate-10g?topic=fortigate-10g-viewing-a-list-of-firewalls). Click the FSA name to open the Firewall Details page. You will find the IP addresses, login username, and password for the device.  
