@@ -20,9 +20,13 @@ subcollection: fortigate-10g
 {:important: .important}
 {:download: .download}
 {:external: target="_blank" .external}
+{:help: data-hd-content-type='help'}
+{:support: data-reuse='support'}
 
 # Viewing all Firewalls
 {: #viewing-a-list-of-firewalls}
+{: help}
+{: support}
 
 You can see a list of the current FortiGate Security Appliance 10Gbps firewalls associated with your account using the instructions here.
 {: shortdesc}
