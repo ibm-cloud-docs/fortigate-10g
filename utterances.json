@@ -1,5 +1,5 @@
 {
-    "what-is-the-difference-between-fortigate-security-appliance-fsa-10g-and-fsa-1g-what-about-virtual-router-appliance-": [
+    "differences": [
       "difference between Fortigate Security Appliance 10G and FSA 1G",
       "differences between FSA 10G and FSA 1G",
       "are FSA 1G and FSA 10G different",
@@ -10,7 +10,7 @@
       "FSA 10G and 1G comparison",
       "difference between the 2 fortigate firewalls"
     ],
-   "can-fsa-10g-and-a-network-gateway-be-associated-with-the-same-vlan-": [ 
+   "vlan": [ 
       "FSA 10G and Network Gateway be on the same VLAN",
       "FSA 10G and a Network Gateway be associated with the same VLAN",
       "Network Gateway and FSA be on the same VLAN",
@@ -18,14 +18,14 @@
       "fortigate firewall and a Network Gateway device to be associated with the same VLAN",
       "same VLAN have a network gateway and a 10g FSA"
     ],
-   "does-this-offering-charge-for-private-network-connectivity-": [ 
+   "network": [ 
       "FSA 10G charge for private network connectivity",
       "private connectivity free of charge with FSA",
       "free private connectivity with fortigate firewall",
       "is private connectivity free with FSA 10g",
       "pay for private connectivity with FSA"
     ],
-   "is-fsa-1gbps-also-a-multi-vlan-offering-": [   
+   "multi-vlan": [   
       "FSA 1Gbps a multi-VLAN offering",
       "fortigate 1G a multi VLAN offering",
       "FSA 10Gbps support multiple VLANs",
@@ -33,7 +33,7 @@
       "FSA 1G support multiple VLANs",
       "FSA support multiple VLANs"
     ],
-   "is-fsa-10gbps-available-in-federal-data-centers-": [   
+   "federal": [   
       "FSA 10Gbps available in Federal data centers",
       "FSA 10G available in Federal data centers",
       "use FSA in a Federal data center",
@@ -41,7 +41,7 @@
       "availability of FSA in a federal data center",
       "federal data centers use 10g FSA"
    ],
-   "can-a-fsa-10gbps-be-used-in-place-of-a-virtual-router-appliance-": [   
+   "vra": [   
       "FSA 10Gbps be used in place of a Virtual Router Appliance",
       "FSA be used in place of a VRA",
       "fsa vs vra",
@@ -50,14 +50,14 @@
       "use both FSA and VRA",
       "using FSA 10g and also VRA"
    ],
-   "do-you-plan-to-upgrade-fsa-1g-with-the-same-capability-of-the-fsa-10g-appliance-": [ 
+   "upgrade": [ 
       "upgrade FSA 1G with the same capability of the FSA 10G appliance",
       "upgrade FSA 1G to have same features as 10g",
       "upgrading 1g to be the same as 10g",
       "FSA 1g update to be the same as 10g",
       "upgrade on 1g to be same as FSA 10g"
    ],
-   "can-the-fsa-10gbps-span-over-multiple-pods-in-a-datacenter-": [      
+   "multiple-pods": [      
       "FSA 10Gbps span over multiple pods in a datacenter",
       "FSA 10G span over multiple pods",
       "FSA 10G only able to protect VLANs for the pod it is deployed in",
