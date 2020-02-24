@@ -22,12 +22,12 @@ subcollection: fortigate-10g
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Canceling your Fortigate Security Appliance 10Gbps
+# Canceling your Fortigate Security Appliance 10 Gbps
 {: #canceling-your-fortigate-security-appliance-10gbps}
 {: help}
 {: support}
 
-A FortiGate Security Appliance 10Gbps can be cancelled immediately or on the anniversary date. Cancelling on the anniversary date will keep the firewall active until the beginning of the next billing period.
+A FortiGate Security Appliance 10 Gbps can be cancelled immediately or on the anniversary date. Cancelling on the anniversary date will keep the firewall active until the beginning of the next billing period.
 {: shortdesc}
 
 Take the following steps to cancel a firewall:
@@ -37,7 +37,7 @@ Take the following steps to cancel a firewall:
 3. Choose to either cancel immediately or on the anniversary date (next billing cycle).
 4. Confirm your selection.
 
-If the option to cancel a firewall does not exist in the dropdown, the firewall has already been requested to be cancelled.
+If the option to cancel a firewall is missing, then it is already being cancelled.
 
 Downgrading from a High Availability to a Standalone server is not supported.
 {: note}
