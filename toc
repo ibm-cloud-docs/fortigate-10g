@@ -1,8 +1,8 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="fortigate-10g" category="security" audience="direct-link" arm="3662772" href="/docs/fortigate-10g?topic=fortigate-10g-getting-started"}
-Fortigate Security Appliance 10 Gbps
+{: .toc subcollection="fortigate-10g" category="security" audience="direct-link" arm="3662772" href="/docs/fortigate-10g?topic=fortigate-10g-getting-started" path="fortigate-10g"}
+Fortigate Security Appliance 10 Gbps 
 
     {: .navgroup id="learn"}
     getting-started.md
