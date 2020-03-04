@@ -28,24 +28,24 @@ You can manage the VLAN associated with your FortiGate Security Appliance (FSA) 
 
 First, go to the Device Overview page. Then,, click **VLANs** in the side navigation, **Manage** in the Status Module, or the **Manage All** link in the VLAN module.
 
-## Associate a VLAN with a Firewall
+## Associate a VLAN with a firewall
 {: #associate-a-vlan-with-a-firewall}
 
 Click **Add VLAN** and select a VLAN from the menu. Then, click **Save** and confirm your selection.
 The VLAN association action does not route the VLAN through the firewall.
 
-## Disassociate a VLAN with a Firewall
+## Disassociate a VLAN with a firewall
 {: #disassociate-a-vlan-with-a-firewall}
 
 Select your VLAN by toggling the checkboxes. Then, click **Disassociate** and confirm your selection.
 If the VLAN is routed through the firewall, this action routes the VLAN around the firewall before disassociation.
 
-## Route a VLAN Around a Firewall
+## Route a VLAN Around a firewall
 {: #route-a-vlan-around-a-firewall}
 
 Select your VLAN by toggling the checkboxes. Then, click **Route Around** and confirm your selection.
 
-## Route a VLAN Through a Firewall
+## Route a VLAN Through a firewall
 {: #route-a-vlan-through-a-firewall}
 
 Select your VLAN by toggling the checkboxes. Then, click **Route Through** and confirm your selection.

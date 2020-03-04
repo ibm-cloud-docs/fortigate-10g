@@ -21,7 +21,7 @@ subcollection: fortigate-10g
 {:important: .important}
 {:external: target="_blank" .external}
 
-# Available Data Centers
+# Available data centers
 {: #available-data-centers}
 
 Each IBM Cloud data center is connected to the IBM global private network — making data transfers faster and more efficient everywhere. The available FSA data centers and their locations are listed here.

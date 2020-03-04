@@ -20,7 +20,7 @@ subcollection: fortigate-10g
 {:important: .important}
 {:download: .download}
 
-# FortiGuard Firewall Addons
+# FortiGuard firewall addons
 {: #fortiguard-firewall-addons}
 
 The following FortiGuard addons are available for the FortiGate Security Appliance 10 Gbps.

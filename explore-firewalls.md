@@ -21,7 +21,7 @@ subcollection: fortigate-10g
 {:important: .important}
 {:row-headers .row-headers}
 
-# Exploring Firewalls
+# Exploring firewalls
 {: #exploring-firewalls}
 
 IBM© Cloud offers several firewalls to choose from. The following table compares the firewall solutions to help you choose the one that's right for you. To learn more about the individual offering, click its name in the table.

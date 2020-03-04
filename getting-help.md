@@ -20,7 +20,7 @@ subcollection: fortigate-10g
 {:important: .important}
 {:download: .download}
 
-# Getting Help and Support for Fortigate Security Appliance 10 Gbps
+# Getting help and support for Fortigate Security Appliance 10 Gbps
 {: #getting-help-and-support-for-fortigate-security-appliance-10gbps}
 
 If you have problems or questions after using the Fortigate Security Appliance 10 Gbps, you can get help through one of the forums that are listed here. You can also open a support case.

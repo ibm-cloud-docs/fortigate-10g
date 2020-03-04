@@ -20,7 +20,7 @@ subcollection: fortigate-10g
 {:important: .important}
 {:download: .download}
 
-# Managing Firewall Device Details
+# Managing firewall device details
 {: #managing-firewall-device-details}
 
 You can see the device details for a FortiGate Security Appliance 10 Gbps by clicking the link for the device under the Firewall Name column.
@@ -33,7 +33,7 @@ This link directs you to the Device Overview page.
 
 To reset your device back to its factory settings, select the overflow menu, then select **Restore Defaults** from the drop down menu.
 
-## Access the FSA Portal
+## Access the FSA portal
 {: #access-the-fsa-portal}
 
 To log in to the Device Portal, you need your management credentials. Locate the device username and password in the General Information Section.
