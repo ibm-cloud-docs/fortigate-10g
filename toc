@@ -1,13 +1,15 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="fortigate-10g" category="security" audience="direct-link" arm="3662772" href="/docs/fortigate-10g?topic=fortigate-10g-getting-started" path="fortigate-10g"}
+{: .toc subcollection="fortigate-10g" category="security" audience="direct-link" arm="3662772" href="/docs/fortigate-10g?topic=fortigate-10g-getting-started" console-page="/catalog/infrastructure/fortigate-security-appliance-group" product-page="https://www.ibm.com/cloud/network-security" path="fortigate-10g"}
+
 Fortigate Security Appliance 10 Gbps 
 
     {: .navgroup id="learn"}
     getting-started.md
     about.md
-    explore-firewalls.md
+    explore-firewalls.md    
+    [What is network security?](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
