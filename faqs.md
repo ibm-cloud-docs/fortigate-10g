@@ -85,3 +85,10 @@ Not currently.
 {: support}
 
 Not currently. FSA 10 Gbps is only able to protect VLANs for the pod it is deployed in.
+
+## What are the default DNS servers of FortiGate 10 Gbps?
+
+By default, FortiGate uses the following FortiGuard's DNS servers.
+
+* Primary: 208.91.112.53
+* Secondary: 208.91.112.52
