@@ -27,7 +27,7 @@ subcollection: fortigate-10g
 IBM© Cloud offers several firewalls to choose from. The following table compares the firewall solutions to help you choose the one that's right for you. To learn more about the individual offering, click its name in the table.
 {: shortdesc}
 
-Scroll to the right to view the rest of the table!
+Scroll to the right to view the rest of the table! 
 {: important}
 
 |        | [Security Groups](/docs/security-groups?topic=security-groups-getting-started) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/vsrx?topic=vsrx-getting-started) |[Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started) | [FortiGate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started) | [FortiGate Security Appliance 1 Gbps](/docs/fortigate-1g?topic=fortigate-1g-getting-started) | [Hardware Firewall ](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) | [Hardware Firewall (Dedicated)](/docs/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started) | [Cloud Internet Services](/docs/cis?topic=cis-getting-started)
