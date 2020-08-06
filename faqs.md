@@ -22,13 +22,13 @@ subcollection: fortigate-10g
 {:faq: data-hd-content-type='faq'}
 {:support: data-reuse='support'}
 
-# FAQs for Fortigate Security Appliance 10 Gbps
+# FAQs for FortiGate Security Appliance 10 Gbps
 {: #faqs-for-fortigate-security-appliance-10gbps}
 
-The following are some frequently asked questions you may have about working with the Fortigate Security Appliance 10 GBps firewall.
+The following are some frequently asked questions you may have about working with the FortiGate Security Appliance 10 GBps firewall.
 {: shortdesc}
 
-## What is the difference between Fortigate Security Appliance (FSA) 10 GBps and FSA 1 GBps? What about Virtual Router Appliance?
+## What is the difference between FortiGate Security Appliance (FSA) 10 GBps and FSA 1 GBps? What about Virtual Router Appliance?
 {: #differences}
 {: faq}
 {: support}

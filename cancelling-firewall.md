@@ -22,7 +22,7 @@ subcollection: fortigate-10g
 {:help: data-hd-content-type='help'}
 {:support: data-reuse='support'}
 
-# Canceling your Fortigate Security Appliance 10 Gbps
+# Canceling your FortiGate Security Appliance 10 Gbps
 {: #canceling-your-fortigate-security-appliance-10gbps}
 {: help}
 {: support}

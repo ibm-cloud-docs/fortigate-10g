@@ -20,10 +20,10 @@ subcollection: fortigate-10g
 {:important: .important}
 {:download: .download}
 
-# Getting help and support for Fortigate Security Appliance 10 Gbps
+# Getting help and support for FortiGate Security Appliance 10 Gbps
 {: #getting-help-and-support-for-fortigate-security-appliance-10gbps}
 
-If you have problems or questions after using the Fortigate Security Appliance 10 Gbps, you can search for information or ask questions by using [Stack Overflow](https://stackoverflow.com/search?q=dl+ibm-cloud){: external}. Post your question then and tag it with "ibm-cloud" and "fsa-10g".
+If you have problems or questions after using the FortiGate Security Appliance 10 Gbps, you can search for information or ask questions by using [Stack Overflow](https://stackoverflow.com/search?q=dl+ibm-cloud){: external}. Post your question then and tag it with "ibm-cloud" and "fsa-10g".
 {:shortdesc}
 
 You can also open a support case in the [{{site.data.keyword.cloud_notm}} console (https://cloud.ibm.com/unifiedsupport/cases/add){: external}.
