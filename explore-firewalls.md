@@ -19,8 +19,8 @@ subcollection: fortigate-10g
 {:download: .download}
 {:note: .note}
 {:important: .important}
-{:row-headers .row-headers}
-{:deprecated .deprecated}
+{:row-headers: .row-headers}
+{:deprecated: .deprecated}
 
 # Exploring firewalls
 {: #exploring-firewalls}
