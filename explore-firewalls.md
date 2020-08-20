@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2018
-lastupdated: "2019-11-13"
+  years: 2017, 2020
+lastupdated: "2020-08-18"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, virtual router appliance, security, vyatta, comparison, features
 
@@ -14,13 +14,13 @@ subcollection: fortigate-10g
 {:new_window: target="_blank"}
 {:codeblock: .codeblock}
 {:pre: .pre}
+{:deprecated: .deprecated}
 {:screen: .screen}
 {:tip: .tip}
 {:download: .download}
 {:note: .note}
 {:important: .important}
 {:row-headers: .row-headers}
-{:deprecated: .deprecated}
 
 # Exploring firewalls
 {: #exploring-firewalls}
@@ -30,6 +30,7 @@ IBM© Cloud offers several firewalls to choose from. The following table compare
 
 All instances of the FortiGate Security Appliance 1 Gbps and Hardware Firewall Dedicated services are deprecated. Existing instances can be used until they are no longer supported on 30 May 2021. Use one of the following available firewall options to get our latest security capabilities on IBM Cloud. For migration information, see [Migrating FortiGate Security Appliance 1Gbps](/docs/fortigate-1g?topic=fortigate-1g-migration-overview) and [Migrating Hardware Firewall (Dedicated)](/docs/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-migration-overview#migration-overview).
 {: deprecated}
+
 
 |        | [Security Groups](/docs/security-groups?topic=security-groups-getting-started) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/vsrx?topic=vsrx-getting-started) |[Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started) | [FortiGate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started) | [FortiGate Security Appliance 1 Gbps](/docs/fortigate-1g?topic=fortigate-1g-getting-started) | [Hardware Firewall ](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) | [Hardware Firewall (Dedicated)](/docs/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-getting-started) | [Cloud Internet Services](/docs/cis?topic=cis-getting-started)
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |

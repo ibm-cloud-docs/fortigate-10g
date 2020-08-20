@@ -2,7 +2,6 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection="fortigate-10g" category="network_classic" audience="direct-link" arm="3662772" href="/docs/fortigate-10g?topic=fortigate-10g-getting-started" console-page="/catalog/infrastructure/fortigate-security-appliance-group" product-page="https://www.ibm.com/cloud/network-security" path="fortigate-10g"}
-
 FortiGate Security Appliance 10 Gbps 
 
     {: .navgroup id="learn"}
