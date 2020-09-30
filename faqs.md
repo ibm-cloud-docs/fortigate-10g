@@ -4,7 +4,7 @@ copyright:
   years: 2017
 lastupdated: "2019-11-10"
 
-keywords: faqs, fortigate, 10gbps, firewall, fsa, gateway
+keywords: faqs, firewall, gateway
 
 subcollection: fortigate-10g
 

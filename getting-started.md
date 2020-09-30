@@ -4,7 +4,7 @@ copyright:
   years: 2017
 lastupdated: "2019-11-13"
 
-keywords: order, overview, fsa, 10gbps
+keywords: order, overview, fsa, 10gbps, fortigate
 
 subcollection: fortigate-10g
 
