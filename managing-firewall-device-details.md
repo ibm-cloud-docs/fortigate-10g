@@ -1,7 +1,7 @@
 ---
 
 copyright:
-  years: 2017
+  years: 2017, 2019
 lastupdated: "2019-11-10"
 
 keywords: manage, managing, firewall, details, devices
@@ -23,21 +23,20 @@ subcollection: fortigate-10g
 # Managing firewall device details
 {: #managing-firewall-device-details}
 
-You can see the device details for a FortiGate Security Appliance 10 Gbps by clicking the link for the device under the Firewall Name column.
+You can see the device details for a FortiGate Security Appliance 10 Gbps by clicking the link for the device under the Firewall Name column. This link directs you to the Device Overview page.
 {: shortdesc}
 
-This link directs you to the Device Overview page.
 
-## Restore default firewall settings
+## Restoring default firewall settings
 {: #restore-default-firewall-settings}
 
-To reset your device back to its factory settings, select the overflow menu, then select **Restore Defaults** from the drop down menu.
+To reset your device back to its factory settings, select the overflow menu, then select **Restore Defaults** from the menu.
 
-## Access the FSA portal
+## Accessing the FSA portal
 {: #access-the-fsa-portal}
 
-To log in to the Device Portal, you need your management credentials. Locate the device username and password in the General Information Section.
+To log in to the Device Portal, you need your management credentials. Locate the device username and password in the General Information section.
 
 Toggle showing your device password by selecting the Eye icon.
 
-Next, select the Portal button in the Status Module. This link directs you to the device login page.
+In your web browser, enter the public IP for the FortiGate listed in the General Information section, making sure to precede it with `https://`. Then use your management credentials to log in.
