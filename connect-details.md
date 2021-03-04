@@ -37,6 +37,7 @@ Each IBM Cloud data center is connected to the IBM global private network — ma
 | DAL12, Pod 2 | Dallas |
 | DAL13, Pod 1 | Dallas |
 | DAL13, Pod 2 | Dallas |
+| DAL13, Pod 3 | Dallas |
 | FRA02, Pod 2 | Frankfurt |
 | FRA04, Pod 1 | Frankfurt |
 | FRA05, Pod 1 | Frankfurt |
@@ -46,12 +47,14 @@ Each IBM Cloud data center is connected to the IBM global private network — ma
 | LON05, Pod 1 | London |
 | LON06, Pod 1 | London |
 | MEX01, Pod 1 | Mexico |
+| MON01, Pod 1 | Montreal |
 | PAR01, Pod 1 | Paris |
 | SAO01, Pod 1 | São Paulo |
 | SEO01, Pod 1 | Seoul |
 | SJC03, Pod 1 | San Jose |
 | SJC03, Pod 2 | San Jose |
 | SJC04, Pod 1 | San Jose |
+| SNG01, Pod 2 | Singapore |
 | SYD01, Pod 1 | Sydney |
 | TOK02, Pod 1 | Tokyo |
 | TOK04, Pod 1 | Tokyo |
@@ -60,6 +63,7 @@ Each IBM Cloud data center is connected to the IBM global private network — ma
 | WDC04, Pod 2 | Washington, D.C. |
 | WDC04, Pod 3 | Washington, D.C. |
 | WDC04, Pod 4 | Washington, D.C. |
+| WDC04, Pod 5 | Washington, D.C. |
 | WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
 
