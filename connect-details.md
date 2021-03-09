@@ -1,7 +1,7 @@
 ---
 
 copyright:
-  years: 2017
+  years: 2017, 2019
 lastupdated: "2019-11-10"
 
 keywords: available, data, centers
@@ -24,7 +24,7 @@ subcollection: fortigate-10g
 # Available data centers
 {: #available-data-centers}
 
-Each IBM Cloud data center is connected to the IBM global private network — making data transfers faster and more efficient everywhere. The available FSA data centers and their locations are listed here.
+Each {{site.data.keyword.cloud}} data center is connected to the IBM global private network — making data transfers faster and more efficient everywhere. The available FSA data centers and their locations are listed here.
 {: shortdesc}
 
 | Data Center | Location |
@@ -67,6 +67,6 @@ Each IBM Cloud data center is connected to the IBM global private network — ma
 | WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
 
-If you would like to see additional locations supported, please use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){:new_window} to submit feedback.
+If you want to see additional locations supported, use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){:new_window} to submit feedback.
 
-See [IBM Global Data Centers](https://www.ibm.com/cloud/data-centers/){: external}, for more information on IBM data centers.
+See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external}, for more information on IBM data centers.
