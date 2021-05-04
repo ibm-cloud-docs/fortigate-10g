@@ -28,7 +28,7 @@ subcollection: fortigate-10g
 {{site.data.keyword.cloud}} offers several firewalls to choose from. The following table compares the firewall solutions to help you choose the one that's right for you. To learn more about the individual offering, click its name in the table.
 {: shortdesc}
 
-All instances of the FortiGate Security Appliance 1 Gbps and Hardware Firewall Dedicated services are deprecated. Existing instances can be used until they are no longer supported on 30 May 2021. Use one of the following available firewall options to get our latest security capabilities on IBM Cloud. For migration information, see [Migrating FortiGate Security Appliance 1Gbps](/docs/fortigate-1g?topic=fortigate-1g-migration-overview) and [Migrating Hardware Firewall (Dedicated)](/docs/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-migration-overview#migration-overview).
+All instances of the FortiGate Security Appliance 1 Gbps and Hardware Firewall Dedicated services are deprecated. Existing instances can be used until they are no longer supported after 21 July 2021. Use one of the following available firewall options to get our latest security capabilities on IBM Cloud. For migration information, see [Migrating FortiGate Security Appliance 1Gbps](/docs/fortigate-1g?topic=fortigate-1g-migration-overview) and [Migrating Hardware Firewall (Dedicated)](/docs/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-migration-overview#migration-overview).
 {: deprecated}
 
 
