@@ -1,0 +1,28 @@
+{
+    "title": "Fortigate 10-G docs",
+    "lastupdated": "2021-06-08",
+    "introduction": "The FortiGate Security Appliance (FSA) 10 Gbps is a single tenant (dedicated), self-managed, high throughput (10 Gbps) hardware firewall. It includes next-generation features, such as antivirus, intrusion prevention, and web filtering.",
+    "section_recommended": [
+      {   
+        "title": "Getting started with FortiGate Security Appliance 10 Gbps",
+        "description": "The FortiGate Security Appliance (FSA) 10 Gbps is a hardware firewall that can be configured to protect traffic on multiple VLANs for both public and private networks.",
+        "href": "/docs/fortigate-10g?topic=fortigate-10g-getting-started"
+      },
+      {
+        "title": "Viewing all firewalls",
+        "description": "You can see a list of the current FortiGate Security Appliance 10 Gbps firewalls that are associated with your account by using the instructions here.",
+        "href": "/docs/fortigate-10g?topic=fortigate-10g-viewing-a-list-of-firewalls"
+      },
+      {
+        "title": "Managing firewall device details",
+        "description": "You can see the device details for a FortiGate Security Appliance 10 Gbps by clicking the link for the device under the Firewall Name column. This link directs you to the Device Overview page.",
+        "href": "/docs/fortigate-10g?topic=fortigate-10g-managing-firewall-device-details"
+      }
+    ],
+    "section_learn": {
+      "developer": "https://developer.ibm.com/depmodels/cloud/",
+      "architecture": "https://www.ibm.com/cloud/architecture",
+      "training": "https://www.ibm.com/training/cloud",
+      "community": "https://community.ibm.com/community/user/publiccloud/home"
+    }
+  }
