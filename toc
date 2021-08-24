@@ -21,7 +21,7 @@ FortiGate Security Appliance 10 Gbps
     {: .navgroup id="reference"}
     fsa10-responsibilities.md
     connect-details.md
-    /hardware-firewall-dedicated/hardware-firewall-dedicated-ibm-cloud-ip-ranges
+    /hardware-firewall-shared/hardware-firewall-shared-ibm-cloud-ip-ranges
     fortiguard-addons.md
     [Fortinet website](https://www.fortinet.com/)
     {: .navgroup-end}
