@@ -1,0 +1,48 @@
+toc:
+  properties:
+    subcollection: fortigate-10g
+    version: 2
+    category: network_classic
+    audience: service
+    href: /docs/fortigate-10g
+    console-page: https://cloud.ibm.com/catalog/infrastructure/fortigate-security-appliance-10gb
+    product-page: https://www.ibm.com/cloud/network-security
+    path: fortigate-10g
+    label: FortiGate Security Appliance 10 Gbps
+
+#  List your getting started tutorial (getting-started.md) as the first item in the Get started nav group. See https://test.cloud.ibm.com/docs/writing?topic=writing-navigation for more details on the toc design.
+  entries:
+    - navgroup:
+       id: learn
+       topics:
+       - getting-started.md
+       - about.md
+       - explore-firewalls.md
+       - link:
+          label: What is network security?
+          href: https://www.ibm.com/cloud/learn/networking-a-complete-guide
+
+    - navgroup:
+       id: howto
+       topics:
+       - viewing-firewalls.md
+       - managing-firewall-device-details.md
+       - managing-vlans.md
+       - cancelling-firewall.md
+
+    - navgroup:
+       id: reference
+       topics:
+       - fsa10-responsibilities.md
+       - connect-details.md
+       - /hardware-firewall-shared/hardware-firewall-shared-ibm-cloud-ip-ranges
+       - fortiguard-addons.md
+       - link:
+          label: Fortinet website
+          href: https://www.fortinet.com/
+
+    - navgroup:
+       id: help
+       topics:
+       - faqs.md
+       - getting-help.md

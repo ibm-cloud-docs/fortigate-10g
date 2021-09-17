@@ -26,15 +26,15 @@
       "pay for private connectivity with FSA"
     ],
    "multi-vlan": [   
-      "FSA 1Gbps a multi-VLAN offering",
+      "FSA 1 GBps a multi-VLAN offering",
       "fortigate 1G a multi VLAN offering",
-      "FSA 10Gbps support multiple VLANs",
+      "FSA 10 Gbps support multiple VLANs",
       "fortigate firewall support multiple VLANs",
       "FSA 1G support multiple VLANs",
       "FSA support multiple VLANs"
     ],
    "federal": [   
-      "FSA 10Gbps available in Federal data centers",
+      "FSA 10 Gbps available in Federal data centers",
       "FSA 10G available in Federal data centers",
       "use FSA in a Federal data center",
       "use fortigate firewall in a Federal data center",
@@ -42,7 +42,7 @@
       "federal data centers use 10g FSA"
    ],
    "vra": [   
-      "FSA 10Gbps be used in place of a Virtual Router Appliance",
+      "FSA 10 Gbps be used in place of a Virtual Router Appliance",
       "FSA be used in place of a VRA",
       "fsa vs vra",
       "use FSA instead of VRA",
@@ -58,7 +58,7 @@
       "upgrade on 1g to be same as FSA 10g"
    ],
    "multiple-pods": [      
-      "FSA 10Gbps span over multiple pods in a datacenter",
+      "FSA 10 Gbps span over multiple pods in a datacenter",
       "FSA 10G span over multiple pods",
       "FSA 10G only able to protect VLANs for the pod it is deployed in",
       "FSA 10g protect only in deployed pod",

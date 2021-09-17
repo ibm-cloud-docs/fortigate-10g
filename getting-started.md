@@ -32,7 +32,7 @@ To order a FortiGate Security Appliance 10 Gbps, follow these steps:
 
 1. From your browser, open the FSA page in the [IBM Cloud console ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/classic/security/firewalls/multivlan/provision){: new_window} and log in to your account.
 
-  ![Ordering](images/ordering.png)
+    ![Ordering](images/ordering.png)
 
 1. Give the firewall a name.
 1. Select your data center and pod from the menus. Availability is limited to select locations.

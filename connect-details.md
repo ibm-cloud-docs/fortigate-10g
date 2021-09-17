@@ -67,6 +67,6 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
 
-If you want to see additional locations supported, use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){:new_window} to submit feedback.
+If you want to see additional locations supported, use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){: new_window} to submit feedback.
 
 See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external}, for more information on IBM data centers.
