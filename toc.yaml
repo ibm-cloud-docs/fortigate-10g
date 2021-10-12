@@ -33,6 +33,7 @@ toc:
     - navgroup:
        id: reference
        topics:
+       - fsa10-responsibilities.md
        - connect-details.md
        - /hardware-firewall-shared/hardware-firewall-shared-ibm-cloud-ip-ranges
        - fortiguard-addons.md
