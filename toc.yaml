@@ -29,10 +29,12 @@ toc:
        - managing-firewall-device-details.md
        - managing-vlans.md
        - cancelling-firewall.md
+       - managing-permissions.md
 
     - navgroup:
        id: reference
        topics:
+       - fsa10-responsibilities.md
        - connect-details.md
        - /hardware-firewall-shared/hardware-firewall-shared-ibm-cloud-ip-ranges
        - fortiguard-addons.md
