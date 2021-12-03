@@ -10,16 +10,7 @@ subcollection: fortigate-10g
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:screen: .screen}
-{:tip: .tip}
-{:download: .download}
-{:note: .note}
-{:important: .important}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # Available data centers
 {: #available-data-centers}
@@ -66,7 +57,8 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | WDC04, Pod 5 | Washington, D.C. |
 | WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
+{: caption="Table 1: Available data centers" caption-side="bottom"}
 
-If you want to see additional locations supported, use this [survey ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/firewalllocations){: new_window} to submit feedback.
+If you want to see additional locations supported, use this [survey](http://ibm.biz/firewalllocations){: external} to submit feedback.
 
 See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external}, for more information on IBM data centers.

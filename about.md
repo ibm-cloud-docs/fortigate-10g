@@ -10,20 +10,12 @@ subcollection: fortigate-10g
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:screen: .screen}
-{:tip: .tip}
-{:download: .download}
-{:note: .note}
-{:important: .important}
+{{site.data.keyword.attribute-definition-list}}
 
 # About FortiGate Security Appliance 10 Gbps
 {: #about-fortigate-security-appliance-10gbps}
 
-The FortiGate Security Appliance (FSA) 10 Gbps is a single tenant (dedicated), self-managed, high throughput (10 Gbps) hardware firewall. It includes next-generation features, such as antivirus, intrusion prevention, and web filtering. 
+The FortiGate Security Appliance (FSA) 10 Gbps is a single tenant (dedicated), self-managed, high-throughput (10 Gbps) hardware firewall. It includes next-generation features, such as antivirus, intrusion prevention, and web filtering. 
 {: shortdesc}
 
 This firewall can be configured to protect traffic on multiple VLANs for both public and private networks. In the Customer Portal, it is referred to as a “Multi VLAN Firewall”.
@@ -40,6 +32,6 @@ Features of the FortiGate Security Appliance 10 Gbps include:
 * High throughput (up to 10 Gbps, 20 Gbps aggregated)
 * Public and private network connectivity
 * Ability to associate multiple VLANs to a single firewall device
-* [Intrusion prevention](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html) 
-* [Antivirus](https://www.fortinet.com/products/security-subscriptions/antivirus.html)
-* [Web filtering](https://www.fortinet.com/products/security-subscriptions/web-filtering.html)
+* [Intrusion prevention](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html){: external}
+* [Antivirus](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: external}
+* [Web filtering](https://www.fortinet.com/products/security-subscriptions/web-filtering.html){: external}

@@ -10,17 +10,7 @@ subcollection: fortigate-10g
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:screen: .screen}
-{:tip: .tip}
-{:note: .note}
-{:important: .important}
-{:download: .download}
-{:faq: data-hd-content-type='faq'}
-{:support: data-reuse='support'}
+{{site.data.keyword.attribute-definition-list}}
 
 # FAQs for FortiGate Security Appliance 10 Gbps
 {: #faqs-for-fortigate-security-appliance-10gbps}
@@ -87,6 +77,7 @@ Not currently.
 Not currently. FSA 10 Gbps is only able to protect VLANs for the pod it is deployed in.
 
 ## What are the default DNS servers of FortiGate 10 Gbps?
+{: #default-dns-servers}
 
 By default, FortiGate uses the following FortiGuard's DNS servers.
 

@@ -10,15 +10,7 @@ subcollection: fortigate-10g
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:screen: .screen}
-{:tip: .tip}
-{:note: .note}
-{:important: .important}
-{:download: .download}
+{{site.data.keyword.attribute-definition-list}}
 
 # Getting help and support for FortiGate Security Appliance 10 Gbps
 {: #getting-help-and-support-for-fortigate-security-appliance-10gbps}

@@ -10,15 +10,7 @@ subcollection: fortigate-10g
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:screen: .screen}
-{:tip: .tip}
-{:note: .note}
-{:important: .important}
-{:download: .download}
+{{site.data.keyword.attribute-definition-list}}
 
 # FortiGuard firewall add-ons
 {: #fortiguard-firewall-addons}
@@ -26,6 +18,6 @@ subcollection: fortigate-10g
 The following FortiGuard add-ons are available for the FortiGate Security Appliance 10 Gbps.
 {: shortdesc}
 
-* [Fortiguard Antivirus Security Service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: new_window}
-* [Fortiguard IPS Service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html){: new_window}
-* [Fortiguard Web Filtering Service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.fortinet.com/products/security-subscriptions/web-filtering.html){: new_window}
+* [Fortiguard Antivirus Security Service](https://www.fortinet.com/products/security-subscriptions/antivirus.html){: external}
+* [Fortiguard IPS Service](https://www.fortinet.com/products/security-subscriptions/intrusion-prevention.html){: external}
+* [Fortiguard Web Filtering Service](https://www.fortinet.com/products/security-subscriptions/web-filtering.html){: external}

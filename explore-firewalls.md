@@ -10,17 +10,7 @@ subcollection: fortigate-10g
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:deprecated: .deprecated}
-{:screen: .screen}
-{:tip: .tip}
-{:download: .download}
-{:note: .note}
-{:important: .important}
-{:row-headers: .row-headers}
+{{site.data.keyword.attribute-definition-list}}
 
 # Exploring firewalls
 {: #exploring-firewalls}
@@ -36,21 +26,21 @@ All instances of the FortiGate Security Appliance 1 Gbps are deprecated. Existin
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Stateful Packet Inspection**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|IP firewall only|
 |**Public Network Protection**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|
-|**Private Network Protection**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)||||
+|**Private Network Protection**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | | |
 |**Ingress Rules**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|IP Firewall only
-|**Egress Rules**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|||
-|**Single Tenant Appliance**||![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)||
-|**VLAN Protection**||![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)||
-|**Multi-VLAN Support**||![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)||||
-|**NAT Support**||![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|||
-|**SSL/IPsec VPN Termination**||![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|||
-|**Open VPN Termination**|||![Checkmark icon](../icons/checkmark-icon.svg)||||Only with single port on TCP/UDP|
+|**Egress Rules**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | |
+|**Single Tenant Appliance**| |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| |
+|**VLAN Protection**| |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| |
+|**Multi-VLAN Support**| |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | | |
+|**NAT Support**| |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | |
+|**SSL/IPsec VPN Termination**| |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | |
+|**Open VPN Termination**| | |![Checkmark icon](../icons/checkmark-icon.svg)| | | |Only with single port on TCP/UDP|
 |**HA Option**|N/A|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|Using range and load balancers|
 |**Manage from API & Portal**|Yes|Appliance GUI|Appliance GUI|Appliance GUI|Appliance GUI|Yes|Yes|Cloud console|
-|**10 Gbps Support**|N/A|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)||||
-|**NGFW Add-ons (IPS, AV, WF)**||![Checkmark icon](../icons/checkmark-icon.svg)||![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)||TLS encryption, IP Firewall rules, and Proxy Protocol v1
+|**10 Gbps Support**|N/A|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | | |
+|**NGFW Add-ons (IPS, AV, WF)**| |![Checkmark icon](../icons/checkmark-icon.svg)| |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| |TLS encryption, IP Firewall rules, and Proxy Protocol v1
 |**Cost**|$0 per Month|Starting $299.00 per month + Cost of Bare Metal Server | Starting $219.00 per month + Cost of Bare Metal Server|Starting $4,999.00 per month|Starting $999.00 per month|Starting $99.00 per month|Starting $275.00/Domain|
 {: row-headers}
 {: class="comparison-table"}
-{: caption="A comparison of IBM's firewall offerings" caption-side="top"}
-{: summary="This table all of IBM's firewall offerings, and provides links to their documentation."}
+{: caption="Table 1: A comparison of IBM's firewall offerings" caption-side="bottom"}
+{: summary="This table shows all of IBM's firewall offerings, and provides links to their documentation."}

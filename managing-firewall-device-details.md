@@ -10,22 +10,13 @@ subcollection: fortigate-10g
 
 ---
 
-{:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:screen: .screen}
-{:tip: .tip}
-{:note: .note}
-{:important: .important}
-{:download: .download}
+{{site.data.keyword.attribute-definition-list}}
 
 # Managing firewall device details
 {: #managing-firewall-device-details}
 
 You can see the device details for a FortiGate Security Appliance 10 Gbps by clicking the link for the device under the Firewall Name column. This link directs you to the Device Overview page.
 {: shortdesc}
-
 
 ## Restoring default firewall settings
 {: #restore-default-firewall-settings}
