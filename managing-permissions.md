@@ -19,7 +19,7 @@ To view and manage your FortiGate Security Appliance (FSA) 10 Gbps firewalls you
 The following permissions are required for viewing and managing various parts of your FSA 10 Gbps firewalls:
 
 * **Manage firewalls** - Allows you to view your list of firewalls. It also allows you to view and manage the details of a specific firewall.
-* **Manage network gateways** - Allows you to view and manage the details of a specific FSA 10 Gbps firewall.
+* **Manage network gateways** - Allows you to view your list of FSA 10 Gbps firewalls. It also allows you to view and manage the details of a specific FSA 10 Gbps firewall.
 * **Cancel services** - Allows you to cancel a firewall.
 
 ## Adding permissions for your users
