@@ -36,7 +36,7 @@ toc:
        topics:
        - fsa10-responsibilities.md
        - connect-details.md
-       - /hardware-firewall-shared/hardware-firewall-shared-ibm-cloud-ip-ranges
+       - /cloud-infrastructure/cloud-infrastructure-ibm-cloud-ip-ranges
        - fortiguard-addons.md
        - link:
           label: Fortinet website
