@@ -30,6 +30,7 @@ toc:
        - managing-vlans.md
        - cancelling-firewall.md
        - managing-permissions.md
+       - update-firmware.md
 
     - navgroup:
        id: reference
