@@ -32,16 +32,13 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | FRA02, Pod 2 | Frankfurt |
 | FRA04, Pod 1 | Frankfurt |
 | FRA05, Pod 1 | Frankfurt |
-| HKG02, Pod 2 | Hong Kong |
 | LON02, Pod 2 | London |
 | LON04, Pod 1 | London |
 | LON05, Pod 1 | London |
 | LON06, Pod 1 | London |
-| MEX01, Pod 1 | Mexico |
 | MON01, Pod 1 | Montreal |
 | PAR01, Pod 1 | Paris |
 | SAO01, Pod 1 | São Paulo |
-| SEO01, Pod 1 | Seoul |
 | SJC03, Pod 1 | San Jose |
 | SJC03, Pod 2 | San Jose |
 | SJC04, Pod 1 | San Jose |
