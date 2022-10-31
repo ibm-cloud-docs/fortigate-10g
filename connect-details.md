@@ -24,6 +24,7 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | DAL09, Pod 1 | Dallas |
 | DAL09, Pod 6 | Dallas |
 | DAL10, Pod 1 | Dallas |
+| DAL10, Pod 2 | Dallas |
 | DAL12, Pod 1 | Dallas |
 | DAL12, Pod 2 | Dallas |
 | DAL13, Pod 1 | Dallas |
@@ -44,6 +45,7 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | SJC04, Pod 1 | San Jose |
 | SNG01, Pod 2 | Singapore |
 | SYD01, Pod 1 | Sydney |
+| SYD04, Pod 1 | Sydney |
 | TOK02, Pod 1 | Tokyo |
 | TOK04, Pod 1 | Tokyo |
 | TOR01, Pod 2 | Toronto |
