@@ -40,6 +40,8 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | MON01, Pod 1 | Montreal |
 | PAR01, Pod 1 | Paris |
 | SAO01, Pod 1 | São Paulo |
+| SAO04, Pod 1 | São Paulo |
+| SAO05, Pod 1 | São Paulo |
 | SJC03, Pod 1 | San Jose |
 | SJC03, Pod 2 | San Jose |
 | SJC04, Pod 1 | San Jose |
