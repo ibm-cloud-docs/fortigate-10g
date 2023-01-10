@@ -29,5 +29,5 @@ Due to customer VDOM restrictions, the FortiGate Security Appliance (FSA) 10 Gbp
 
 For each FortiGate (HA pair or standalone), the security support engineering team requests a 4 hour maintenance window. The actual completion time can be less than 4 hours and is determined by the amount of hops in the upgrade path to the desired version, cluster synchronization troubleshooting, and any other troubleshooting that becomes necessary during the upgrade. For standalone FortiGates, there will be an outage to servers routed behind the FortiGate, as well as an outage on the FortiGate itself during its reboot. That outage occurs for each hop in the upgrade path, because each hop requires a reboot. For HA FortiGates, the process has no downtime for servers behind the pair, but brief outages can occur as failovers happen during the process. These failovers and reboots happen for each hop in the upgrade path, so brief outages can occur for each one.
 
-Fortinet's best practices for firmware upgrades require that you to review the resolved and known issues in the release notes for your desired version. 
+Fortinet's best practices for firmware upgrades require that you to review the resolved and known issues in the release notes for your desired version.
 {: tip}
