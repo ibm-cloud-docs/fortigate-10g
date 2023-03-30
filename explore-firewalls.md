@@ -39,7 +39,6 @@ All instances of the FortiGate Security Appliance 1 Gbps are deprecated. Existin
 |**Manage from API & Portal**|Yes|Appliance GUI|Appliance GUI|Appliance GUI|Appliance GUI|Yes|Yes|Cloud console|
 |**10 Gbps Support**|N/A|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | | |
 |**NGFW Add-ons (IPS, AV, WF)**| |![Checkmark icon](../icons/checkmark-icon.svg)| |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| |TLS encryption, IP Firewall rules, and Proxy Protocol v1
-|**Cost**|$0 per Month|Starting $299.00 per month + Cost of Bare Metal Server | Starting $219.00 per month + Cost of Bare Metal Server|Starting $4,999.00 per month|Starting $999.00 per month|Starting $99.00 per month|Starting $275.00/Domain|
 {: row-headers}
 {: class="comparison-table"}
 {: caption="Table 1: A comparison of IBM's firewall offerings" caption-side="bottom"}
