@@ -19,5 +19,5 @@ The following FortiGuard add-ons are available for the FortiGate Security Applia
 {: shortdesc}
 
 * [Fortiguard Antivirus Security Service](https://www.fortinet.com/support/support-services/fortiguard-security-subscriptions/antivirus){: external}
-* [Fortiguard IPS Service]( https://www.fortinet.com/support/support-services/fortiguard-security-subscriptions/intrusion-prevention){: external}
+* [Fortiguard IPS Service](https://www.fortinet.com/support/support-services/fortiguard-security-subscriptions/intrusion-prevention){: external}
 * [Fortiguard Web Filtering Service](https://www.fortinet.com/support/support-services/fortiguard-security-subscriptions/web-filtering){: external}
