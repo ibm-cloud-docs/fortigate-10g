@@ -5,7 +5,7 @@ toc:
     category: network_classic
     audience: service
     href: /docs/fortigate-10g
-    console-page: https://cloud.ibm.com/catalog/infrastructure/fortigate-security-appliance-10gb
+    console-page: https://cloud.ibm.com/netsec/firewalls/multi-vlan/provision#about
     product-page: https://www.ibm.com/cloud/network-security
     path: fortigate-10g
     label: FortiGate Security Appliance 10 Gbps
@@ -19,7 +19,7 @@ toc:
        - explore-firewalls.md
        - link:
           label: What is network security?
-          href: https://www.ibm.com/cloud/learn/networking-a-complete-guide
+          href: https://www.ibm.com/products/network-security
        - release-notes.md
 
     - navgroup:
