@@ -37,6 +37,9 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | LON04, Pod 1 | London |
 | LON05, Pod 1 | London |
 | LON06, Pod 1 | London |
+| MAD02, Pod 1 | Madrid |
+| MAD04, Pod 1 | Madrid |
+| MAD05, Pod 1 | Madrid |
 | MON01, Pod 1 | Montreal |
 | PAR01, Pod 1 | Paris |
 | SAO01, Pod 1 | São Paulo |
