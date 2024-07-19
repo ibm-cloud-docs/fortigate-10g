@@ -5,11 +5,10 @@ toc:
     category: network_classic
     audience: service
     href: /docs/fortigate-10g
-    console-page: https://cloud.ibm.com/netsec/firewalls/multi-vlan/provision#about
-    product-page: https://www.ibm.com/products/network-security
+    console-page: https://cloud.ibm.com/catalog/infrastructure/fortigate-security-appliance-10gb
+    product-page: https://www.ibm.com/cloud/network-security
     path: fortigate-10g
     label: FortiGate Security Appliance 10 Gbps
-
   entries:
     - navgroup:
        id: learn
@@ -19,9 +18,8 @@ toc:
        - explore-firewalls.md
        - link:
           label: What is network security?
-          href: https://www.ibm.com/products/network-security
+          href: https://www.ibm.com/cloud/learn/networking-a-complete-guide
        - release-notes.md
-
     - navgroup:
        id: howto
        topics:
@@ -31,7 +29,6 @@ toc:
        - cancelling-firewall.md
        - managing-permissions.md
        - update-firmware.md
-
     - navgroup:
        id: reference
        topics:
@@ -42,7 +39,6 @@ toc:
        - link:
           label: Fortinet website
           href: https://www.fortinet.com/
-
     - navgroup:
        id: help
        topics:
