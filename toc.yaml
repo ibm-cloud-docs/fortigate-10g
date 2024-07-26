@@ -32,7 +32,6 @@ toc:
     - navgroup:
        id: reference
        topics:
-       - fsa10-responsibilities.md
        - connect-details.md
        - include: ../cloud-infrastructure/ips.md
        - fortiguard-addons.md
