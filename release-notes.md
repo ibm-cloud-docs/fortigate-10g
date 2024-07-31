@@ -29,7 +29,7 @@ Updating the FSA 10 Gbps firmware
     * The name or IP address of your FortiGate appliance
     * A requested (4 hour) maintenance window that includes your time zone
 
-:    For more information, refer to [Updating the FSA 10 Gbps firmware](/docs/fortigate-10g?topic=fortigate-10g-updating-fsa-10g).
+    For more information, refer to [Updating the FSA 10 Gbps firmware](/docs/fortigate-10g?topic=fortigate-10g-updating-fsa-10g).
 
 ## 22 June 2020
 {: #fortigate-10g-jun2220}
