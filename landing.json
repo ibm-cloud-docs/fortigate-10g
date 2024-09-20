@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "title": "FortiGate Security Appliance 10Gbps",
+  "introduction": "The FortiGate Security Appliance (FSA) 10 Gbps is a single tenant (dedicated), self-managed, high-throughput (10 Gbps) hardware firewall.",
+  "product_page": "https://www.ibm.com/products/network-security",
+  "console_page": "/catalog/infrastructure/fortigate-security-appliance-10gb",
+  "section_topics": {
+    "links": [
+      {
+        "title": "Getting started with FortiGate Security Appliance 10 Gbps",
+        "href": "/docs/fortigate-10g?topic=fortigate-10g-getting-started"
+      },
+      {
+        "title": "Viewing all firewalls",
+        "href": "/docs/fortigate-10g?topic=fortigate-10g-viewing-a-list-of-firewalls"
+      },
+      {
+        "title": "Managing firewall device details",
+        "href": "/docs/fortigate-10g?topic=fortigate-10g-managing-firewall-device-details"
+      }
+    ]
+  },
+  "section_highlights": [
+    {
+      "title": "What is computer networking?",
+      "description": "An IBM overview of computer networking to enable the transmission and exchange of information and resources.",
+      "href": "https://www.ibm.com/topics/networking",
+      "type": "blog"
+    },
+    {
+      "title": "Db2 Optimization Techniques for SAP Database Migration to the Cloud",
+      "description": "This IBM Redbook provides in-depth recommendations for the source system database export.",
+      "href": "https://www.redbooks.ibm.com/abstracts/sg248531.html",
+      "type": "redbook",
+      "recommended": true
+    }
+  ],
+  "section_devtools": {
+    "api": "/apidocs/acme-test-v1/acme-test-v1.2.0",
+    "cli": "/docs/acme-test",
+    "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/iam_access_group"
+  },
+  "section_updates": {
+    "view_more": "/docs/overview?topic=overview-whatsnew",
+    "tiles": [
+      {
+        "date": "28 April 2022",
+        "title": "You can now update a FortiGate Security Appliance (FSA) FG-1500DT 10 Gbps to the latest available firmware version by opening a support case in the IBM Cloud portal."
+      },
+      {
+        "date": "22 June 2020",
+        "title": "New data centers are now supported for FSA 10 Gbps, in Dallas, Seoul, and London. For more information, refer to Available data centers."
+      },
+      {
+        "date": "11 March 2018",
+        "title": "Experimental: Using AI to answer your questions about IBM Cloud"
+      }
+    ]
+  }
+}
