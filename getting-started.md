@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2019
-lastupdated: "2019-11-13"
+  years: 2017, 2024
+lastupdated: "2024-10-24"
 
 keywords: order, overview, fsa, 10gbps, fortigate
 
@@ -23,7 +23,10 @@ The FortiGate Security Appliance (FSA) 10 Gbps is a hardware firewall that can b
 
 To order a FortiGate Security Appliance 10 Gbps, follow these steps:
 
-1. From your browser, open the FSA page in the [IBM Cloud console](https://cloud.ibm.com/classic/security/firewalls/multivlan/provision){: external} and log in to your account.
+1. From your browser, open the [IBM Cloud console](https://cloud.ibm.com){: external} and log in to your account.
+1. Select the Menu icon ![Menu icon](../../icons/icon_hamburger.svg), then click **Infrastructure > Classic Infrastructure**.
+1. Choose **Security > Network Security > Firewalls**.
+1. On the Firewalls page, select the **Multi VLAN Firewalls** tab, then select **Order**.
 1. Give the firewall a name.
 1. Select your data center and pod from the menus. Availability is limited to select locations.
 1. Choose to have a single FSA, or enable failover protection with the High Availability option.
