@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2024
-lastupdated: "2024-09-09"
+  years: 2017, 2025
+lastupdated: "2025-03-14"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, vfsa, virtual router appliance, security, vyatta, comparison, features
 
@@ -41,5 +41,5 @@ These offerings are not managed services. When using them, you should understand
 |**Remote Access VPN**| |![Checkmark icon](../icons/checkmark-icon.svg)|||||![Checkmark icon](../icons/checkmark-icon.svg)|
 {: row-headers}
 {: class="comparison-table"}
-{: caption="Table 1: A comparison of IBM's firewall offerings" caption-side="bottom"}
+{: caption="A comparison of IBM's firewall offerings" caption-side="bottom"}
 {: summary="This table shows all of IBM's firewall offerings, and provides links to their documentation."}
