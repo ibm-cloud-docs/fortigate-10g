@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2019
-lastupdated: "2019-11-10"
+  years: 2017, 2025
+lastupdated: "2025-03-14"
 
 keywords: available, data, centers
 
@@ -61,7 +61,7 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 | WDC04, Pod 5 | Washington, D.C. |
 | WDC06, Pod 1 | Washington, D.C. |
 | WDC07, Pod 1 | Washington, D.C. |
-{: caption="Table 1: Available data centers" caption-side="bottom"}
+{: caption="Available data centers" caption-side="bottom"}
 
 If you want to see additional locations supported, use this [survey](http://ibm.biz/firewalllocations){: external} to submit feedback.
 
