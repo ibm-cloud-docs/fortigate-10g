@@ -1,12 +1,12 @@
 ---
 
 copyright:
-  years: 2017, 2024
-lastupdated: "2024-09-25"
+  years: 2017, 2025
+lastupdated: "2025-04-03"
 
 keywords: updating, firmware, fortigate
 
-subcollection: vsrx
+subcollection: fortigate-10g
 
 ---
 
