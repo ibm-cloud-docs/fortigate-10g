@@ -19,7 +19,7 @@ toc:
        - include: ../gateway-appliance/ga-raci.md
        - link:
           label: What is network security?
-          href: https://www.ibm.com/topics/networking  
+          href: https://www.ibm.com/think/topics/networking
        - release-notes.md
     - navgroup:
        id: howto
@@ -34,7 +34,7 @@ toc:
        id: reference
        topics:
        - connect-details.md
-       - include: ../cloud-infrastructure/ips.md
+       - include: ../infrastructure-hub/ips.md
        - fortiguard-addons.md
        - link:
           label: Fortinet website
