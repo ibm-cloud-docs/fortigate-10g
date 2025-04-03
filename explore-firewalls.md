@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-03-14"
+lastupdated: "2025-04-03"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, vfsa, virtual router appliance, security, vyatta, comparison, features
 
@@ -38,8 +38,8 @@ These offerings are not managed services. When using them, you should understand
 |**Manage from API & Portal**|Yes|Appliance GUI|Appliance GUI|Appliance GUI|Yes|Cloud console|Appliance GUI|
 |**10 Gbps Support**|N/A|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | |![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|
 |**NGFW Add-ons (IPS, AV, WF)**| |![Checkmark icon](../icons/checkmark-icon.svg)| |![Checkmark icon](../icons/checkmark-icon.svg)| |TLS encryption, IP Firewall rules, and Proxy Protocol v1|![Checkmark icon](../icons/checkmark-icon.svg)|
-|**Remote Access VPN**| |![Checkmark icon](../icons/checkmark-icon.svg)|||||![Checkmark icon](../icons/checkmark-icon.svg)|
+|**Remote Access VPN**| |![Checkmark icon](../icons/checkmark-icon.svg)| | | | |![Checkmark icon](../icons/checkmark-icon.svg)|
 {: row-headers}
-{: class="comparison-table"}
 {: caption="A comparison of IBM's firewall offerings" caption-side="bottom"}
+{: class="comparison-table"}
 {: summary="This table shows all of IBM's firewall offerings, and provides links to their documentation."}
