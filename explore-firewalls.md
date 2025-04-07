@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-04-03"
+lastupdated: "2025-04-07"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, vfsa, virtual router appliance, security, vyatta, comparison, features
 
@@ -15,7 +15,7 @@ subcollection: fortigate-10g
 # Exploring firewalls
 {: #exploring-firewalls}
 
-{{site.data.keyword.cloud}} offers several firewalls to choose from. The following table compares the firewall solutions to help you choose the one that's right for you. To learn more about the individual offering, click its name in the table.
+{{site.data.keyword.cloud}} offers several firewalls to choose from. The following table compares the firewall solutions to help you choose the most suitable one. To learn more about the individual offering, click its name in the table.
 {: shortdesc}
 
 These offerings are not managed services. When using them, you should understand the shared responsibilities between the client (or their managed services provider) and IBM. For more information, refer to [Roles and responsibilities for IBM Cloud gateways and firewalls](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-ga-raci).
