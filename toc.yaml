@@ -34,7 +34,7 @@ toc:
        id: reference
        topics:
        - connect-details.md
-       - include: ../docs/infrastructure-hub/ips.md
+       - include: ../infrastructure-hub/ips.md
        - fortiguard-addons.md
        - link:
           label: Fortinet website
