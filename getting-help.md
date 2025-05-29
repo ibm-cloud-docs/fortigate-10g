@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2024
-lastupdated: "2024-11-07"
+  years: 2017, 2025
+lastupdated: "2025-05-29"
 
 keywords: help, support, troubleshoot, contact
 
@@ -18,6 +18,7 @@ subcollection: fortigate-10g
 If you experience an issue or have questions when using FortiGate Security Appliance 10 Gbps, you can use the following resources before you open a support case.
 {: shortdesc}
 
+* Ask a question in the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant) from the console or the {{site.data.keyword.cloud_notm}} CLI.
 * Review the [FAQs](/docs/fortigate-10g?topic=fortigate-10g-faqs-for-fortigate-security-appliance-10gbps) in the product documentation.
 * Check the status of the {{site.data.keyword.Bluemix_notm}} platform and resources by going to the [Status page](https://cloud.ibm.com/status){: external}.
 * Review [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} to see whether other users experienced the same problem. When you ask a question, tag the question with `ibm-cloud` and `fsa-10g`, so that it's seen by the {{site.data.keyword.Bluemix_notm}} development teams.
