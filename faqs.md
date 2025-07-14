@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2019
-lastupdated: "2019-11-10"
+  years: 2017, 2025
+lastupdated: "2025-07-14"
 
 keywords: faqs, firewall, gateway
 
@@ -12,7 +12,7 @@ subcollection: fortigate-10g
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQs for FortiGate Security Appliance 10 Gbps
+# FAQ for FortiGate Security Appliance 10 Gbps
 {: #faqs-for-fortigate-security-appliance-10gbps}
 
 The following are some frequently asked questions you may have about working with the FortiGate Security Appliance 10 Gbps firewall.
