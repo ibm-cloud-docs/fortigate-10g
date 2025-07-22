@@ -45,7 +45,7 @@ If you observe multiple failovers during firmware updates, contact IBM Cloud Sup
 ### BGP considerations during failover
 {: #updating-fsa-10g-bgp-downtime}
 
-During a firmware upgrade, FortiGate HA clusters that use BGP experience outages because the BGP process on the secondary device starts only when the device becomes primary. This mechanism causes BGP to restart (flap). The GRE sessions need to start over, but the IPsec sessions go down unless you enable the `ha-sync-esp-seqno` option in the phase1-interface configs. BGP flapping and convergence can lead to significant issues and prolonged outages during firmware updates. However, tuning the settings can facilitate faster failover and convergence.
+During a firmware upgrade, FortiGate HA clusters that use BGP experience outages because the BGP process on the secondary device starts only when the device becomes primary. This mechanism causes BGP to restart (flap). The GRE sessions need to start over, whereas the IPsec sessions go down unless you enable the `ha-sync-esp-seqno` option in the phase1-interface configs. BGP flapping and convergence can lead to significant issues and prolonged outages during firmware updates. However, tuning the settings can facilitate faster failover and convergence.
 
 For further information, see [BGP Timers](https://community.fortinet.com/t5/FortiGate/Technical-Tip-All-configurable-BGP-timers-on-the-FortiGate/ta-p/356270){: external} and [Graceful Restart](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Configuring-FortiGate-HA-and-BGP-graceful-restart/ta-p/196150){: external}
 
