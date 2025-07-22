@@ -57,10 +57,10 @@ To reduce the impact during a failover, adjust the following settings:
 
 * Contact IBM Cloud Support to increase the `route-ttl` to at least 30 seconds so that the new primary has more time to reestablish BGP and retain synchronized routes.
 * Reduce the `advertisement-interval` from 30 seconds to 1 second so that it accelerates route advertisement.
-* Contact IBM Cloud Support to set the BGP `keepalive timer` to 5 seconds and the `hold timer` to 15 seconds.
+* Set the BGP `keepalive timer` to 5 seconds and the `hold timer` to 15 seconds.
 * Enable the `link-down-failover` and `graceful-restart` settings for both BGP neighbors to help BGP recover faster.
 
-With these configurations in place, your FortiGate can fail over with minimal disruption and the remote BGP neighbor can continue to send traffic to the failing-over FortiGate cluster. The new primary negotiates BGP to relearn and readvertise routes, which help ensure that the routes are incorporated into the kernel routing table. After 30 seconds (which is the new `route-ttl` value), the new primary discards the stale synchronized routes, but by that time, the FortiGate relearns and readvertises the original routes so that no gap in te route coverage occurs. For further optimization, configure a bidirectional forwarding detection (BFD).
+With these configurations in place, your FortiGate can fail over with minimal disruption and the remote BGP neighbor can continue to send traffic to the failing-over FortiGate cluster. The new primary negotiates BGP to relearn and readvertise routes, which help ensure that the routes are incorporated into the kernel routing table. After 30 seconds (which is the new `route-ttl` value), the new primary discards the stale synchronized routes, but by that time, the FortiGate relearns and readvertises the original routes so that no gap in the route coverage occurs. For further optimization, carefully configure bidirectional forwarding detection (BFD).
 
 Before you update your Fortigate firmware, review the release notes for the version you're upgrading to. These announcements list known issues and fixes, which can help you raise relevant concerns to the IBM Cloud Support Security team when you prepare for version updates. With this approach, you can collaborate with the support team to identify and address potential issues before they escalate in the production environment.
 {: tip}
