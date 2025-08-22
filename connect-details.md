@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-03-14"
+lastupdated: "2025-08-22"
 
 keywords: available, data, centers
 
@@ -65,4 +65,4 @@ Each {{site.data.keyword.cloud}} data center is connected to the IBM global priv
 
 If you want to see additional locations supported, use this [survey](http://ibm.biz/firewalllocations){: external} to submit feedback.
 
-See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external}, for more information on IBM data centers.
+For more information, see [IBM Cloud global data centers](https://www.ibm.com/solutions/cloud-data-centers){: external}, 
