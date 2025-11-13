@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-07-22"
+lastupdated: "2025-11-13"
 
 keywords: updating, firmware, fortigate
 
@@ -24,7 +24,7 @@ You can update a FortiGate Security Appliance (FSA) FG-1500DT 10 Gbps to the lat
 
 IBM Cloud support schedules and performs the required maintenance and update for you.
 
-Due to customer VDOM restrictions, the FortiGate Security Appliance (FSA) 10 Gbps can be updated to the latest available firmware only by the IBM Cloud Support Security team. The network engineering team determines the appropriate firmware version based on the compatibility with the IBM Cloud Infrastructure environment. Currently, the version `7.2.11` is the latest available.
+Due to customer VDOM restrictions, the FortiGate Security Appliance (FSA) 10 Gbps can be updated to the latest available firmware only by the IBM Cloud Support Security team. The network engineering team determines the appropriate firmware version based on the compatibility with the IBM Cloud Infrastructure environment. Currently, the version `7.2.12` is the latest available.
 {: note}
 
 For each FortiGate device, whether High-Availability (HA) pair or a stand-alone unit, the security support engineering team requires a 2-hour maintenance window to complete the update. Typically, the actual update time is less than 2 hours. The duration depends on the number of hops required to reach the target version, cluster synchronization, and any other troubleshooting required during the process. Updates are applied across the whole fleet consistently, which minimizes the need for multiple firmware hops. Therefore, if your device already runs a mature firmware version, fewer hops are needed, which can reduce the update time to as little as 10 to 20 minutes.
