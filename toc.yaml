@@ -10,36 +10,36 @@ toc:
     path: fortigate-10g
     label: FortiGate Security Appliance 10 Gbps
   entries:
-    - navgroup:
-       id: learn
-       topics:
-       - getting-started.md
-       - about.md
-       - explore-firewalls.md
-       - include: ../gateway-appliance/ga-raci.md
-       - link:
+  - navgroup:
+      id: learn
+      topics:
+      - getting-started.md
+      - about.md
+      - explore-firewalls.md
+      - include: ../gateway-appliance/ga-raci.md
+      - link:
           label: What is network security?
           href: https://www.ibm.com/think/topics/network-security
-    - navgroup:
-       id: howto
-       topics:
-       - viewing-firewalls.md
-       - managing-firewall-device-details.md
-       - managing-vlans.md
-       - cancelling-firewall.md
-       - managing-permissions.md
-       - update-firmware.md
-    - navgroup:
-       id: reference
-       topics:
-       - connect-details.md
-       - include: ../infrastructure-hub/ips.md
-       - fortiguard-addons.md
-       - link:
+  - navgroup:
+      id: howto
+      topics:
+      - viewing-firewalls.md
+      - managing-firewall-device-details.md
+      - managing-vlans.md
+      - cancelling-firewall.md
+      - managing-permissions.md
+      - update-firmware.md
+  - navgroup:
+      id: reference
+      topics:
+      - connect-details.md
+      - include: ../infrastructure-hub/ips.md
+      - fortiguard-addons.md
+      - link:
           label: Fortinet website
           href: https://www.fortinet.com/
-    - navgroup:
-       id: help
-       topics:
-       - faqs.md
-       - getting-help.md
+  - navgroup:
+      id: help
+      topics:
+      - faqs.md
+      - getting-help.md
