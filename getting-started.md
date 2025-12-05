@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2024
-lastupdated: "2024-10-24"
+  years: 2017, 2025
+lastupdated: "2025-12-05"
 
 keywords: order, overview, fsa, 10gbps, fortigate
 
@@ -17,6 +17,8 @@ subcollection: fortigate-10g
 
 The FortiGate Security Appliance (FSA) 10 Gbps is a hardware firewall that can be configured to protect traffic on multiple VLANs for both public and private networks.
 {: shortdesc}
+
+
 
 ## Ordering the FSA 10 Gbps
 {: #ordering-fsa-10g}
