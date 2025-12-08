@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-12-05"
+lastupdated: "2025-12-08"
 
 keywords: order, overview, fsa, 10gbps, fortigate
 
@@ -18,7 +18,8 @@ subcollection: fortigate-10g
 The FortiGate Security Appliance (FSA) 10 Gbps is a hardware firewall that can be configured to protect traffic on multiple VLANs for both public and private networks.
 {: shortdesc}
 
-
+The Fortinet 10G hardware firewall will reach End of Support (EOS) on 31 December 2026. After this date, it will no longer be supported or available for use on IBM Cloud.
+{: attention}
 
 ## Ordering the FSA 10 Gbps
 {: #ordering-fsa-10g}
