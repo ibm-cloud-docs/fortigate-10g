@@ -21,7 +21,7 @@ subcollection: fortigate-10g
 These offerings are not managed services. When using them, you should understand the shared responsibilities between the client (or their managed services provider) and IBM. For more information, refer to [Roles and responsibilities for IBM Cloud gateways and firewalls](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-ga-raci).
 {: important}
 
-The [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [Fortinet shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
+The [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
 {: attention}
 
 |        | [Security Groups](/docs/security-groups?topic=security-groups-getting-started) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/vsrx?topic=vsrx-getting-started-vsrx) |[Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started-vra) | [FortiGate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started) | [Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) | [Cloud Internet Services](/docs/cis?topic=cis-getting-started)| [Virtual FortiGate Security Appliance](/docs/vfsa?topic=vfsa-getting-started-vfsa)
