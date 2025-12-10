@@ -1,10 +1,10 @@
 includes:
-  - https://github.ibm.com/cloud-docs/cloud-infrastructure
-  - https://github.ibm.com/cloud-docs/icons
-  - https://github.ibm.com/cloud-docs/gateway-appliance
-  - https://github.ibm.com/cloud-docs-solutions/infrastructure-hub
+- https://github.ibm.com/cloud-docs/cloud-infrastructure
+- https://github.ibm.com/cloud-docs/icons
+- https://github.ibm.com/cloud-docs/gateway-appliance
+- https://github.ibm.com/cloud-docs-solutions/infrastructure-hub
 translation:
   exclude:
     byFilePath:
-      - file-dont-translate.md
-      - folder-dont-translate/
+    - file-dont-translate.md
+    - folder-dont-translate/
