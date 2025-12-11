@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-12-10"
+lastupdated: "2025-12-11"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, vfsa, virtual router appliance, security, vyatta, comparison, features
 
@@ -24,7 +24,23 @@ These offerings are not managed services. When using them, you must understand t
 The [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
 {: attention}
 
+## Migration options for Fortigate 10G and IBM shared hardware firewall
+{: #migration-options-fortigate-10g-ibm-shared-firewall}
 
+FortiGate 10G and shared hardware firewall are expected to reach end of support on 31 December 2026. To keep your network secure and avoid any business disruptions, we recommend planning your migration well before the end of support date.
+
+The following alternatives help you migrate to a suitable firewall offering:
+
+1. Recommended option:
+   * Migrate to the Fortinet Virtual Firewall (vFSA). See [Getting started with vFSA](/docs/vfsa?topic=vfsa-getting-started-vfsa) and [license types](https://cloud.ibm.com/docs/vfsa?topic=vfsa-getting-started-vfsa#choosing-vfsa-license).
+   * Use Forti-Converter Service that is included in enterprise license to migrate security policies and configurations from Fortinet hardware to the Fortinet virtual appliance.
+      * Register an account in the [FortiConverter Service](https://service.forticonverter.com/){: external} for customer self-managed service.
+      * For help with creating a migration ticket, see the [Forti-Converter Service Ticket Guide](https://docs.fortinet.com/document/forticonverter-service/25.1.0/online-help/783478/create-forticonverter-service-ticket){: external}.
+1. Other virtual firewall options:
+   * Virtual Router Appliance (VRA 5600): Enterprise router with firewall, VPN, traffic shaping, and policy-based    routing. See [Getting started with Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started-vra).
+   * Juniper vSRX with Content Security Bundle: Enhanced security features, VLAN protection, HA configurations, IPS/IDS/UTM capabilities. See [Getting started with Juniper vSRX](/docs/vsrx?topic=vsrx-getting-started-vsrx).
+
+Contact [IBM Cloud Support](https://www.ibm.com/cloud/support){: external} for any guidance or to know more about the migration process.
 
 |        | [Security Groups](/docs/security-groups?topic=security-groups-getting-started) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/vsrx?topic=vsrx-getting-started-vsrx) |[Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started-vra) | [FortiGate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started) | [Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) | [Cloud Internet Services](/docs/cis?topic=cis-getting-started)| [Virtual FortiGate Security Appliance](/docs/vfsa?topic=vfsa-getting-started-vfsa)
 | ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
