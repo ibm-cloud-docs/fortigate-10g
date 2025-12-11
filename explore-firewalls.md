@@ -21,7 +21,7 @@ subcollection: fortigate-10g
 These offerings are not managed services. When using them, you must understand the shared responsibilities between the client (or their managed services provider) and IBM. For more information, refer to [Roles and responsibilities for IBM Cloud gateways and firewalls](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-ga-raci).
 {: important}
 
-The [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
+The [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud. Effective 17 December 2025, IBM Cloud no longer accepts new orders for Fortigate security 10 Gbps and IBM shared hardware firewall.
 {: attention}
 
 ## Migration options for Fortigate 10G and IBM shared hardware firewall
@@ -33,7 +33,7 @@ The following alternatives help you migrate to a suitable firewall offering:
 
 1. Recommended option:
    * Migrate to the Fortinet Virtual Firewall (vFSA). See [Getting started with vFSA](/docs/vfsa?topic=vfsa-getting-started-vfsa) and [license types](https://cloud.ibm.com/docs/vfsa?topic=vfsa-getting-started-vfsa#choosing-vfsa-license).
-   * Use Forti-Converter Service that is included in enterprise license to migrate security policies and configurations from Fortinet hardware to the Fortinet virtual appliance.
+   * Use Forti-Converter Service that is included in the enterprise license to migrate security policies and configurations from Fortinet hardware to the Fortinet virtual appliance.
       * Register an account in the [FortiConverter Service](https://service.forticonverter.com/){: external} for customer self-managed service.
       * For help with creating a migration ticket, see the [Forti-Converter Service Ticket Guide](https://docs.fortinet.com/document/forticonverter-service/25.1.0/online-help/783478/create-forticonverter-service-ticket){: external}.
 1. Other virtual firewall options:
