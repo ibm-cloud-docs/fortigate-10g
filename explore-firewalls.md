@@ -21,13 +21,14 @@ subcollection: fortigate-10g
 These offerings are not managed services. When using them, you must understand the shared responsibilities between the client (or their managed services provider) and IBM. For more information, refer to [Roles and responsibilities for IBM Cloud gateways and firewalls](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-ga-raci).
 {: important}
 
-Effective 17 December 2025, IBM Cloud no longer accepts new orders for Fortigate security 10 Gbps and IBM shared hardware firewall. Additionally, the [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
+Effective 17 December 2025, [Fortigate Security Appliance 10 Gbps](docs/fortigate-10g?topic=fortigate-10g-getting-started) and [IBM Shared Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) on IBM Cloud will reach End of Marketing (EOM) and no longer accept new orders.
+Additionally, both these services will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
 {: attention}
 
-## Migration options for Fortigate 10G and IBM shared hardware firewall
+## Migration options for FSA 10Gbps and IBM shared hardware firewall
 {: #migration-options-fortigate-10g-ibm-shared-firewall}
 
-FortiGate 10G and shared hardware firewall are expected to reach end of support on 31 December 2026. To keep your network secure and avoid any business disruptions, we recommend planning your migration well before the end of support date.
+FortiGate Security Appliance 10Gbps and Shared Hardware Firewall are expected to reach end of support on 31 December 2026. To keep your network secure and avoid any business disruptions, we recommend planning your migration well before the end of support date.
 
 The following alternatives help you migrate to a suitable firewall offering:
 
