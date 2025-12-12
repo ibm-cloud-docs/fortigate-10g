@@ -21,7 +21,7 @@ subcollection: fortigate-10g
 These offerings are not managed services. When using them, you must understand the shared responsibilities between the client (or their managed services provider) and IBM. For more information, refer to [Roles and responsibilities for IBM Cloud gateways and firewalls](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-ga-raci).
 {: important}
 
-Effective 17 December 2025, [Fortigate security 10 Gbps](docs/fortigate-10g?topic=fortigate-10g-getting-started) and [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Marketing (EOM) and no longer accept new orders.
+Effective 17 December 2025, [Fortigate security 10 Gbps](docs/fortigate-10g?topic=fortigate-10g-getting-started) and [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) on IBM Cloud will reach End of Marketing (EOM) and no longer accept new orders.
 Additionally, both these services will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
 {: attention}
 
