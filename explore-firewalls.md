@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2025
-lastupdated: "2025-12-11"
+lastupdated: "2025-12-12"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, vfsa, virtual router appliance, security, vyatta, comparison, features
 
@@ -21,7 +21,7 @@ subcollection: fortigate-10g
 These offerings are not managed services. When using them, you must understand the shared responsibilities between the client (or their managed services provider) and IBM. For more information, refer to [Roles and responsibilities for IBM Cloud gateways and firewalls](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-ga-raci).
 {: important}
 
-The [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud. Effective 17 December 2025, IBM Cloud no longer accepts new orders for Fortigate security 10 Gbps and IBM shared hardware firewall.
+Effective 17 December 2025, IBM Cloud no longer accepts new orders for Fortigate security 10 Gbps and IBM shared hardware firewall. Additionally, the [Fortinet 10G hardware firewall](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and the [IBM shared hardware firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
 {: attention}
 
 ## Migration options for Fortigate 10G and IBM shared hardware firewall
