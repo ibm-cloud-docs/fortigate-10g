@@ -43,8 +43,8 @@ The following alternatives help you migrate to a suitable firewall offering:
 
 Contact [IBM Cloud Support](https://www.ibm.com/cloud/support){: external} for any guidance or to know more about the migration process.
 
-||[Security Groups](/docs/security-groups?topic=security-groups-getting-started) (VSI only)|[IBM Cloud Juniper vSRX Standard](/docs/vsrx?topic=vsrx-getting-started-vsrx)|[Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started-vra)|[FortiGate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started)|[Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started)|[Cloud Internet Services](/docs/cis?topic=cis-getting-started)[Virtual FortiGate Security Appliance](/docs/vfsa?topic=vfsa-getting-started-vfsa)|
-|-------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|| [Security Groups](/docs/security-groups?topic=security-groups-getting-started) (VSI only) | [IBM Cloud Juniper vSRX Standard](/docs/vsrx?topic=vsrx-getting-started-vsrx) |[Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started-vra) | [FortiGate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started) | [Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) | [Cloud Internet Services](/docs/cis?topic=cis-getting-started)| [Virtual FortiGate Security Appliance](/docs/vfsa?topic=vfsa-getting-started-vfsa)
+| ------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |**Stateful Packet Inspection**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|IP firewall only|![Checkmark icon](../icons/checkmark-icon.svg)|
 |**Public Network Protection**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|
 |**Private Network Protection**|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)|![Checkmark icon](../icons/checkmark-icon.svg)| | |![Checkmark icon](../icons/checkmark-icon.svg)|
@@ -62,6 +62,6 @@ Contact [IBM Cloud Support](https://www.ibm.com/cloud/support){: external} for a
 |**NGFW Add-ons (IPS, AV, WF)**| |![Checkmark icon](../icons/checkmark-icon.svg)| |![Checkmark icon](../icons/checkmark-icon.svg)| |TLS encryption, IP Firewall rules, and Proxy Protocol v1|![Checkmark icon](../icons/checkmark-icon.svg)|
 |**Remote Access VPN**| |![Checkmark icon](../icons/checkmark-icon.svg)| | | | |![Checkmark icon](../icons/checkmark-icon.svg)|
 {: row-headers}
-{: caption="A comparison of IBM's firewall offerings" caption-side="bottom"}
+{: caption="Comparison of IBM's firewall offerings" caption-side="bottom"}
 {: class="comparison-table"}
 {: summary="This table shows all of IBM's firewall offerings, and provides links to their documentation."}
