@@ -62,6 +62,6 @@ Contact [IBM Cloud Support](https://www.ibm.com/cloud/support){: external} for a
 |**NGFW Add-ons (IPS, AV, WF)**| |![Checkmark icon](../icons/checkmark-icon.svg)| |![Checkmark icon](../icons/checkmark-icon.svg)| |TLS encryption, IP Firewall rules, and Proxy Protocol v1|![Checkmark icon](../icons/checkmark-icon.svg)|
 |**Remote Access VPN**| |![Checkmark icon](../icons/checkmark-icon.svg)| | | | |![Checkmark icon](../icons/checkmark-icon.svg)|
 {: row-headers}
-{: caption="A comparison of IBM's firewall offerings" caption-side="bottom"}
+{: caption="Comparison of IBM's firewall offerings" caption-side="bottom"}
 {: class="comparison-table"}
 {: summary="This table shows all of IBM's firewall offerings, and provides links to their documentation."}
