@@ -41,7 +41,7 @@
     "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/iam_access_group"
   },
   "section_updates": {
-    "view_more": "/docs/overview?topic=overview-whatsnew",
+    "view_more": "/docs/fortigate-10g?topic=fortigate-10g-fortigate-10g-release-notes",
     "tiles": [
       {
         "date": "17 December 2025",
