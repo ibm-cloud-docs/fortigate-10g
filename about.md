@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2020
-lastupdated: "2020-10-16"
+  years: 2017, 2026
+lastupdated: "2026-03-02"
 
 keywords: about, overview, features, 10gbps
 
@@ -15,7 +15,10 @@ subcollection: fortigate-10g
 # About FortiGate Security Appliance 10 Gbps
 {: #about-fortigate-security-appliance-10gbps}
 
-The FortiGate Security Appliance (FSA) 10 Gbps is a single tenant (dedicated), self-managed, high-throughput (10 Gbps) hardware firewall. It includes next-generation features, such as antivirus, intrusion prevention, and web filtering. 
+Effective 17 December 2025, Fortigate Security Appliance 10Gbps on IBM Cloud has reached End of Marketing (EOM) and no longer accepts new orders. Additionally, this service will reach End of Support (EOS) on 31 December 2026. After this date, it will no longer be supported or available for use on IBM Cloud. For migration information, see [Migration options for FSA 10Gbps](/docs/fortigate-10g?topic=fortigate-10g-deprecation-fortigate#migration-options-fortigate-10g).
+{: deprecated}
+
+The FortiGate Security Appliance (FSA) 10 Gbps is a single tenant (dedicated), self-managed, high-throughput (10 Gbps) hardware firewall. It includes next-generation features, such as antivirus, intrusion prevention, and web filtering.
 {: shortdesc}
 
 This firewall can be configured to protect traffic on multiple VLANs for both public and private networks. In the Customer Portal, it is referred to as a “Multi VLAN Firewall”.
