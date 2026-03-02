@@ -16,7 +16,7 @@ subcollection: fortigate-10g
 # Deprecation of FortiGate Security Appliance 10 Gbps
 {: #deprecation-fortigate}
 
-Fortigate 10Gbps has reached End of Marketing (EOM) and no longer accepts new orders. It is deprecated on IBM Cloud as of 17 December 2025. The service will no longer be supported by {{site.data.keyword.cloud}} as of 31 December 2026 and any instances of Fortigate 10Gbps that are still running will no longer receive updates for security issues or support.
+Fortigate 10 Gbps has reached End of Marketing (EOM) and no longer accepts new orders. It is deprecated on IBM Cloud as of 17 December 2025. The service will no longer be supported by {{site.data.keyword.cloud}} as of 31 December 2026 and any instances of Fortigate 10 Gbps that are still running will no longer receive updates for security issues.
 {: shortdesc}
 
 ## Important dates
@@ -24,25 +24,25 @@ Fortigate 10Gbps has reached End of Marketing (EOM) and no longer accepts new or
 
 | Stage | Date | Description |
 | ---------------- | ----------------- | ------------------------------------------------------------ |
-| Deprecation announcement | 17 December 2025 | Announcement of the Fortigate 10Gbps deprecation. Existing instances will continue to run. |
-| End of marketing | 17 December 2025 | No new instances of Fortigate 10Gbps can be created or purchased. Existing instances will continue to run. |
-| End of support | 31 December 2026 | Running instances of Fortigate 10Gbps are no longer supported or updated. |
-{: caption="Deprecation timeline for Fortigate 10Gbps" caption-side="bottom"}
+| Deprecation announcement | 17 December 2025 | Announcement of the Fortigate 10 Gbps deprecation. Existing instances will continue to run. |
+| End of marketing | 17 December 2025 | No new instances of Fortigate 10 Gbps can be created or purchased. Existing instances will continue to run. |
+| End of support | 31 December 2026 | Running instances of Fortigate 10 Gbps are no longer supported or updated. |
+{: caption="Deprecation timeline for Fortigate 10 Gbps" caption-side="bottom"}
 
 ## Deprecation details
 {: #deprecation-details}
 
-Review the following details about the Fortigate 10Gbps deprecation:
+Review the following details about the Fortigate 10 Gbps deprecation:
 
-* Effective December 17 2025, IBM Cloud no longer accepts new orders for FortiGate Security appliance 10Gbps.
-* Any existing instances created before December 17 2025 will continue to run and receive support until 31 December 2026.
-* After 31 December 2026, support for Fortigate devices including updates, bug fixes, and technical support for the service will no longer available.
+* Effective 17 December 2025, IBM Cloud no longer accepts new orders for FortiGate Security appliance 10 Gbps.
+* Any existing instances created before 17 December 2025 will continue to run and receive support until 31 December 2026.
+* After 31 December 2026, support for Fortigate devices including updates, bug fixes, and technical support for the service will no longer be available.
 * No support cases can be opened after 31 December 2026.
 
-## Migration options for FSA 10Gbps
+## Migration options for FSA 10 Gbps
 {: #migration-options-fortigate-10g}
 
-FortiGate Security Appliance 10Gbps is expected to reach end of support on 31 December 2026. To keep your network secure and avoid any business disruptions, we recommend planning your migration well before the end of support date.
+FortiGate Security Appliance 10 Gbps is expected to reach end of support on 31 December 2026. To keep your network secure and avoid any business disruptions, we recommend planning your migration well before the end of support date.
 
 The following alternatives help you migrate to a suitable firewall offering:
 
