@@ -15,7 +15,6 @@ toc:
       topics:
       - deprecation.md
       - about.md
-      - getting-started.md
       - explore-firewalls.md
       - include: ../gateway-appliance/ga-raci.md
       - link:
