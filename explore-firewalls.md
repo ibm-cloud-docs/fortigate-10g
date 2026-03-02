@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2026
-lastupdated: "2026-02-25"
+lastupdated: "2026-03-02"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, vfsa, virtual router appliance, security, vyatta, comparison, features
 
@@ -15,15 +15,14 @@ subcollection: fortigate-10g
 # Exploring firewalls
 {: #exploring-firewalls}
 
+Effective 17 December 2025, [Fortigate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and [IBM Shared Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) on IBM Cloud have reached End of Marketing (EOM) and no longer accept new orders. Additionally, both these services will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
+{: deprecated}
+
 {{site.data.keyword.cloud}} offers several firewalls to choose from. The following table compares the firewall solutions to help you choose the most suitable one. To learn more about the individual offering, click its name in the table.
 {: shortdesc}
 
 These offerings are not managed services. When using them, you must understand the shared responsibilities between the client (or their managed services provider) and IBM. For more information, refer to [Roles and responsibilities for IBM Cloud gateways and firewalls](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-ga-raci).
 {: important}
-
-Effective 17 December 2025, [Fortigate Security Appliance 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-getting-started) and [IBM Shared Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-getting-started) on IBM Cloud have reached End of Marketing (EOM) and no longer accept new orders.
-Additionally, both these services will reach End of Support (EOS) on 31 December 2026. After this date, they will no longer be supported or available for use on IBM Cloud.
-{: attention}
 
 ## Migration options for FSA 10Gbps and IBM shared hardware firewall
 {: #migration-options-fortigate-10g-ibm-shared-firewall}
