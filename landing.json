@@ -41,8 +41,12 @@
     "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs/resources/iam_access_group"
   },
   "section_updates": {
-    "view_more": "/docs/overview?topic=overview-whatsnew",
+    "view_more": "/docs/fortigate-10g?topic=fortigate-10g-fortigate-10g-release-notes",
     "tiles": [
+      {
+        "date": "17 December 2025",
+        "title": "Fortigate 10 Gbps is deprecated as on 17 December 2025. It will reach end of support on 31 December 2026."
+      },
       {
         "date": "28 April 2022",
         "title": "You can now update a FortiGate Security Appliance (FSA) FG-1500DT 10 Gbps to the latest available firmware version by opening a support case in the IBM Cloud portal."

@@ -2,9 +2,9 @@ toc:
   properties:
     subcollection: fortigate-10g
     version: 2
-    category: network_classic
     audience: service
     href: /docs/fortigate-10g
+    release-level: deprecated
     console-page: /catalog/infrastructure/fortigate-security-appliance-10gb
     product-page: https://www.ibm.com/products/network-security
     path: fortigate-10g
@@ -13,13 +13,14 @@ toc:
   - navgroup:
       id: learn
       topics:
-      - getting-started.md
+      - deprecation.md
       - about.md
       - explore-firewalls.md
       - include: ../gateway-appliance/ga-raci.md
       - link:
           label: What is network security?
           href: https://www.ibm.com/think/topics/network-security
+      - release-notes.md
   - navgroup:
       id: howto
       topics:
