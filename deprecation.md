@@ -2,7 +2,7 @@
 
 copyright:
   years: 2026
-lastupdated: "2026-03-02"
+lastupdated: "2026-03-04"
 
 keywords: fortigate, firewall, deprecation
 
@@ -16,7 +16,7 @@ subcollection: fortigate-10g
 # Deprecation of FortiGate Security Appliance 10 Gbps
 {: #deprecation-fortigate}
 
-Fortigate 10 Gbps has reached End of Marketing (EOM) and no longer accepts new orders. It is deprecated on IBM Cloud as of 17 December 2025. The service will no longer be supported by {{site.data.keyword.cloud}} as of 31 December 2026 and any instances of Fortigate 10 Gbps that are still running will no longer receive updates for security issues.
+Fortigate 10 Gbps has reached End of Marketing (EOM) on 17 December 2025 and no longer accepts new orders on {{site.data.keyword.cloud}}. Furthermore, the service will no longer be supported by IBM Cloud as of 31 December 2026 and any instances of the device that are still running will no longer receive updates for security issues after this date.
 {: shortdesc}
 
 ## Important dates
