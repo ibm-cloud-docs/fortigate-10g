@@ -23,7 +23,7 @@ Find out about new and updated features in FSA 10 Gbps.
 {: #fortigate-10g-mar2026}
 {: release-note}
 
-Firmware version 7.2.13 for the FortiGate Security Appliance (FSA) 10 Gbps is now available in IBM Cloud and includes bug fixes and security updates. This release addresses CVE-2026-24858, a FortiCloud SSO authentication bypass vulnerability. For more information, see [Resolved issues in FortiOS 7.2.13](https://docs.fortinet.com/document/fortigate/7.2.13/fortios-release-notes/289806/resolved-issues){: external}
+Firmware version 7.2.13 for the FortiGate Security Appliance (FSA) 10 Gbps is now available in IBM Cloud and includes bug fixes and security updates. This release addresses CVE-2026-24858, a FortiCloud SSO authentication bypass vulnerability. For more information, see [Resolved issues in FortiOS 7.2.13](https://docs.fortinet.com/document/fortigate/7.2.13/fortios-release-notes/289806/resolved-issues){: external}.
 
 ## 17 December 2025
 {: #fortigate-10g-dec2025}
