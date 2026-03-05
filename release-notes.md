@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2026
-lastupdated: "2026-03-02"
+lastupdated: "2026-03-05"
 
 keywords: updates, additions, improvements
 
@@ -19,11 +19,17 @@ content-type: release-note
 
 Find out about new and updated features in FSA 10 Gbps.
 
+## 5 March 2026
+{: #fortigate-10g-mar2026}
+{: release-note}
+
+Firmware version 7.2.13 for the FortiGate Security Appliance (FSA) 10 Gbps is now available in IBM Cloud and includes bug fixes and security updates. This release addresses CVE-2026-24858, a FortiCloud SSO authentication bypass vulnerability. For more information, see [Resolved issues in FortiOS 7.2.13](https://docs.fortinet.com/document/fortigate/7.2.13/fortios-release-notes/289806/resolved-issues){: external}
+
 ## 17 December 2025
 {: #fortigate-10g-dec2025}
 {: release-note}
 
-Effective 17 December 2025, Fortigate Security Appliance 10Gbps on IBM Cloud has reached End of Marketing (EOM) and no longer accepts new orders. Additionally, this service will reach End of Support (EOS) on 31 December 2026. After this date, it will no longer be supported or available for use on IBM Cloud. For more information, see [Deprecation of Fortigate 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-deprecation-fortigate).
+Effective 17 December 2025, Fortigate Security Appliance 10 Gbps on IBM Cloud has reached End of Marketing (EOM) and no longer accepts new orders. Additionally, this service will reach End of Support (EOS) on 31 December 2026. After this date, it will no longer be supported or available for use on IBM Cloud. For more information, see [Deprecation of Fortigate 10 Gbps](/docs/fortigate-10g?topic=fortigate-10g-deprecation-fortigate).
 
 ## 28 April 2022
 {: #fortigate-10g-april2822}

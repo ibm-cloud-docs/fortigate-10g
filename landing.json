@@ -44,6 +44,10 @@
     "view_more": "/docs/fortigate-10g?topic=fortigate-10g-fortigate-10g-release-notes",
     "tiles": [
       {
+        "date": "05 March 2026",
+        "title": "FortiGate 10 Gbps firmware version 7.2.13 is now available on IBM Cloud and includes security fixes and maintenance updates."
+      },
+      {
         "date": "17 December 2025",
         "title": "Fortigate 10 Gbps is deprecated as on 17 December 2025. It will reach end of support on 31 December 2026."
       },
