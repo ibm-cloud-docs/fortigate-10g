@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2026
-lastupdated: "2026-03-05"
+lastupdated: "2026-05-26"
 
 keywords: updating, firmware, fortigate
 
@@ -49,16 +49,17 @@ During a firmware upgrade, FortiGate HA clusters that use BGP experience outages
 
 For further information, see [BGP Timers](https://community.fortinet.com/t5/FortiGate/Technical-Tip-All-configurable-BGP-timers-on-the-FortiGate/ta-p/356270){: external} and [Graceful Restart](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Configuring-FortiGate-HA-and-BGP-graceful-restart/ta-p/196150){: external}
 
-By default, FortiGate devices have a global HA configuration parameter `route-ttl`, which is set to 10 seconds in version 7.2. This parameter determines how long the new primary unit retains routes during a failover that are synchronized with it. Because of that setting, the new primary has only 10 seconds to reestablish BGP, and then relearn and advertise routes.
+By default, FortiGate devices have a global HA configuration parameter `route-ttl`, which is set to 10 seconds in version 7.2. This parameter determines how long the new primary unit retains routes during a failover that are synchronized with it. Because of that setting, the new primary has only 10 seconds to reestablish BGP and relearn and advertise routes or reconverge. The 10-second time isn't enough for most FortiGates that are set up with dynamic routing such as BGP.
 
 In conjunction, another setting `advertisement-interval`, is set to 30 seconds by default. This setting requires the new primary to wait 30 seconds after BGP goes into the established state before it can readvertise and relearn routes again. Because of the `route-ttl` and `advertisement-interval` settings, by default, a 20-second outage exists during a failover in an FGCP cluster for traffic that uses BGP routes, and for any routes in the kernel routing table (FIB).
 
 To reduce the impact during a failover, adjust the following settings:
 
-* Contact IBM Cloud Support to increase the `route-ttl` to at least 30 seconds so that the new primary has more time to reestablish BGP and retain synchronized routes.
+* Contact IBM Cloud Support to increase the `route-ttl` to at least 60 seconds so that the new primary has more time to reestablish BGP and relearn synchronized routes. Modern defaults on high-end FortiGates default to 600 seconds now. Route-ttl must be set to a value higher than the expected convergence time.
 * Reduce the `advertisement-interval` from 30 seconds to 1 second so that it accelerates route advertisement.
 * Set the BGP `keepalive timer` to 5 seconds and the `hold timer` to 15 seconds.
 * Enable the `link-down-failover` and `graceful-restart` settings for both BGP neighbors to help BGP recover faster.
+* Set `graceful-update-delay` to 20 seconds. This time reduces the maximum amount of time that the FortiGate waits for all GR capable peers to send end-of-rib marker before selecting the routes.
 
 With these configurations in place, your FortiGate can fail over with minimal disruption and the remote BGP neighbor can continue to send traffic to the failing-over FortiGate cluster. The new primary negotiates BGP to relearn and readvertise routes, which help ensure that the routes are incorporated into the kernel routing table. After 30 seconds (which is the new `route-ttl` value), the new primary discards the stale synchronized routes, but by that time, the FortiGate relearns and readvertises the original routes so that no gap in the route coverage occurs. For further optimization, carefully configure bidirectional forwarding detection (BFD).
 
