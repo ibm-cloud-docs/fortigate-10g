@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2026
-lastupdated: "2026-05-26"
+lastupdated: "2026-08-26"
 
 keywords: updating, firmware, fortigate
 
@@ -32,7 +32,7 @@ For each FortiGate device, whether High-Availability (HA) pair or a stand-alone 
 ## Downtime considerations during firmware updates
 {: #updating-fsa-10g-downtime}
 
-During firmware upgrades, FortiGate HA clusters can experience brief outages due to failovers. Each hop in the upgrade path involves failovers and restarts, which can result in temporary outages. Keep in mind that even with HA configurations, failover and outages occur, regardless of optimizations that are made to session synchronization and session pickup settings. Certain traffic types are not compatible with session pickup and require session restarts. For more details, see [HA session-pickup](https://community.fortinet.com/t5/FortiGate/Technical-Tip-HA-session-failover-session-pickup/ta-p/191165){: external}.
+During firmware upgrades, FortiGate HA clusters can experience brief outages due to failovers. Each hop in the upgrade path involves failovers and restarts, which can result in temporary outages. Keep in mind that even with HA configurations, failover and outages occur, regardless of optimizations that are made to session synchronization and session pickup settings. Certain traffic types are not compatible with session pickup and require session restarts. For more details, see [HA session-pickup](https://community.fortinet.com/fortigate-3/technical-tip-ha-session-failover-session-pickup-93706){: external}.
 
 The primary goal of session pickup and HA is to minimize outages and downtime during failover. However, management traffic, also known as control plane traffic, disconnects during failovers, and you must restart the session for it to work. This process applies to GRE and various other traffic types that are discussed in the linked article.
 {: note}
@@ -47,7 +47,7 @@ If you observe multiple failovers during firmware updates, contact IBM Cloud Sup
 
 During a firmware upgrade, FortiGate HA clusters that use BGP experience outages because the BGP process on the secondary device starts only when the device becomes primary. This mechanism causes BGP to restart (flap). The GRE sessions need to start over, whereas the IPsec sessions go down unless you enable the `ha-sync-esp-seqno` option in the phase1-interface configs. BGP flapping and convergence can lead to significant issues and prolonged outages during firmware updates. However, tuning the settings can facilitate faster failover and convergence.
 
-For further information, see [BGP Timers](https://community.fortinet.com/t5/FortiGate/Technical-Tip-All-configurable-BGP-timers-on-the-FortiGate/ta-p/356270){: external} and [Graceful Restart](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Configuring-FortiGate-HA-and-BGP-graceful-restart/ta-p/196150){: external}
+For further information, see [BGP Timers](https://community.fortinet.com/fortigate-3/technical-tip-all-configurable-bgp-timers-on-the-fortigate-explained-188536){: external} and [Graceful Restart](https://community.fortinet.com/fortigate-3/technical-tip-configuring-fortigate-ha-and-bgp-graceful-restart-to-avoid-traffic-interruption-during-an-ha-failover-97911){: external}
 
 By default, FortiGate devices have a global HA configuration parameter `route-ttl`, which is set to 10 seconds in version 7.2. This parameter determines how long the new primary unit retains routes during a failover that are synchronized with it. Because of that setting, the new primary has only 10 seconds to reestablish BGP and relearn and advertise routes or reconverge. The 10-second time isn't enough for most FortiGates that are set up with dynamic routing such as BGP.
 

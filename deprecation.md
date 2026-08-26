@@ -2,7 +2,7 @@
 
 copyright:
   years: 2026
-lastupdated: "2026-04-13"
+lastupdated: "2026-08-26"
 
 keywords: fortigate, firewall, deprecation
 
@@ -47,10 +47,12 @@ FortiGate Security Appliance 10 Gbps is expected to reach end of support on 31 D
 The following alternatives help you migrate to a suitable firewall offering:
 
 1. Recommended option:
+   * Migrate to virtual firewall in IBM Cloud VPC. For more information see, [IBM Cloud VPC firewall options](/docs/classic-to-vpc?topic=classic-to-vpc-vpc-firewall-options).
    * Migrate to the Fortinet Virtual Firewall (vFSA). See [Getting started with vFSA](/docs/vfsa?topic=vfsa-getting-started-vfsa) and [license types](/docs/vfsa?topic=vfsa-getting-started-vfsa#choosing-vfsa-license).
    * Use Forti-Converter Service that is included in the enterprise license to migrate security policies and configurations from Fortinet hardware to the Fortinet virtual appliance.
       * Register an account in the [FortiConverter Service](https://service.forticonverter.com/){: external} for customer self-managed service.
       * For help with creating a migration ticket, see the [Forti-Converter Service Ticket Guide](https://docs.fortinet.com/document/forticonverter-service/25.1.0/online-help/783478/create-forticonverter-service-ticket){: external}.
+
 1. Other virtual firewall options:
    * Juniper vSRX with Content Security Bundle: Enhanced security features, VLAN protection, HA configurations, IPS/IDS/UTM capabilities. See [Getting started with Juniper vSRX](/docs/vsrx?topic=vsrx-getting-started-vsrx).
    * Virtual Router Appliance (VRA 5600): Enterprise router with firewall, VPN, traffic shaping, and policy-based    routing. See [Getting started with Virtual Router Appliance](/docs/virtual-router-appliance?topic=virtual-router-appliance-getting-started-vra).
