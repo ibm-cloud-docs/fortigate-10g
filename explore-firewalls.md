@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2026
-lastupdated: "2026-04-13"
+lastupdated: "2026-08-26"
 
 keywords: explore, firewalls, fsa, fortigate, juniper, vsrx, vra, vfsa, virtual router appliance, security, vyatta, comparison, features
 
@@ -32,6 +32,7 @@ FortiGate Security Appliance 10Gbps and Shared Hardware Firewall are expected to
 The following alternatives help you migrate to a suitable firewall offering:
 
 1. Recommended option:
+   * Migrate to virtual firewall in IBM Cloud VPC. For more information see, [IBM Cloud VPC firewall options](/docs/classic-to-vpc?topic=classic-to-vpc-vpc-firewall-options).
    * Migrate to the Fortinet Virtual Firewall (vFSA). See [Getting started with vFSA](/docs/vfsa?topic=vfsa-getting-started-vfsa) and [license types](/docs/vfsa?topic=vfsa-getting-started-vfsa#choosing-vfsa-license).
    * Use Forti-Converter Service that is included in the enterprise license to migrate security policies and configurations from Fortinet hardware to the Fortinet virtual appliance.
       * Register an account in the [FortiConverter Service](https://service.forticonverter.com/){: external} for customer self-managed service.
